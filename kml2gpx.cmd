@@ -1,6 +1,6 @@
 SET GPSBAB=C:\Program Files (x86)\GPSBabel\gpsbabel.exe
-SET M_SOURCE=D:/GitHubRep/Maps/Kizi
-SET M_TARGET=D:/GitHubRep/Maps/Kizi
+SET M_SOURCE=D:/GitHubRep/Maps
+SET M_TARGET=D:/GitHubRep/Maps
 
 rem "%GPSBAB%" -w -r -t -i kml -f "%M_SOURCE%/RU-POI.kml" -o gpx -F "%M_SOURCE%/RU-POI.gpx"
 
