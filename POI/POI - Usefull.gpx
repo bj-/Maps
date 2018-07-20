@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2017-09-08T16:30:33.773Z</time>
+  <bounds minlat="43.440327500" minlon="39.889136600" maxlat="43.493963900" maxlon="39.941689100"/>
+  <wpt lat="43.493963900" lon="39.889136600">
+    <ele>0.000000</ele>
+    <name>Мотосервис (шиномонтаж)</name>
+    <cmt>Мотосервис (шиномонтаж)</cmt>
+    <desc>Мотосервис (шиномонтаж)</desc>
+  </wpt>
+  <wpt lat="43.440327500" lon="39.941689100">
+    <ele>0.000000</ele>
+    <name>? Мотосервис (шиномонтаж)</name>
+    <cmt>Русский Медведь Чопперс</cmt>
+    <desc>Русский Медведь Чопперс</desc>
+  </wpt>
+  <wpt lat="43.445945800" lon="39.930429200">
+    <ele>0.000000</ele>
+    <name>мотосервис (шиномонтаж)</name>
+    <cmt>Авто-мото сервис DMS&lt;br&gt;Мотосалонавтосервис, автотехцентр</cmt>
+    <desc>Авто-мото сервис DMS&lt;br&gt;Мотосалонавтосервис, автотехцентр</desc>
+  </wpt>
+</gpx>

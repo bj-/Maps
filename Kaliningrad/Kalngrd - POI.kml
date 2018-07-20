@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kalngrd - POI</name>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Паромная переправа
+</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.1303997,55.6856898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Юрмала</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          23.6343384,56.9520895,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рига_старый город</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          24.107523,56.9482043,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Немецкий (ВОВ)Командно-дальномерный пост</name>
+      <description><![CDATA[54°50'14"N 19°57'20"E]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.9555555555555,54.8372222222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остатки усадьбы</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.9648619,54.840443,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Командно-дальномерный пост</name>
+      <description>Дальномерная башня Советской ж/д артбатареи</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.9524851,54.7236338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дальномерная башня Советской ж/д артбатареи.</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.9226824,54.6826923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>немецкая береговая батарея времён ВОВ</name>
+      <description><![CDATA[Позиции немецкой артбатареи №7 "Kreuz". 5 хорошо сохранившихся мощных ж.б укрытий для боеприпасов, позиции для 4 дальнобойных орудий калибра 21см. и командный пункт.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.8986874,54.6507309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Заброшенное кладбище 19, начала 20 века</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.9014115,54.6500761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Форт Восточный (закрыт для посещения)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.8859406,54.6506968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мемориальное кладбище ВОВ</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.8819816,54.6481207,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Остатки береговой артиллерийской батареи </name>
+      <description><![CDATA[Береговая артиллерийская батарея, построена в 1888 году инженером К. Розенгартом в 150 метрах от шведской крепости Пиллау и в 300 метрах от берега моря<br>Береговая батарея имела на вооружении береговые орудия калибром 10—12 дюймов (230—305 мм) на железном лафете. В фортификационный комплекс данной батареи входит: оборонительный ров; два командных пункта на флангах батареи; питьевой колодец, укрытый в небольшом помещении левофлангового укрепления; шесть орудийных двориков, облицованных красным кирпичом и серым гранитом; три снарядных погреба; два укрытия для орудийной прислуги; подъездная дорога.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.8791666666666,54.6477777777778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Елизаветинский форт (2003г)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.8761773,54.6465812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Командный пункт арт.батареи</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.8825663,54.6455941,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бывшая позиция ЗРК С-200. Заброс???</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.0122222222222,54.6819444444444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бункер линии Дайме (Deime-Linie)</name>
+      <description><![CDATA[54°36'56"N 21°5'34"E]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          21.0927777777778,54.6155555555556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Береговая артиллерийская батарея Капорн </name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=1711Береговая артиллерийская батарея "Капорн" являлась элементом обороны Кёнигсбергского морского канала, ее орудия держали под прицелом все суда, следовавшие по каналу. Батарея оборудована железобетонными артиллерийскими позициями и бункерами для укрытия личного состава и боеприпасов.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.2816666666666,54.6941666666667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Береговая зенитная батарея "Лемберг" ]]></name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=1709 <br>Батарея являлась элементом противовоздушной обороны военно-морской базы Пиллау. Береговая зенитная батарея "Лемберг" имела на вооружении четыре орудия "S.K. C/32" калибром 105 мм. Батарея оборудована бункерами для укрытия личного состава орудийных расчетов, бункерами для хранения боеприпасов, бункером целеуказания и другими инженерными сооружениями.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.8427777777778,54.6002777777778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Береговая артиллерийская батарея "Нойтиф" ]]></name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=1708 Сооружение береговой артиллерийской батареи "Нойтиф" завершилось в 1944 году.<br><br>Батарея являлась элементом береговой обороны военно-морской базы Пиллау. Береговая артиллерийская батарея "Нойтиф" имела на вооружении четыре орудия калибром 150 мм с дальностью стрельбы 22 км и круговым сектором обстрела. Батарея оборудована бункерами для укрытия личного состава орудийных расчетов и бункерами для хранения боеприпасов.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.8705555555555,54.6269444444444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Межфортовое сооружение</name>
+      <description>http://www.prussia39.ru/sight/index.php?sid=1375</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.5738888888889,54.6644444444444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Нойхойзер Шанце </name>
+      <description>http://www.prussia39.ru/sight/index.php?sid=1084 Оборонительное сооружение, прикрывавшее Пиллау с севера, построено в 1887-1890 годах, в 1896-1897 годах был построен каземат.</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.9030555555555,54.6633333333333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Равелин "Хаберберг"  и "Фридланд"]]></name>
+      <description>http://www.prussia39.ru/sight/index.php?sid=686  http://www.prussia39.ru/sight/index.php?sid=687</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.504957,54.694522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Королевские ворота</name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=658 Первыми воротами на месте Королевских были Кальтхофские ворота, снесенные в 1717 году. Во время вхождения Кёнигсберга в состав Российской империи в 1757-1762 годах русскими инженерами на этом месте были построены Гумбинненские ворота, переименованные в 1811 году в Королевские.<br><br>В период модернизации городских укреплений Кёнигсберга в начале XIX века старые Королевские ворота были снесены. 30 августа 1843 года в присутствии короля Фридриха-Вильгельма IV состоялась торжественная закладка новых Королевских ворот, строительство которых завершилось в 1850 году. Королевские ворота построены в неоготическом стиле из кирпича по проекту генерала Эрнста Людвига фон Астера, горельефы выполнены скульптором Вильгельмом Людвигом Штюрмером.<br><br>В 1910 году, после того как оборонительные сооружения окончательно утратили военное значение, военное ведомство, в числе прочих сооружений, продало Королевские ворота городу. В начале XX века валы, примыкавшие к воротам, были срыты, и Королевские ворота стали выполнять функцию триумфальной арки.<br><br>Во время боевых действий Второй мировой войны Королевские ворота получили повреждения от бомбардировок и артиллерийских обстелов.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.535983,54.71375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Бастион "Купфертайх"]]></name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=555 Бастион "Купфертайх" был построен в 1859-1860 годах, названия получил от водоема Купфертайх (Медный пруд). В состав бастиона входили: двухъярусный редюит, земляной вал, широкий водный ров, и гласис за рвом. Все укрепления за исключением редюита были снесены в 1910-х годах.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.537136,54.712728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бастион Обертайх</name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=553 Бастион "Обертайх" построен в 1856-1860 годах по проекту шефа инженерного корпуса генерала от инфантерии Эрнста Людвига фон Астера.<br><br>Бастион "Обертайх" состоит из редюита, каземата редюита, полукапонира, пяти казематированных траверсов, рва и эскарпа.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.5265469999999,54.7221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Аусфальские ворота</name>
+      <description>http://www.prussia39.ru/sight/index.php?sid=552</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.4905252,54.7123377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Башня "Дона" (музей янтаря)]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.5232113,54.7223419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Башня "Врангель"]]></name>
+      <description>http://www.prussia39.ru/sight/index.php?sid=550</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.5141599999999,54.722641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 8 "Король Фридрих I" ]]></name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=549 Форт № 8 "Король Фридрих I", прикрывал железную и шоссейную дороги на Эльблонг.<br><br>Форт № 8 представляет собой вытянутый по фронту шестиугольник размером 205 м на 135 м, окруженный по периметру сухим рвом. Помещения и внутренние дворики расположены симметрично относительно центральной потерны. Горжевой ДОТ выполнен из кирпича.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.4314377,54.6650029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 9 "Дона" ]]></name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=548 Фортификационное сооружение города-крепости Кёнигсберг, один из двенадцати основных фортов фортового пояса "Ночная перина Кёнигсберга". ]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.4844444444444,54.6522222222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бранденбургские ворота</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.4947055,54.6972969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Россгартенские ворота</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.5237833,54.7220345,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Железнодорожные ворота</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.4905373,54.7102068,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фридландские ворота</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.5217696,54.6953718,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Закхаймские ворота</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.5382908,54.7095932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 10 "Канитц"]]></name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=542 Форт № 10 "Канитц" был построен в 1877-1881 годах. Первоначально назывался Шенфлиз и Альтенберг, переименован в честь военного министра Пруссии графа Карла Августа Вильгельма фон Канитца (1783-1852), прикрывал шоссейную дорогу на Цинтен и Домнау и железную дорогу на Домнау. В период с середины 1880-х и до 1930-х годов форт № 10 подвергался нескольким модернизациям.<br><br>Форт № 10 представляет собой вытянутый по фронту шестиугольник, окруженный водным рвом. Центральное сооружение защищено земляной насыпью. Внутренние помещения и два внутренних дворика симметрично расположены относительно центральной потерны.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.5285938,54.6508483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 11 "Дёнхофф"]]></name>
+      <description><![CDATA[http://www.prussia39.ru/sight/index.php?sid=541 Фортификационное сооружение города-крепости Кёнигсберг, один из двенадцати основных фортов фортового пояса "Ночная перина Кёнигсберга", построен в 1877-1882 годах.  <br>Форт № 11 представляет собой вытянутый по фронту шестиугольник, окруженный водным рвом. Центральное сооружение защищено земляной насыпью. Внутренние помещения и два внутренних дворика симметрично расположены относительно центральной потерны.<br><br>В ходе апрельских боев 1945 года форт № 11 "Денхофф" упорного сопротивления наступающим частям Красной Армии не оказал, гарнизон капитулировал около 13 часов 7 апреля 1945 года.<br><br>В послевоенные годы в форте № 11 хранились трофейное немецкое стрелковое оружие и боеприпасы. До весны 2014 года форт являлся объектом Министерства обороны, ныне - региональная собственность, сдаваемая в аренду. Арендатор приводит сооружения и территорию в надлежащее состояние, организует посещения форта и реконструкции.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.5677511,54.6565551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фридрихсбургские ворота (Цитадель)</name>
+      <description><![CDATA[Цитадель "Фридрихсбург" в Кёнигсберге была построена по приказу курфюрста Фридриха Вильгельма для охраны Прегеля в 1657 году по проекту X. Оттера. Цитадель имела форму квадрата, в углах которого располагались каменно-земляные бастионы: Алмаз, Жемчуг, Изумруд, Рубин. Во внутреннем дворе цитадели в разные годы были построены: казармы, складские помещения, арсенал (1796), мастерские, комендатура, караульное помещение, офицерская и солдатская тюрьмы и кирха (1671). Цитадель неоднократно модернизировалась и достраивалась.<br><br>. К середине XIX века цитадель вошла в состав второго оборонительного обвода, став именоваться фортом. В 1858 году были построены Фридрихсбургские ворота, сохранившиеся с некоторыми изменениями до настоящего времени.<br><br>Кирха и арсенал были разобраны в 1892 году. В 1910 году городские власти выкупили форт Фридрихсбург у военного ведомства за 8,5 млн. марок, после чего бастионы и куртины были срыты, водные рвы - засыпаны. От форта уцелели только Фридрихсбургские ворота.<br><br>В послевоенные годы в Фридрихсбургских воротах размещалась автоколонна № 1114, нанесшая памятнику значительный ущерб.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.4935001,54.704494,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Редюит бастиона "Прегель"]]></name>
+      <description><![CDATA[Бастион "Прегель" был построен в Кёнигсберге в 1851-1862 годах архитектором И. Штраусом, замыкал восточный фланг Хабербергского фронта. Непосредственно перед редюитом находился еще один водный ров. В 1910 году от бастиона был оставлен только редюит, все рвы, включая внутренний, были засыпаны. До 1945 года редюит использовался в качестве склада боеприпасов.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.5238443000001,54.6961087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 12 "Ойленбург" !Закрыт, объект МО]]></name>
+      <description><![CDATA[Фортификационное сооружение города-крепости Кёнигсберг, один из двенадцати основных фортов фортового пояса "Ночная перина Кёнигсберга", построен в 1884 году.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.6002777777778,54.6713888888889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 7 "Герцог фон Гольштайн" Объект МО ]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.3877777777777,54.6938888888889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 6 "Королева Луиза" (Закрыт, Объект МО)]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.4136111111111,54.7222222222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 5a "Лендорф"]]></name>
+      <description><![CDATA[Во время апрельских боев 1945 года форт № 5a "Лендорф" находился на направлении главного удара Красной Армии, подвергся сильным разрушениям.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.4275396,54.7395186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 2a "Барнеков" ]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.5713888888889,54.7558333333333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт "Штиле" ]]></name>
+      <description><![CDATA[Форт "Штиле" был построен в 1889 году, входил в комплекс фортификационных сооружений города-крепости Пиллау, назван в честь генерала Густава фон Штиле (1823-1899).<br><br>После переоборудования форт был превращен в арсенал минного оружия. В ночь на 26 января 1945 года в арсенале взорвалось около 1000 магнитных мин. На месте взрыва образовалась воронка диаметром около 100 м и глубиной около 25 м. До настоящего времени сохранился фрагмент форта: эскарповая стенка с помещениями-боксами и въездными воротами.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          19.9194444444445,54.655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт "Западный"]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.8777974,54.6374825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крепость Пиллау (Закрыт для посещения )</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.8873957000001,54.6427445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 4 "Гнейзенау"]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.4880133,54.7641562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 3 "Король Фридрих III" (доступ закрыт)]]></name>
+      <description><![CDATA[В двухэтажном центральном сооружении расположены казармы, лазарет, кухня, столовая, склады боеприпасов, продовольствия, снаряжения и топлива, караульное помещение, котельная, мастерские и вспомогательные помещения. Для жизнеобеспечения гарнизона форта предусмотрены системы отопления с дымовыми обогревательными каналами внутри стен, водоснабжения из колодца, естественной вентиляции, выгребной канализации и энергообеспечения. По обе стороны от центральной потерны расположены внутренние дворики, служащие транспортными развязками и укрытиями для орудий. Все подземные казематы имеют сводчатые перекрытия, выполненные из многократно обожженного керамического кирпича. Помещения соединяются центральной и боковыми потернами, этажи - наружными и внутренними маршевыми и винтовыми лестницами.<br><br>На боевом вале толщиной 3-4 м располагались прикрытые брустверами артиллерийские позиции с казематированными траверсами для укрытия расчетов, оборудованные талевыми подъемниками и лифтами для подъема боеприпасов и наблюдательными сооружениями с неподвижными амбразурами и вращающимися башнями. Для обороны в пределах рва в углах центрального сооружения имеются капониры и полукапониры для ведения флангового и фронтального огня. В горжевой части форта расположены казематы с амбразурами флангового огня.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.5462944,54.761459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Форт № 2 Бронзард</name>
+      <description><![CDATA[Арочный проем входа в форт, защищенный горжевым капониром, ведет в центральную потерну шириной 5 м и высотой 3,5 м, от которой в обе стороны симметрично расходятся коридоры шириной 2 м. На первом и втором этажах горжевой части форта расположены казармы, кухня, столовая, кладовые, санузлы, лазарет. Этажи соединены со стороны центральной потерны винтовыми лестницами, в конце коридоров - маршевыми. Помещения высотой 3,2 м имеют арочные оконные проемы и амбразуры.<br><br>В центральной части форта, по обе стороны от главной потерны, располагались: компрессорная, электростанция, склады, мастерские и т. п., связанные между собой коридорами. Центральная потерна соединена с кофром, от которого в стене контрэскарпа напольного рва проложены потерны к фланговым полукапонирам. Боковые выходы из центральной потерны ведут во внутренние дворики, обнесенные земляным валом с пологими аппарелями для транспортировки орудий. Из каждого дворика боковые потерны ведут в ров и к подземным складам боеприпасов. Все подземные казематы имеют сводчатые перекрытия толщиной 1,5 м из многократно обожженного керамического кирпича, защищенные земляной насыпью толщиной до 6 м. На земляной насыпи расположены казематированные траверсы с талевыми подъемниками и лифтами для подъема боеприпасов, расходные склады и наблюдательные сооружения с амбразурами. Между траверсами располагались прикрытые брустверами артиллерийские позиции.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.6011556,54.748869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Форт № 1а Грёбен</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.6079423,54.7344212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 1 "Штайн"]]></name>
+      <description><![CDATA[Центральное сооружение из красного кирпича состоит из симметрично расположенных относительно центральной потерны казарменных казематов, боковых потерн, лазарета, кухни-столовой, караульного помещения, складов и мастерских. Два внутренних дворика служили транспортными развязками и укрытиями для фортовых орудий. Сооружение защищено земляной насыпью толщиной 3-4 м, на которой располагались прикрытые брустверами артиллерийские позиции с казематированными траверсами с лифтовыми и талевыми подъемниками между ними. Двухэтажные казарменные помещения в горжевой части соединялись наружными и внутренними маршевыми и винтовыми лестницами. В связи с появлением бризантных снарядов, в 1894 году на кирпичные своды форта была уложена бетонная "подушка".]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.6045687000001,54.7061884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Форт № 5 "Король Фридрих-Вильгельм III" , музей ВОВ]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.4432144,54.7526111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

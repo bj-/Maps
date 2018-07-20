@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kalngrd - Manors and Castles</name>
+    <Style id="icon-503-7C3592-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-7C3592-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-7C3592-nodesc-normal">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-7C3592-nodesc-highlight">
+      <IconStyle>
+        <color>ff92357c</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-7C3592-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-7C3592-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-7C3592-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Адлих Лаукен (Adlig Laukischken) хорошо сохранился. музей</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.234245,54.831125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Альтхоф-Рагнит (Althof-Ragnit)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          22.006917,55.044509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Ауклаппен (Auklappen)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.670915,54.397449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Бледау (Bledau) (музей?)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.506147,54.935122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Гросс Киндшен (Gross Kindschen)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.965441,54.977122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Гросс Вонсдорф (Gross Wohnsdorf)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.123458,54.46815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Грюнхоф (Grünhof)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.369557,54.908978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Капкайм (Kapkeim)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.907822,54.633371,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Кляйн Шарлак (Klein Scharlack)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.049779,54.806594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Луговен/Гросслугау (Lugowen/Großlugau)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.582138,54.46914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Пройссиш Арнау (Preußisch Arnau)</name>
+      <description>Родники</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          20.665494,54.709881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Заукенхоф</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.710551,54.455415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Тракенен (Trakehnen)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          22.442998,54.566923,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усад Веедерн (Weedern)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          22.051738,54.424389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Замок Георенбург</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.806677,54.6605287,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Замок Инстербург</name>
+      <description>http://www.prussia39.ru/sight/index.php?sid=452</description>
+      <styleUrl>#icon-503-7C3592</styleUrl>
+      <Point>
+        <coordinates>
+          21.8069832,54.6397613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Замок Гердауэн</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.3098868,54.3642279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Мельница Гердауэна</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.308734,54.364062,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Городские Дома, Xvii-xix</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.3083745,54.3639604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Кирха Гердауэна</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.305287,54.362607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Замок Лабиау (частично музей)</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.1109738,54.8622008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Рагнитский замок</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          22.0298336,55.039278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Замок Вальдау</name>
+      <description>очень целый, музей</description>
+      <styleUrl>#icon-503-7C3592</styleUrl>
+      <Point>
+        <coordinates>
+          20.7424366,54.7006744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Замок Шаакен</name>
+      <description>неплохо сохранился. частный музей</description>
+      <styleUrl>#icon-503-7C3592</styleUrl>
+      <Point>
+        <coordinates>
+          20.6686488,54.906346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Замок Тапиау (сохранившийся флигель)</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.0739801,54.6449208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Руины замка Бальга (прикольные)</name>
+      <styleUrl>#icon-503-7C3592-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.9671183,54.5525894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Оборонительные сооружения Фридланда</name>
+      <description>остатки стен</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          21.017437,54.445185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Заалау 1376</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          21.5504226,54.6562718,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Замок Бальга</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          19.9691427,54.5523816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Замок пейсиш-Эйлау</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.6325751,54.386695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Памятная доска Наполеону Бонапарту</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.6378727,54.3857124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Указатель расстояния до европейских столиц</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          20.6408027,54.3864774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

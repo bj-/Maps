@@ -1,24 +1,630 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2016-06-10T12:50:50.225Z</time>
-  <bounds minlat="41.632500000" minlon="24.235556000" maxlat="69.950790000" maxlon="45.510250000"/>
+  <time>2018-07-20T18:25:12.861Z</time>
+  <bounds minlat="41.632500000" minlon="24.107523000" maxlat="69.950790000" maxlon="45.510250000"/>
+  <wpt lat="44.626504000" lon="33.512264000">
+    <ele>0.000000</ele>
+    <name>Константиновская батарея (Закрыта)</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/rv6fe6tWvTlXorAih4vmcmrXOU0vcpy42XgnRvFfK6pUkiiWtXO_qabjIQ-gkmIfMnNtzhtCfdb8ZeyvO0weqzLw79fO-g&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://photos.wikimapia.org/p/00/00/39/51/06_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/60/30/65_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/60/30/66_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/56/22/78_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/56/24/57_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/56/24/56_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/03/02/48/54_big.jpg) &lt;br&gt; &lt;br&gt;Константиновская батарея закрывала вход в Севастопольскую бухту неприятельским кораблям.&lt;br&gt;Построена в 1840 г. у входа в Севастопольскую бухту для усиления обороны Севастополя и его порта. Каменная казематированная батарея (94 орудия) стойко отражала удары противника в период первой обороны Севастополя в 1854-1855 гг. Было сооружено несколько подобных батарей (Михайловская и Александровская). В июне 1942 г. в районе Константиновской батареи был создан один из опорных пунктов обороны Северной стороны. В течение трех суток 70 бойцов отражали атаки противника, обеспечивая вывод последних судов из Севастопольской бухты. Так что, батарея послужила еще и в годы Второй мировой.&lt;br&gt;В настоящее время она утеряла свое военное значение.Но каждый день ровно в полдень в городе слышен звук пушечного выстрела, который производится с Константиновской батареи.&lt;br&gt;Координаты: 44°37'36&quot;N 33°30'44&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/T4qlZJd3Rwz97uyjY5IWZ4DhNc5vDgbohQs4kzwwosKwLvUdjVOmafL4pGYYHWx44UqIgdEtq7_iZOr721P78AIu4UvGkg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/7ZB183APoVtPzxe8xyX7vTNpTAei0ues8uftuipFejcFrr4k3CtvCHiXEZOUO4j5owPt4oNY4kGMl_V656Y6x-nuic5JJw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/79bOf9V5ECXrY3a1L-Eysz1eiljiSX_yrMUXOVbhuu82u5INc72NV70QgZARagWWeECAx-gTdiHm9K5bdpEnnC5b-4wizQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/hslbiNwhdcBqOFph7ZgAS6TTbAZBwGk5P75dfXPTFpTvn3TmhKJrsTuC2OKpYrX7EDeIff8H3gbBBsLaZeHR7HHrQOzmVw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/t-hO57axVOM7s1MpHdT6tXudfBfcwJlyoIWbYs8_xvYqgnMfWB9o3drig8b9Tteo32A1STOGPK3ruf_Tn32CX8zEj1x4Eg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/GEAd1ZYvi_o-lRDZTgPx_oAUE5V3LIaCPfkPzwpbwqzkmZpymVt8AbQnnqvPrmmg16wXjBM8hqzL0OYlVof29A-6nmCxMw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/OJ4h5KESfYaKTQPapAeEaxV8XXiVGL7c3J8U4ii57CyMTA1mwMkpwaGCg1hyZ__O9MWHeLDvhiZcJg-ksjtc7mcJdaW7heT28DEv18O88w9lhoXsoQrjBSiJRbGIUnedAZhedHrIVa4LDixfLfe5wsBNQSsQOPzeGS-F6O-lgo98-gKNE_pf-JTWX2u1IBPm6bLkUqZH4lT1T5Bg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/Vj7wwJliRy8WwrVTqsLJRkcml_WLkzwW_VUNqvDyl7pTlF7w5BfYFzvSmT_ENfHQdIRd299lkThYuzmgKmfFUD7Aou97NuULRBBQXmKhCBeSWY3iojewPKWy4HFOtTIF-Htf9sCrMpizPAzIH712Ve2kvOaG8cq49V08pH6WQnRKIXpHAPNOr6_dAYuYCXjtvDuhWflkrOrL6199&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/y2nUJ6RUmiQK6ImKFZxsEmqn3DCsVvK9t6BMl1-jIxDCrQ6WgkJPhhZO5qjv3kPrFn4_nF8y5hUwr-J-mpo4uS33U23KaAoIrv0SzfF7lGy_PBOhZu4NI0jED1AcnjJGmhNrrKquZzzGGOe0MH0y7LGGO8bquUNN2RRfOWikzNJu9vbteNitZgARhKkX0u8P00OCD0otj9Hk4h6s&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/rv6fe6tWvTlXorAih4vmcmrXOU0vcpy42XgnRvFfK6pUkiiWtXO_qabjIQ-gkmIfMnNtzhtCfdb8ZeyvO0weqzLw79fO-g&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://photos.wikimapia.org/p/00/00/39/51/06_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/60/30/65_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/60/30/66_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/56/22/78_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/56/24/57_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/56/24/56_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/03/02/48/54_big.jpg) &lt;br&gt; &lt;br&gt;Константиновская батарея закрывала вход в Севастопольскую бухту неприятельским кораблям.&lt;br&gt;Построена в 1840 г. у входа в Севастопольскую бухту для усиления обороны Севастополя и его порта. Каменная казематированная батарея (94 орудия) стойко отражала удары противника в период первой обороны Севастополя в 1854-1855 гг. Было сооружено несколько подобных батарей (Михайловская и Александровская). В июне 1942 г. в районе Константиновской батареи был создан один из опорных пунктов обороны Северной стороны. В течение трех суток 70 бойцов отражали атаки противника, обеспечивая вывод последних судов из Севастопольской бухты. Так что, батарея послужила еще и в годы Второй мировой.&lt;br&gt;В настоящее время она утеряла свое военное значение.Но каждый день ровно в полдень в городе слышен звук пушечного выстрела, который производится с Константиновской батареи.&lt;br&gt;Координаты: 44°37'36&quot;N 33°30'44&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/T4qlZJd3Rwz97uyjY5IWZ4DhNc5vDgbohQs4kzwwosKwLvUdjVOmafL4pGYYHWx44UqIgdEtq7_iZOr721P78AIu4UvGkg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/7ZB183APoVtPzxe8xyX7vTNpTAei0ues8uftuipFejcFrr4k3CtvCHiXEZOUO4j5owPt4oNY4kGMl_V656Y6x-nuic5JJw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/79bOf9V5ECXrY3a1L-Eysz1eiljiSX_yrMUXOVbhuu82u5INc72NV70QgZARagWWeECAx-gTdiHm9K5bdpEnnC5b-4wizQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/hslbiNwhdcBqOFph7ZgAS6TTbAZBwGk5P75dfXPTFpTvn3TmhKJrsTuC2OKpYrX7EDeIff8H3gbBBsLaZeHR7HHrQOzmVw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/t-hO57axVOM7s1MpHdT6tXudfBfcwJlyoIWbYs8_xvYqgnMfWB9o3drig8b9Tteo32A1STOGPK3ruf_Tn32CX8zEj1x4Eg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/GEAd1ZYvi_o-lRDZTgPx_oAUE5V3LIaCPfkPzwpbwqzkmZpymVt8AbQnnqvPrmmg16wXjBM8hqzL0OYlVof29A-6nmCxMw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/OJ4h5KESfYaKTQPapAeEaxV8XXiVGL7c3J8U4ii57CyMTA1mwMkpwaGCg1hyZ__O9MWHeLDvhiZcJg-ksjtc7mcJdaW7heT28DEv18O88w9lhoXsoQrjBSiJRbGIUnedAZhedHrIVa4LDixfLfe5wsBNQSsQOPzeGS-F6O-lgo98-gKNE_pf-JTWX2u1IBPm6bLkUqZH4lT1T5Bg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/Vj7wwJliRy8WwrVTqsLJRkcml_WLkzwW_VUNqvDyl7pTlF7w5BfYFzvSmT_ENfHQdIRd299lkThYuzmgKmfFUD7Aou97NuULRBBQXmKhCBeSWY3iojewPKWy4HFOtTIF-Htf9sCrMpizPAzIH712Ve2kvOaG8cq49V08pH6WQnRKIXpHAPNOr6_dAYuYCXjtvDuhWflkrOrL6199&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/y2nUJ6RUmiQK6ImKFZxsEmqn3DCsVvK9t6BMl1-jIxDCrQ6WgkJPhhZO5qjv3kPrFn4_nF8y5hUwr-J-mpo4uS33U23KaAoIrv0SzfF7lGy_PBOhZu4NI0jED1AcnjJGmhNrrKquZzzGGOe0MH0y7LGGO8bquUNN2RRfOWikzNJu9vbteNitZgARhKkX0u8P00OCD0otj9Hk4h6s&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="43.143333333" lon="40.489444444">
+    <ele>0.000000</ele>
+    <name>Мюссерский храм (развалины)</name>
+    <cmt>Мюссерский храм (развалины)</cmt>
+    <desc>Мюссерский храм (развалины)</desc>
+  </wpt>
+  <wpt lat="43.525362900" lon="39.998956900">
+    <ele>0.000000</ele>
+    <name>Подвесной мост д=432м в=200м</name>
+    <cmt>Подвесной мост д=432м в=200м</cmt>
+    <desc>Подвесной мост д=432м в=200м</desc>
+  </wpt>
+  <wpt lat="57.526388889" lon="29.907500000">
+    <ele>0.000000</ele>
+    <name>Мельница </name>
+    <cmt>Кирпичный остов мельницы, XIX в.</cmt>
+    <desc>Кирпичный остов мельницы, XIX в.</desc>
+  </wpt>
+  <wpt lat="43.150800400" lon="40.458236900">
+    <ele>0.000000</ele>
+    <name>Лиман</name>
+    <cmt>Лиман</cmt>
+    <desc>Лиман</desc>
+  </wpt>
+  <wpt lat="43.011157000" lon="41.032650800">
+    <ele>0.000000</ele>
+    <name>[3] ! Бывший ресторан «Амза»</name>
+    <cmt>[3] ! Бывший ресторан «Амза»</cmt>
+    <desc>[3] ! Бывший ресторан «Амза»</desc>
+  </wpt>
+  <wpt lat="44.628653000" lon="33.513364000">
+    <ele>0.000000</ele>
+    <name>Батарея № 2 (Закрыта)</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/CPEfOLcMTmFJmJYrR0n6i3gd5S-fm1TsH78agVdWvqlzINJFcoR6gn00ZwH9atgaXhKlLcIxx6u3D27huqKUUS3OcTLGrA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты: 44°37'44&quot;N 33°30'48&quot;E&lt;br&gt;&lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/39_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/42_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/41_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/38_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/74/76/10_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/75/16/95_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/75/16/97_big.jpg)&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/Wdy_-xrfeivPdQXNtPpdftlvk9YH88rkXz352vb_YkONWpGATiwINx-8F4Wf5oVROHltEoQP_YwRabF8JDh0qGcm_fiI0Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/ZJLOVVfvDubusyxcbaUryMK9H03DOhjSqqlOTYfdBiPdd_kglvEuyH3LCBvcXj9U2WhcmiO-WClNHPDxSz2CXbv6QEvQdg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/s5nHHX6tzDbEllc-a0YzKJS8Oet8-GE4iJMDJkg3251ZEToTpriqeo9Cie79MnCCuJDJ_zFPa2XR3PQAcYOs8suzE8kOig&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/Hz8rka-FkBLABc8yxQXVIfLoyJ3-bF9bWbz-v-AqxizBw3x3ACMunU8iVEqt85lIhvgOv0ULNXNXBMTe27eGVnWQW79_rA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/nRZ0PkU97eo7xr_sVXiKPpvIwPLZ6alzGwjQoKwSBaV7RJ6ZkbxIgISjdoAnWu7bNFHt-giZ86hZnYgDPLY-4-HmcNYYEw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/31gtxiacLf2tAjYhRCZmVW5jdzpz4eQqNeNRLmpmlUP__MTu02L067GqQosXMEwPn_yVRwLt0sa4Sf2ie-IjtajphjCCQg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/cgw8M-Gm7J04p5nqaF7QbuXhTNmdiX9cyxNVAfIkY2r9rX28V5MNJXPeawur_gpm3xf78lnsra6jAzsk36QHaUsDiH79WAjTw5BrHhO-5FK_Gyy9shTHYsSo_0A6_FjUP3rPW_Bk4fuhLKlLmUp4Yq_Npb7echC8o6lI8IJ90_3T3hOJobw0b_7LkOHgIoC75p28tweizU4n62F3&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/IXa63roYqzKE9m30N6YX-c9sssvszfQhi0TtuPzQZj48Eg2gg-8EdBNT_fstf14HDSNh6Wo9widoPGRTfpjnqaPfBnPsb0nUBlGFqFr_ACWijeQZ0kHAVA9u4VPOrl04bFmsY4oClOSFmvqBfTX1-kepLEkXZu2ZBZXmTqfsplIzf_rA-oQtQTku0RgTF1RTQlBktztFmcn3SRmK&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/Iibn_DVNdVkMpZUdADKh0ak3STtp9A_c8-ChAx0plMfEIcnl-SqaUzQPZ0t8TgYQC8quA5dEeCF_c9ToA0jKmTqbFQicQzPAAt1W76iZjL31GBNdY2G2iwhxpjF9eqxLY3KqfEfWFWA8wD_uLOdtenvVK-IPKASTS8V88ZDxIU66I3YKzLBkrIREwa69RzlmP4WRGACk1FgTlzi-&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/CPEfOLcMTmFJmJYrR0n6i3gd5S-fm1TsH78agVdWvqlzINJFcoR6gn00ZwH9atgaXhKlLcIxx6u3D27huqKUUS3OcTLGrA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты: 44°37'44&quot;N 33°30'48&quot;E&lt;br&gt;&lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/39_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/42_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/41_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/06/38_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/00/74/76/10_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/75/16/95_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/75/16/97_big.jpg)&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/Wdy_-xrfeivPdQXNtPpdftlvk9YH88rkXz352vb_YkONWpGATiwINx-8F4Wf5oVROHltEoQP_YwRabF8JDh0qGcm_fiI0Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/ZJLOVVfvDubusyxcbaUryMK9H03DOhjSqqlOTYfdBiPdd_kglvEuyH3LCBvcXj9U2WhcmiO-WClNHPDxSz2CXbv6QEvQdg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/s5nHHX6tzDbEllc-a0YzKJS8Oet8-GE4iJMDJkg3251ZEToTpriqeo9Cie79MnCCuJDJ_zFPa2XR3PQAcYOs8suzE8kOig&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/Hz8rka-FkBLABc8yxQXVIfLoyJ3-bF9bWbz-v-AqxizBw3x3ACMunU8iVEqt85lIhvgOv0ULNXNXBMTe27eGVnWQW79_rA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/nRZ0PkU97eo7xr_sVXiKPpvIwPLZ6alzGwjQoKwSBaV7RJ6ZkbxIgISjdoAnWu7bNFHt-giZ86hZnYgDPLY-4-HmcNYYEw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/31gtxiacLf2tAjYhRCZmVW5jdzpz4eQqNeNRLmpmlUP__MTu02L067GqQosXMEwPn_yVRwLt0sa4Sf2ie-IjtajphjCCQg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/cgw8M-Gm7J04p5nqaF7QbuXhTNmdiX9cyxNVAfIkY2r9rX28V5MNJXPeawur_gpm3xf78lnsra6jAzsk36QHaUsDiH79WAjTw5BrHhO-5FK_Gyy9shTHYsSo_0A6_FjUP3rPW_Bk4fuhLKlLmUp4Yq_Npb7echC8o6lI8IJ90_3T3hOJobw0b_7LkOHgIoC75p28tweizU4n62F3&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/IXa63roYqzKE9m30N6YX-c9sssvszfQhi0TtuPzQZj48Eg2gg-8EdBNT_fstf14HDSNh6Wo9widoPGRTfpjnqaPfBnPsb0nUBlGFqFr_ACWijeQZ0kHAVA9u4VPOrl04bFmsY4oClOSFmvqBfTX1-kepLEkXZu2ZBZXmTqfsplIzf_rA-oQtQTku0RgTF1RTQlBktztFmcn3SRmK&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/Iibn_DVNdVkMpZUdADKh0ak3STtp9A_c8-ChAx0plMfEIcnl-SqaUzQPZ0t8TgYQC8quA5dEeCF_c9ToA0jKmTqbFQicQzPAAt1W76iZjL31GBNdY2G2iwhxpjF9eqxLY3KqfEfWFWA8wD_uLOdtenvVK-IPKASTS8V88ZDxIU66I3YKzLBkrIREwa69RzlmP4WRGACk1FgTlzi-&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="42.846332000" lon="41.685219000">
+    <ele>0.000000</ele>
+    <name>Полумертвый город</name>
+    <cmt>Полумертвый город</cmt>
+    <desc>Полумертвый город</desc>
+  </wpt>
+  <wpt lat="52.811095400" lon="27.556012300">
+    <ele>0.000000</ele>
+    <name>Горно-проходческий комбайн ШБМ-2</name>
+    <cmt>Горно-проходческий комбайн ШБМ-2</cmt>
+    <desc>Горно-проходческий комбайн ШБМ-2</desc>
+  </wpt>
+  <wpt lat="42.922774800" lon="41.124674700">
+    <ele>0.000000</ele>
+    <name>[3] Нижний корпус дворца Смецкого </name>
+    <cmt>[3] Нижний корпус дворца Смецкого </cmt>
+    <desc>[3] Нижний корпус дворца Смецкого </desc>
+  </wpt>
+  <wpt lat="53.137973100" lon="29.195355400">
+    <ele>0.000000</ele>
+    <name>Бабруйск (вокзал)</name>
+    <cmt>Бабруйск (вокзал)</cmt>
+    <desc>Бабруйск (вокзал)</desc>
+  </wpt>
+  <wpt lat="42.844090000" lon="41.672688000">
+    <ele>0.000000</ele>
+    <name>Канатка нижняя станция</name>
+    <cmt>заброс</cmt>
+    <desc>заброс</desc>
+  </wpt>
+  <wpt lat="42.845614000" lon="41.683422000">
+    <ele>0.000000</ele>
+    <name>канатка верх</name>
+    <cmt>заброс</cmt>
+    <desc>заброс</desc>
+  </wpt>
+  <wpt lat="55.118611000" lon="26.766645500">
+    <ele>0.000000</ele>
+    <name>Аэродром Поставы (Сохран хор)</name>
+    <cmt>Хорошо сохранились технические и вспомогательные строения, склады и ангары. Вот только сохранились потому что за забором.</cmt>
+    <desc>Хорошо сохранились технические и вспомогательные строения, склады и ангары. Вот только сохранились потому что за забором.</desc>
+  </wpt>
+  <wpt lat="52.785001700" lon="27.546401900">
+    <ele>0.000000</ele>
+    <name>Памятник загребущему шахтеру</name>
+    <cmt>непропорционально большие руки. толи копал руками, толи рукастой снегоуборочной машиной подрабатывал</cmt>
+    <desc>непропорционально большие руки. толи копал руками, толи рукастой снегоуборочной машиной подрабатывал</desc>
+  </wpt>
+  <wpt lat="42.842170000" lon="41.677537000">
+    <ele>0.000000</ele>
+    <name>Ткварчельская ГРЭС</name>
+    <cmt>заброс</cmt>
+    <desc>заброс</desc>
+  </wpt>
+  <wpt lat="52.243714800" lon="26.805262000">
+    <ele>0.000000</ele>
+    <name>Памятник гномьему паровозу</name>
+    <cmt>Памятник гномьему паровозу</cmt>
+    <desc>Памятник гномьему паровозу</desc>
+  </wpt>
+  <wpt lat="42.925088400" lon="41.124106000">
+    <ele>0.000000</ele>
+    <name>[З] Белый корпус дворца Смецкого </name>
+    <cmt>[З] Белый корпус дворца Смецкого </cmt>
+    <desc>[З] Белый корпус дворца Смецкого </desc>
+  </wpt>
+  <wpt lat="52.121665300" lon="26.085700400">
+    <ele>0.000000</ele>
+    <name>Черновик. Башня таможенника</name>
+    <cmt>Черновик. Башня таможенника</cmt>
+    <desc>Черновик. Башня таможенника</desc>
+  </wpt>
+  <wpt lat="52.152899900" lon="26.091837300">
+    <ele>0.000000</ele>
+    <name>Памятник мелиораторам: Бульдозер ДЗ-171.1 на базе трактора Т-170.</name>
+    <cmt>Памятник мелиораторам: Бульдозер ДЗ-171.1 на базе трактора Т-170.</cmt>
+    <desc>Памятник мелиораторам: Бульдозер ДЗ-171.1 на базе трактора Т-170.</desc>
+  </wpt>
+  <wpt lat="52.111256000" lon="26.104159400">
+    <ele>0.000000</ele>
+    <name>Трактор ХТЗ-15/30</name>
+    <cmt>Трактор ХТЗ-15/30</cmt>
+    <desc>Трактор ХТЗ-15/30</desc>
+  </wpt>
+  <wpt lat="42.538299200" lon="41.788440900">
+    <ele>0.000000</ele>
+    <name>[З] Руины железнодорожного моста через реку Ингур </name>
+    <cmt>Эхо войны</cmt>
+    <desc>Эхо войны</desc>
+  </wpt>
+  <wpt lat="42.858192500" lon="41.773200600">
+    <ele>0.000000</ele>
+    <name>Больница</name>
+    <cmt>Больница</cmt>
+    <desc>Больница</desc>
+  </wpt>
+  <wpt lat="42.858051000" lon="41.774219900">
+    <ele>0.000000</ele>
+    <name>Точка 619</name>
+    <cmt>Точка 619</cmt>
+    <desc>Точка 619</desc>
+  </wpt>
+  <wpt lat="53.053075700" lon="28.995441200">
+    <ele>0.000000</ele>
+    <name>Вход 2</name>
+    <cmt>Вход 2</cmt>
+    <desc>Вход 2</desc>
+  </wpt>
+  <wpt lat="53.140463800" lon="29.239554400">
+    <ele>0.000000</ele>
+    <name>Бобруйская крепость</name>
+    <cmt>Оборонительные сооружения, построенные в начале XIX века для защиты от Наполеона. Сдерживала осаду наполеоновских войск на протяжении 3 месяцев, задерживая наступление на этом направлении.&lt;br&gt;В дальнейшем использовалась как казематная тюрьма в царской России.&lt;br&gt;В наши дни некоторые из фортификационных сооружений продолжают использоваться как СИЗО, складские помещения, некоторые заброшены и доступны для осмотра.&lt;br&gt;&lt;br&gt;deletant.livejournal.com/43644.html&lt;br&gt;deletant.livejournal.com/44601.html&lt;br&gt;deletant.livejournal.com/45585.html&lt;br&gt;deletant.livejournal.com/46001.html&lt;br&gt;abandoned-legacy.net/gallery/zabroshennaya-krepost-mogi...&lt;br&gt;meridian28.com/report/fort_bobruisk_1.html&lt;br&gt;meridian28.com/report/fort_bobruisk_2.html</cmt>
+    <desc>Оборонительные сооружения, построенные в начале XIX века для защиты от Наполеона. Сдерживала осаду наполеоновских войск на протяжении 3 месяцев, задерживая наступление на этом направлении.&lt;br&gt;В дальнейшем использовалась как казематная тюрьма в царской России.&lt;br&gt;В наши дни некоторые из фортификационных сооружений продолжают использоваться как СИЗО, складские помещения, некоторые заброшены и доступны для осмотра.&lt;br&gt;&lt;br&gt;deletant.livejournal.com/43644.html&lt;br&gt;deletant.livejournal.com/44601.html&lt;br&gt;deletant.livejournal.com/45585.html&lt;br&gt;deletant.livejournal.com/46001.html&lt;br&gt;abandoned-legacy.net/gallery/zabroshennaya-krepost-mogi...&lt;br&gt;meridian28.com/report/fort_bobruisk_1.html&lt;br&gt;meridian28.com/report/fort_bobruisk_2.html</desc>
+  </wpt>
+  <wpt lat="43.004168500" lon="41.018947400">
+    <ele>0.000000</ele>
+    <name>[3] здание Верховного Совета Абхазской АССР</name>
+    <cmt>Бывший дом правительства Абхазской АССР. Здание построено в 1932–1939 гг., архитекторы В. А. Щуко, В. Г. Гельфрейх.&lt;br&gt;Центральная часть построена в 1980-е годы.&lt;br&gt;Сожжено в сентябре 1993 года в ходе освобождения Сухума.</cmt>
+    <desc>Бывший дом правительства Абхазской АССР. Здание построено в 1932–1939 гг., архитекторы В. А. Щуко, В. Г. Гельфрейх.&lt;br&gt;Центральная часть построена в 1980-е годы.&lt;br&gt;Сожжено в сентябре 1993 года в ходе освобождения Сухума.</desc>
+  </wpt>
+  <wpt lat="42.853446000" lon="41.729400200">
+    <ele>0.000000</ele>
+    <name>[З] Обогатительная фабрика и Вокзал</name>
+    <cmt>[З] Обогатительная фабрика и Вокзал</cmt>
+    <desc>[З] Обогатительная фабрика и Вокзал</desc>
+  </wpt>
+  <wpt lat="42.924683800" lon="41.123220900">
+    <ele>0.000000</ele>
+    <name>[З] ! Санаторий им. Ленина</name>
+    <cmt>Два исторических здания (белое и красное) санатория «Гульрипш», построеных промышленником Н.Н.Смецким в 1902-1913 годах.&lt;br&gt;&quot;Белое здание&quot; и &quot;Красное здание&quot; - частично разобраны и разрушены после войны 92-93гг.</cmt>
+    <desc>Два исторических здания (белое и красное) санатория «Гульрипш», построеных промышленником Н.Н.Смецким в 1902-1913 годах.&lt;br&gt;&quot;Белое здание&quot; и &quot;Красное здание&quot; - частично разобраны и разрушены после войны 92-93гг.</desc>
+  </wpt>
+  <wpt lat="43.147500000" lon="40.464166667">
+    <ele>0.000000</ele>
+    <name>именее мюссера нефтепромышленника А.Г. Лианозова</name>
+    <cmt>именее мюссера нефтепромышленника А.Г. Лианозова</cmt>
+    <desc>именее мюссера нефтепромышленника А.Г. Лианозова</desc>
+  </wpt>
+  <wpt lat="42.858625100" lon="41.772530100">
+    <ele>0.000000</ele>
+    <name>Дом</name>
+    <cmt>Дом</cmt>
+    <desc>Дом</desc>
+  </wpt>
+  <wpt lat="42.844385000" lon="41.674104000">
+    <ele>0.000000</ele>
+    <name>жд вокзал</name>
+    <cmt>жд вокзал</cmt>
+    <desc>жд вокзал</desc>
+  </wpt>
+  <wpt lat="42.857563400" lon="41.775936500">
+    <ele>0.000000</ele>
+    <name>Дом</name>
+    <cmt>Дом</cmt>
+    <desc>Дом</desc>
+  </wpt>
+  <wpt lat="42.978104000" lon="41.061179000">
+    <ele>0.000000</ele>
+    <name>[З] ЖД Станция</name>
+    <cmt>[З] ЖД Станция</cmt>
+    <desc>[З] ЖД Станция</desc>
+  </wpt>
+  <wpt lat="42.867149700" lon="41.120055900">
+    <ele>0.000000</ele>
+    <name>[3] Здание нового терминала</name>
+    <cmt>[3] Здание нового терминала</cmt>
+    <desc>[3] Здание нового терминала</desc>
+  </wpt>
+  <wpt lat="42.868777500" lon="41.121439900">
+    <ele>0.000000</ele>
+    <name>[З] Гостиница</name>
+    <cmt>[З] Гостиница</cmt>
+    <desc>[З] Гостиница</desc>
+  </wpt>
+  <wpt lat="52.802044700" lon="27.455306100">
+    <ele>0.000000</ele>
+    <name>Памятник яйцу</name>
+    <cmt>Памятник яйцу</cmt>
+    <desc>Памятник яйцу</desc>
+  </wpt>
+  <wpt lat="42.999444444" lon="41.023055556">
+    <ele>0.000000</ele>
+    <name>[3] Стройка и упавший кран</name>
+    <cmt>[3] Стройка и упавший кран</cmt>
+    <desc>[3] Стройка и упавший кран</desc>
+  </wpt>
+  <wpt lat="56.948204000" lon="24.107523000">
+    <ele>0.000000</ele>
+    <name>Рига_старый город</name>
+    <cmt>Рига_старый город</cmt>
+    <desc>Рига_старый город</desc>
+  </wpt>
+  <wpt lat="43.091997000" lon="40.815311400">
+    <ele>0.000000</ele>
+    <name>! ЖД Станция (из горы в гору)</name>
+    <cmt>Не заброс, но очень симпатично и антуражно</cmt>
+    <desc>Не заброс, но очень симпатично и антуражно</desc>
+  </wpt>
+  <wpt lat="43.090000000" lon="40.816666667">
+    <ele>0.000000</ele>
+    <name>Недостроенный санаторий</name>
+    <cmt>Недостроенный санаторий</cmt>
+    <desc>Недостроенный санаторий</desc>
+  </wpt>
+  <wpt lat="43.009921400" lon="41.032961900">
+    <ele>0.000000</ele>
+    <name>Фонтан</name>
+    <cmt>Фонтан</cmt>
+    <desc>Фонтан</desc>
+  </wpt>
+  <wpt lat="43.087277100" lon="40.813213800">
+    <ele>0.000000</ele>
+    <name>Газетный стенд</name>
+    <cmt>Газетный стенд</cmt>
+    <desc>Газетный стенд</desc>
+  </wpt>
+  <wpt lat="43.030753000" lon="41.076279600">
+    <ele>0.000000</ele>
+    <name>Беслетский мост &quot;Царицы Тамары&quot;</name>
+    <cmt>Мост в виде арки, из бутового камня и раствора на основе яичного белка. Построен ранее XII века, так как примерно в это время, по мнению ученых, на его камни нанесена надпись &quot;Христос владыка, возвеличь в этой и той жизни...&quot;</cmt>
+    <desc>Мост в виде арки, из бутового камня и раствора на основе яичного белка. Построен ранее XII века, так как примерно в это время, по мнению ученых, на его камни нанесена надпись &quot;Христос владыка, возвеличь в этой и той жизни...&quot;</desc>
+  </wpt>
+  <wpt lat="43.188919100" lon="40.722053600">
+    <ele>0.000000</ele>
+    <name>три платана 600-800 лет</name>
+    <cmt>Здесь растут три платана, один из которых достигает в высоту 49 метров, окружность 13,5 метров, под его кроной может разместиться до 500 человек, а возраст его примерно 800 лет.&lt;br&gt;В центре на площади стоит 600-летний платан высотой до 35 м, с огромным дуплом.</cmt>
+    <desc>Здесь растут три платана, один из которых достигает в высоту 49 метров, окружность 13,5 метров, под его кроной может разместиться до 500 человек, а возраст его примерно 800 лет.&lt;br&gt;В центре на площади стоит 600-летний платан высотой до 35 м, с огромным дуплом.</desc>
+  </wpt>
+  <wpt lat="42.856147700" lon="41.673374200">
+    <ele>0.000000</ele>
+    <name>в прошлом промышленный город. памятник индустриальной эпохи - самый жуткий и заброшенный город в Абхазии</name>
+    <cmt>в прошлом промышленный город. памятник индустриальной эпохи - самый жуткий и заброшенный город в Абхазии</cmt>
+    <desc>в прошлом промышленный город. памятник индустриальной эпохи - самый жуткий и заброшенный город в Абхазии</desc>
+  </wpt>
+  <wpt lat="43.260067300" lon="40.277139500">
+    <ele>0.000000</ele>
+    <name>[3] Башенный кран. 20 лет стоит</name>
+    <cmt>[3] Башенный кран. 20 лет стоит</cmt>
+    <desc>[3] Башенный кран. 20 лет стоит</desc>
+  </wpt>
+  <wpt lat="43.030921700" lon="41.076727500">
+    <ele>0.000000</ele>
+    <name>Печь для обжига извести </name>
+    <cmt>Печь для обжига извести </cmt>
+    <desc>Печь для обжига извести </desc>
+  </wpt>
+  <wpt lat="43.256111111" lon="40.291388889">
+    <ele>0.000000</ele>
+    <name>[3] Школа, Техника</name>
+    <cmt>небольшие развалы техники</cmt>
+    <desc>небольшие развалы техники</desc>
+  </wpt>
+  <wpt lat="42.842421900" lon="41.680047500">
+    <ele>0.000000</ele>
+    <name>Дизельная дрезина</name>
+    <cmt>Дизельная дрезина</cmt>
+    <desc>Дизельная дрезина</desc>
+  </wpt>
+  <wpt lat="43.030755000" lon="41.077486500">
+    <ele>0.000000</ele>
+    <name>Дореволюционный известковый завод</name>
+    <cmt>Дореволюционный известковый завод</cmt>
+    <desc>Дореволюционный известковый завод</desc>
+  </wpt>
+  <wpt lat="58.514722222" lon="29.100833333">
+    <ele>0.000000</ele>
+    <name>Чудо камень с лункой воды</name>
+    <cmt>Чудесный валун с выемкой, в которой всегда есть вода (даже в сухую погоду), которая чудотворно излечивает от хвори многих страждующих. Рядом в подлеске можно увидеть захоронения излечившихся  и умерших совершенно здоровыми.</cmt>
+    <desc>Чудесный валун с выемкой, в которой всегда есть вода (даже в сухую погоду), которая чудотворно излечивает от хвори многих страждующих. Рядом в подлеске можно увидеть захоронения излечившихся  и умерших совершенно здоровыми.</desc>
+  </wpt>
+  <wpt lat="42.971371200" lon="41.066411700">
+    <ele>0.000000</ele>
+    <name>ЖД Мост недействующий</name>
+    <cmt>ЖД Мост недействующий</cmt>
+    <desc>ЖД Мост недействующий</desc>
+  </wpt>
+  <wpt lat="42.856159500" lon="41.735590700">
+    <ele>0.000000</ele>
+    <name>ЖД мост</name>
+    <cmt>ЖД мост</cmt>
+    <desc>ЖД мост</desc>
+  </wpt>
+  <wpt lat="58.660000000" lon="32.802500000">
+    <ele>0.000000</ele>
+    <name>Очень занятный дом</name>
+    <cmt>Господский дом-столовая&lt;br&gt;Усадебный дом Бараша выглядит очень необычно в такой глухомани, теперь это столовая для душевнобольных.&lt;br&gt;Здание сгорело в ночь с 12 на 13 сентября 2013 г</cmt>
+    <desc>Господский дом-столовая&lt;br&gt;Усадебный дом Бараша выглядит очень необычно в такой глухомани, теперь это столовая для душевнобольных.&lt;br&gt;Здание сгорело в ночь с 12 на 13 сентября 2013 г</desc>
+  </wpt>
+  <wpt lat="58.844240000" lon="30.360797000">
+    <ele>0.000000</ele>
+    <name>Борщёвские пещеры</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/4aGizcvmj7tIN0vLPMlcAJ1v1SiUu-GIhbPZ9ur0K8cMSMYrGhtFv2wfypVA_zDHlPGqrZPeS9moenoeASnOZaKOoLOv4A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=1754909)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=1754911)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=2982145)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=3376243)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;  	    	Каменоломни, где добывался кварцевый песок. Очень красивое место, сами пещеры небольшие, но красивые. &lt;br&gt; &lt;br&gt;http://www.liveinternet.ru/users/linuel/blog#post69271995&lt;br&gt;http://cheshirca.homeip.net/gal/oredez/base0.html &lt;br&gt;http://www.geocaching.su/?pn=101&amp;cid=1304&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/EH8rEvessIvnIJxwuWTeoKN1iXhYyUfRnfA9XjSP_mODDLj0Kzhqp-F2XYRh3gMiogaulxFrj0A0mMZgFvzSEMNxxReQTQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/0DDK-EG_RvlzQuaoVZ2Awca8Vk-hM3T-YQbkIP240bf8AKp4dRm76fain0uyvtnoTzliqMp9TkVtUHteeXZMmwS5iNi_rg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/iX9U_p42ScdmewG5kaMgKH1sfhrHJo1oASBun-MIAGyPOyMQtTm9AAeTHBMhxSfABXKNc3P2FkQP10SaNBdsk8BVnQ1btg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/ZIu84nKFRcLtL2lCjy1b-HzD6ke4jIarAliOHsH3Qoxlftbz8UQmkYUoEuW8VecKvudCJGP0bnKnLNaVb_Jan6R7FZw2cg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/qJ--w1fQBZnuWsGz4RfGxmOzqTvZ-Gypqf3dlLpqD-VFkgJspJm_sWxF3VY1ur5iVCfEnIjIduUNlgat8kY1GBLUBMU-WZoteQ8KChmXyQBLdD0CNqIakDDZ1CpH9qlJ7XP-V6pZToX_j7T9FJBed57-dq5XfzPWe29IP-e0XMMHQTiaUa63kooXSstWhlW4X8aJFdryaAU7XLtP&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/udk8cW5vIoej77gHN5dlaJ6TPJ9Su5qvZOPb8-G1dnB2zdi1utvVwlRty3khGcyS3-kwQLW8SsUOPfI_3S4Efcuxf7s_EPeKGzf7-Q_eDM7-zk490FMhEOOEZpp0hO0ut3bmzjP3Q83LCqSrtw0Pzjd16pSeYRFWPdWqKSqn2JEMOI9uoX0oP4CnHDhMTtL_eqCHJCppSlnuuixj&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/gtygna1eo4F-RND6UP3_tAjvU56ijidlGJW1O7u_stjPvYl8XcFkuE7mTdrmpGIJKbf1wqke4VHNprAhgXjte3DDpEmqvfDFCEIr0jzJ98es9HqICzDrUU-Ya7zZQnYsmw4U2QNgpritbgmZGtJHzsziiinS_XfapzsRhEpQus7EeiDSGAzO0mRhQrInBQZAcaxeZWmKxwX0hQFX&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/2vgjGyIe8xU7drEGO-hrP-FyET3e8pUMaOus9SfSd8aaevnKJnJfUmX4VmEzpSocK1vpFU0h6RogohTuCdqct_gVOD9rZGT7QKmTGqGmUBffgeqgRCio8IsBRi-aSxCkay-rtfj_ZQnf05mCcSFE-QAj5MwVmDMLMmvglhvoG7crmhYk4tJOC92L7K88EDVUJZlF0EEg-yqcf0pS&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/Fqcc1FSKKx5y5aOsB3kITaNd0t3RVjA21GVjXEzkBJKaALUzuhMvTpl9wanrGYvcieN30sdjtnZoKnvTBg54QeFGD8lfItfN8SshDOzNExKfdDTGXLv1chQLJgNMxdOwFRVHIuiY-7SFjxLLoqWRlx-alYcalAo7LK0sibrQtX_x3xVYvCjAWqQ5a1GKlWmnOaZyldbTowx7op8r&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/4aGizcvmj7tIN0vLPMlcAJ1v1SiUu-GIhbPZ9ur0K8cMSMYrGhtFv2wfypVA_zDHlPGqrZPeS9moenoeASnOZaKOoLOv4A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=1754909)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=1754911)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=2982145)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=4299440&amp;type=1&amp;lng=1&amp;id=3376243)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;  	    	Каменоломни, где добывался кварцевый песок. Очень красивое место, сами пещеры небольшие, но красивые. &lt;br&gt; &lt;br&gt;http://www.liveinternet.ru/users/linuel/blog#post69271995&lt;br&gt;http://cheshirca.homeip.net/gal/oredez/base0.html &lt;br&gt;http://www.geocaching.su/?pn=101&amp;cid=1304&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/EH8rEvessIvnIJxwuWTeoKN1iXhYyUfRnfA9XjSP_mODDLj0Kzhqp-F2XYRh3gMiogaulxFrj0A0mMZgFvzSEMNxxReQTQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/0DDK-EG_RvlzQuaoVZ2Awca8Vk-hM3T-YQbkIP240bf8AKp4dRm76fain0uyvtnoTzliqMp9TkVtUHteeXZMmwS5iNi_rg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/iX9U_p42ScdmewG5kaMgKH1sfhrHJo1oASBun-MIAGyPOyMQtTm9AAeTHBMhxSfABXKNc3P2FkQP10SaNBdsk8BVnQ1btg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/ZIu84nKFRcLtL2lCjy1b-HzD6ke4jIarAliOHsH3Qoxlftbz8UQmkYUoEuW8VecKvudCJGP0bnKnLNaVb_Jan6R7FZw2cg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/qJ--w1fQBZnuWsGz4RfGxmOzqTvZ-Gypqf3dlLpqD-VFkgJspJm_sWxF3VY1ur5iVCfEnIjIduUNlgat8kY1GBLUBMU-WZoteQ8KChmXyQBLdD0CNqIakDDZ1CpH9qlJ7XP-V6pZToX_j7T9FJBed57-dq5XfzPWe29IP-e0XMMHQTiaUa63kooXSstWhlW4X8aJFdryaAU7XLtP&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/udk8cW5vIoej77gHN5dlaJ6TPJ9Su5qvZOPb8-G1dnB2zdi1utvVwlRty3khGcyS3-kwQLW8SsUOPfI_3S4Efcuxf7s_EPeKGzf7-Q_eDM7-zk490FMhEOOEZpp0hO0ut3bmzjP3Q83LCqSrtw0Pzjd16pSeYRFWPdWqKSqn2JEMOI9uoX0oP4CnHDhMTtL_eqCHJCppSlnuuixj&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/gtygna1eo4F-RND6UP3_tAjvU56ijidlGJW1O7u_stjPvYl8XcFkuE7mTdrmpGIJKbf1wqke4VHNprAhgXjte3DDpEmqvfDFCEIr0jzJ98es9HqICzDrUU-Ya7zZQnYsmw4U2QNgpritbgmZGtJHzsziiinS_XfapzsRhEpQus7EeiDSGAzO0mRhQrInBQZAcaxeZWmKxwX0hQFX&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/2vgjGyIe8xU7drEGO-hrP-FyET3e8pUMaOus9SfSd8aaevnKJnJfUmX4VmEzpSocK1vpFU0h6RogohTuCdqct_gVOD9rZGT7QKmTGqGmUBffgeqgRCio8IsBRi-aSxCkay-rtfj_ZQnf05mCcSFE-QAj5MwVmDMLMmvglhvoG7crmhYk4tJOC92L7K88EDVUJZlF0EEg-yqcf0pS&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/Fqcc1FSKKx5y5aOsB3kITaNd0t3RVjA21GVjXEzkBJKaALUzuhMvTpl9wanrGYvcieN30sdjtnZoKnvTBg54QeFGD8lfItfN8SshDOzNExKfdDTGXLv1chQLJgNMxdOwFRVHIuiY-7SFjxLLoqWRlx-alYcalAo7LK0sibrQtX_x3xVYvCjAWqQ5a1GKlWmnOaZyldbTowx7op8r&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="52.625900000" lon="35.693586000">
+    <ele>0.000000</ele>
+    <name>Бельдяжки</name>
+    <cmt>Бельдяжки</cmt>
+    <desc>Бельдяжки</desc>
+  </wpt>
+  <wpt lat="42.929805900" lon="41.099885700">
+    <ele>0.000000</ele>
+    <name>[З] Столовая (вывеска на дверях)</name>
+    <cmt>[З] Столовая (вывеска на дверях)</cmt>
+    <desc>[З] Столовая (вывеска на дверях)</desc>
+  </wpt>
+  <wpt lat="58.386111111" lon="33.893888889">
+    <ele>0.000000</ele>
+    <name>Дом ИТР (дизайн дома)</name>
+    <cmt>«Дом инженерно-технических работников («дом ИТР», как его до сих пор называют) сейчас – архитектурная редкость, а тогда, в далёком 1935 году, он явился великим жизнеутверждающим событием, вехой в истории города. Он стал частью нового комплекса зданий, появившегося вблизи рабочего посёлка Голодаевка, на месте старого кладбища, в который входили горно-керамический техникум, клуб керамиков (ДК АО «БКО»), 2-я средняя школа. Здания окружили новую площадь – с памятником Владимиру Ленину в центре.»</cmt>
+    <desc>«Дом инженерно-технических работников («дом ИТР», как его до сих пор называют) сейчас – архитектурная редкость, а тогда, в далёком 1935 году, он явился великим жизнеутверждающим событием, вехой в истории города. Он стал частью нового комплекса зданий, появившегося вблизи рабочего посёлка Голодаевка, на месте старого кладбища, в который входили горно-керамический техникум, клуб керамиков (ДК АО «БКО»), 2-я средняя школа. Здания окружили новую площадь – с памятником Владимиру Ленину в центре.»</desc>
+  </wpt>
+  <wpt lat="57.635555556" lon="29.825277778">
+    <ele>0.000000</ele>
+    <name>Молокозавод и молочная школа, усадьба Вязье </name>
+    <cmt>Интересна резным крыльцом</cmt>
+    <desc>Интересна резным крыльцом</desc>
+  </wpt>
+  <wpt lat="58.676714600" lon="32.699174900">
+    <ele>0.000000</ele>
+    <name>[З] ЖД Станция Вербье</name>
+    <cmt>Тот самый императорский палец на линейке ЖД дороги&lt;br&gt;Пути разобраны. выглядит забавно</cmt>
+    <desc>Тот самый императорский палец на линейке ЖД дороги&lt;br&gt;Пути разобраны. выглядит забавно</desc>
+  </wpt>
+  <wpt lat="62.203875000" lon="34.284038000">
+    <ele>0.000000</ele>
+    <name>! Заброшенный завод камнелитых изделий и минерального сырья (КИМС)</name>
+    <cmt>! Заброшенный завод камнелитых изделий и минерального сырья (КИМС)</cmt>
+    <desc>! Заброшенный завод камнелитых изделий и минерального сырья (КИМС)</desc>
+  </wpt>
+  <wpt lat="43.159444444" lon="40.337777778">
+    <ele>0.000000</ele>
+    <name>[З] Музей войны 1992 - 1993 годов</name>
+    <cmt>Они даже музей забросили...&lt;br&gt;той войны что породила большую часть их забросов....&lt;br&gt;Заброс-забросов</cmt>
+    <desc>Они даже музей забросили...&lt;br&gt;той войны что породила большую часть их забросов....&lt;br&gt;Заброс-забросов</desc>
+  </wpt>
+  <wpt lat="43.007199000" lon="41.021305000">
+    <ele>0.000000</ele>
+    <name>ЖД станция мертвая</name>
+    <cmt>Включая пути</cmt>
+    <desc>Включая пути</desc>
+  </wpt>
+  <wpt lat="42.845555556" lon="41.166666667">
+    <ele>0.000000</ele>
+    <name>ЖД Мост ржавый</name>
+    <cmt>ЖД Мост ржавый</cmt>
+    <desc>ЖД Мост ржавый</desc>
+  </wpt>
+  <wpt lat="45.278323400" lon="37.385806000">
+    <ele>0.000000</ele>
+    <name>Музей военной техники под открытым небом «Военная горка»</name>
+    <cmt>Музей военной техники под открытым небом «Военная горка»</cmt>
+    <desc>Музей военной техники под открытым небом «Военная горка»</desc>
+  </wpt>
+  <wpt lat="44.507148600" lon="34.232903600">
+    <ele>0.000000</ele>
+    <name>Кактусовая оранжерея</name>
+    <cmt>Кактусовая оранжерея</cmt>
+    <desc>Кактусовая оранжерея</desc>
+  </wpt>
+  <wpt lat="45.813888889" lon="34.597500000">
+    <ele>0.000000</ele>
+    <name>[П] Ил-28  очень плох</name>
+    <cmt>[П] Ил-28  очень плох</cmt>
+    <desc>[П] Ил-28  очень плох</desc>
+  </wpt>
+  <wpt lat="45.342777778" lon="37.336666667">
+    <ele>0.000000</ele>
+    <name>[З] нефтяная платформа</name>
+    <cmt>[З] нефтяная платформа</cmt>
+    <desc>[З] нефтяная платформа</desc>
+  </wpt>
+  <wpt lat="44.511419900" lon="34.232505100">
+    <ele>0.000000</ele>
+    <name>Никитский ботанический сад</name>
+    <cmt>Никитский ботанический сад</cmt>
+    <desc>Никитский ботанический сад</desc>
+  </wpt>
+  <wpt lat="58.391653400" lon="33.821218000">
+    <ele>0.000000</ele>
+    <name>[П] Трактор на СерпоМолоте</name>
+    <cmt>Памятник соцарта на трассе Окуловка-Боровичи - трактор Универсал-2, пришедший взамен Фордзону-Путиловцу...&lt;br&gt;Символ победы советской механизации над ручным трудом.</cmt>
+    <desc>Памятник соцарта на трассе Окуловка-Боровичи - трактор Универсал-2, пришедший взамен Фордзону-Путиловцу...&lt;br&gt;Символ победы советской механизации над ручным трудом.</desc>
+  </wpt>
+  <wpt lat="58.850173000" lon="32.215411700">
+    <ele>0.000000</ele>
+    <name>Паровоз из Назад В Буд.</name>
+    <cmt>на взлете</cmt>
+    <desc>на взлете</desc>
+  </wpt>
+  <wpt lat="45.312576400" lon="36.476705100">
+    <ele>0.000000</ele>
+    <name>Крепость Керчь</name>
+    <cmt>Крепость Керчь</cmt>
+    <desc>Крепость Керчь</desc>
+  </wpt>
+  <wpt lat="58.384722222" lon="32.994722222">
+    <ele>0.000000</ele>
+    <name>Усадьба Заветное</name>
+    <cmt>В начале прошлого века, перед первой мировой войной, здесь жил инженер Михаил Антонович Токарский (спроектировал кольцевую ж/дорогу вокруг Питера (1914 г); в Кондопоге - плотину и канал). На месте хутора он построил для себя и своей семьи усадьбу.</cmt>
+    <desc>В начале прошлого века, перед первой мировой войной, здесь жил инженер Михаил Антонович Токарский (спроектировал кольцевую ж/дорогу вокруг Питера (1914 г); в Кондопоге - плотину и канал). На месте хутора он построил для себя и своей семьи усадьбу.</desc>
+  </wpt>
+  <wpt lat="58.896931700" lon="31.669592900">
+    <ele>0.000000</ele>
+    <name>Царские казармы (Развалины)</name>
+    <cmt>Царские казармы (Развалины)</cmt>
+    <desc>Царские казармы (Развалины)</desc>
+  </wpt>
+  <wpt lat="58.673055556" lon="33.553055556">
+    <ele>0.000000</ele>
+    <name>[З] Старинный дом-чктырёхстенок и двухэтажный двор.</name>
+    <cmt>Обычный малый дом-двор</cmt>
+    <desc>Обычный малый дом-двор</desc>
+  </wpt>
+  <wpt lat="58.366944444" lon="33.933055556">
+    <ele>0.000000</ele>
+    <name>Бобровские горы</name>
+    <cmt>Живописное место.</cmt>
+    <desc>Живописное место.</desc>
+  </wpt>
+  <wpt lat="58.988611111" lon="29.643333333">
+    <ele>0.000000</ele>
+    <name>Паром. Ручной</name>
+    <cmt>Паром. Ручной</cmt>
+    <desc>Паром. Ручной</desc>
+  </wpt>
+  <wpt lat="61.004238000" lon="34.373817000">
+    <ele>0.000000</ele>
+    <name>заброшенный храм св. пророка Елисея</name>
+    <cmt>заброшенный храм св. пророка Елисея</cmt>
+    <desc>заброшенный храм св. пророка Елисея</desc>
+  </wpt>
+  <wpt lat="62.307547000" lon="35.292120000">
+    <ele>0.000000</ele>
+    <name>! Церковь в заброшеннйо деревне</name>
+    <cmt>! Церковь в заброшеннйо деревне</cmt>
+    <desc>! Церковь в заброшеннйо деревне</desc>
+  </wpt>
+  <wpt lat="61.347572000" lon="36.599289000">
+    <ele>0.000000</ele>
+    <name>Сарминский погост</name>
+    <cmt>Сарминский погост</cmt>
+    <desc>Сарминский погост</desc>
+  </wpt>
+  <wpt lat="44.466881000" lon="34.069609000">
+    <ele>0.000000</ele>
+    <name>! Серпантин</name>
+    <cmt>! Серпантин</cmt>
+    <desc>! Серпантин</desc>
+  </wpt>
+  <wpt lat="62.123072000" lon="40.687780000">
+    <ele>0.000000</ele>
+    <name>Осоковская</name>
+    <cmt>расписные дома, хорошая сохранность деревни, деревянны домов старой посторки</cmt>
+    <desc>расписные дома, хорошая сохранность деревни, деревянны домов старой посторки</desc>
+  </wpt>
+  <wpt lat="69.310058000" lon="32.205992000">
+    <ele>0.000000</ele>
+    <name>Долина славы (мемориал)</name>
+    <cmt>Долина славы (мемориал)</cmt>
+    <desc>Долина славы (мемориал)</desc>
+  </wpt>
+  <wpt lat="64.571548400" lon="40.504290500">
+    <ele>0.000000</ele>
+    <name>Теплоход &quot;профессор зинкевич&quot;</name>
+    <cmt>мелкий, но занятный. возможно не существует уже</cmt>
+    <desc>мелкий, но занятный. возможно не существует уже</desc>
+  </wpt>
+  <wpt lat="62.227156000" lon="40.254936000">
+    <ele>0.000000</ele>
+    <name>Шалакуша (резные дома)</name>
+    <cmt>тоже росписи</cmt>
+    <desc>тоже росписи</desc>
+  </wpt>
+  <wpt lat="64.487500000" lon="34.671944000">
+    <ele>0.000000</ele>
+    <name>Беломорские петроглифы</name>
+    <cmt>64°29'15&quot;N 34°40'19&quot;E</cmt>
+    <desc>64°29'15&quot;N 34°40'19&quot;E</desc>
+  </wpt>
+  <wpt lat="62.254180000" lon="40.817642000">
+    <ele>0.000000</ele>
+    <name>Ступинская</name>
+    <cmt>Ступинская</cmt>
+    <desc>Ступинская</desc>
+  </wpt>
+  <wpt lat="64.453942000" lon="40.939586000">
+    <ele>0.000000</ele>
+    <name>Архангельский музей деревянного зодчества и народного искусства &quot;Малые Корелы&quot;</name>
+    <cmt>Архангельский музей деревянного зодчества и народного искусства &quot;Малые Корелы&quot;</cmt>
+    <desc>Архангельский музей деревянного зодчества и народного искусства &quot;Малые Корелы&quot;</desc>
+  </wpt>
+  <wpt lat="69.191178000" lon="33.376036000">
+    <ele>0.000000</ele>
+    <name>Кладбище кораблей</name>
+    <cmt>Кладбище кораблей</cmt>
+    <desc>Кладбище кораблей</desc>
+  </wpt>
+  <wpt lat="56.164124100" lon="37.948429600">
+    <ele>0.000000</ele>
+    <name>Памятник авиаторам МиГ 29</name>
+    <cmt>Памятник авиаторам МиГ 29</cmt>
+    <desc>Памятник авиаторам МиГ 29</desc>
+  </wpt>
+  <wpt lat="62.213185000" lon="34.895840000">
+    <ele>0.000000</ele>
+    <name>! Полузаброшенная деревня + церковь</name>
+    <cmt>Много забошенных домов и очень тесно стоят</cmt>
+    <desc>Много забошенных домов и очень тесно стоят</desc>
+  </wpt>
+  <wpt lat="62.122189000" lon="40.671902000">
+    <ele>0.000000</ele>
+    <name>Федосеевская (расписные дома)</name>
+    <cmt>Федосеевская (расписные дома)</cmt>
+    <desc>Федосеевская (расписные дома)</desc>
+  </wpt>
+  <wpt lat="62.219416000" lon="34.881656000">
+    <ele>0.000000</ele>
+    <name>! Церковь Николая Чудотворца</name>
+    <cmt>рядом свежая могила и законесервированный домик.</cmt>
+    <desc>рядом свежая могила и законесервированный домик.</desc>
+  </wpt>
+  <wpt lat="62.482036000" lon="33.744507000">
+    <ele>0.000000</ele>
+    <name>! асфальтовая ВПП в чистом поле</name>
+    <cmt>! асфальтовая ВПП в чистом поле</cmt>
+    <desc>! асфальтовая ВПП в чистом поле</desc>
+  </wpt>
+  <wpt lat="62.456040100" lon="33.668718300">
+    <ele>0.000000</ele>
+    <name>! Плотина с рекой выдолбленной в камне</name>
+    <cmt>! Плотина с рекой выдолбленной в камне</cmt>
+    <desc>! Плотина с рекой выдолбленной в камне</desc>
+  </wpt>
+  <wpt lat="59.619332000" lon="31.126056000">
+    <ele>0.000000</ele>
+    <name>! Царь-дерево</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/IrzRYF-v9vGKmZYS87Dra2twWo_2Ma_jUxFr_rYCdV2M7d7INcEF2jr-jqgGowCd4lTg0nlKnXvOL7P18vnnh-NtFgG-sA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Огромная осина. Около 2-х метров диаметром. Рядом, в нескольких метрах, давно поваленная, но еще живая (по состоянию на 2012г.) ива. Тоже не маленькая - около 1 м диаметром&lt;br&gt;&lt;br&gt;Близлежащие города: Великий Новгород; Санкт-Петербург; Сосновый Бор&lt;br&gt;Координаты: 59°37'10&quot;N 31°7'31&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/CHbD2TY6SNZcK3cMeHWlNNHMHYLF9EtVhvwaPRBtRRs_t6mIlIHVfRkfCOfe1ECD66DPqEOtB1XfN2ScpZktPlviVVMD7Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/oibyYjGinsScyDMaV_uWBwiFyeDzYtXY77-j5SRhE6k7KedCpyEQPNlFjdZmw5msNsbfmEHWxSt30VGWNKaRiqU4cVoEirx4orkka0CWAqGVNZK2Z5GLOJ9KqeGv5o5KXaxflTGx0Z_dvweiOAMc9jCJWQkJ_RUPK4Ac3f_l9s_Y7T4vO5QqBPWCrQ2JlL6B7-S0HUdWN-Jo7Nlf&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/A6flTEE8KHxjN9K4X0_2HhKPxRxpZguQRUgZ368Tz4hRJeQOxV7J6ZxfuCALmxaacD7SdckRrPyGKhiA09o7nzQPllSLEr-OnMCTs1c8F-9YdW3aF_Q18gzGh8o5wTYmtbqnX3g0W1VYU9RwsDNJ2ChC1qO-GPg3x8iGsGDtSwC-dZPSiMqyPtQlIArHoUzytf3BREyeVuC2UKqw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/IrzRYF-v9vGKmZYS87Dra2twWo_2Ma_jUxFr_rYCdV2M7d7INcEF2jr-jqgGowCd4lTg0nlKnXvOL7P18vnnh-NtFgG-sA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Огромная осина. Около 2-х метров диаметром. Рядом, в нескольких метрах, давно поваленная, но еще живая (по состоянию на 2012г.) ива. Тоже не маленькая - около 1 м диаметром&lt;br&gt;&lt;br&gt;Близлежащие города: Великий Новгород; Санкт-Петербург; Сосновый Бор&lt;br&gt;Координаты: 59°37'10&quot;N 31°7'31&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/CHbD2TY6SNZcK3cMeHWlNNHMHYLF9EtVhvwaPRBtRRs_t6mIlIHVfRkfCOfe1ECD66DPqEOtB1XfN2ScpZktPlviVVMD7Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/oibyYjGinsScyDMaV_uWBwiFyeDzYtXY77-j5SRhE6k7KedCpyEQPNlFjdZmw5msNsbfmEHWxSt30VGWNKaRiqU4cVoEirx4orkka0CWAqGVNZK2Z5GLOJ9KqeGv5o5KXaxflTGx0Z_dvweiOAMc9jCJWQkJ_RUPK4Ac3f_l9s_Y7T4vO5QqBPWCrQ2JlL6B7-S0HUdWN-Jo7Nlf&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/A6flTEE8KHxjN9K4X0_2HhKPxRxpZguQRUgZ368Tz4hRJeQOxV7J6ZxfuCALmxaacD7SdckRrPyGKhiA09o7nzQPllSLEr-OnMCTs1c8F-9YdW3aF_Q18gzGh8o5wTYmtbqnX3g0W1VYU9RwsDNJ2ChC1qO-GPg3x8iGsGDtSwC-dZPSiMqyPtQlIArHoUzytf3BREyeVuC2UKqw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
   <wpt lat="59.546843000" lon="30.012469000">
     <ele>0.000000</ele>
     <name>Фонтан - Гейзер</name>
     <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/0jpmVZFrJ1rP0vE9Ztaw4R2b46z8U8wDOrjurvOGVSHnrXhs2xQ6sxmA5Of3SL6YaHL7wvTcDVpz5HSAXx-LpXELIaCVuw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=16001608&amp;type=1&amp;lng=1&amp;id=1162836)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=16001608&amp;type=1&amp;lng=1&amp;id=1399801)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=16001608&amp;type=1&amp;lng=1&amp;id=3142390)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;Заглушеная скважина. В железе пробито несколько отверстий, из которых бьют фонтаны воды.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/bi7-05JoGKl7kdXJ5LqozOAzN3vbiQOQ5XqNf8Cg4Us-izSbVnqrS_oHhluSbklydfYaRHtbq8ZdMwnwldYtN18RbhMa9w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/0fN5p1i8QpDEj_PP5DEHh3uV5xvAUYrPr4lUo1NVUJE7HLbp1FuMLxOnEeM9_I1eVl-LEoo1R-M0FxhoU-WSC8oDaeQZLw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/OptJrxdTPZuqjYQdB-tryfjnR81klAACMI2Y92mEvCKdC633pqvgBYJZDOqjvRzjQ6tjeSQhCQZtU-InBCneN7q1AW3YQ4H7BQbQ3PuruU_rm5ELrhEVBp-DkGUHDND9vKy67s7fiA0CP-ee3H9QZBAlBbBjWlXgE9ObIahzkiEwqrPFin43NqeqWkPbBUiQZluKmwxEcU3JSj06&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/9gLWw8uYAGVaLwF0qD4KHaDo0VcXIq8OAhD3K_BSc68wOti1D_hAstWu8yXQ6cqZ_bCKhq1Ka1W2pslecHOUv_nw0yKHyYfru4XHy1ffSC_3Kk5iHx9LxsYatV1wBofyP6lUu0LXTrj48VqzbaogrG4FSQd94Gf7kN9KWoaynOEwwx7PaBwIgxAjlLF8NqjLNU3JVViMnOX4rCpG&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/8gGdZkqcFDX7NqQNFPM6ZaleE3iHE2SZ5t6QLFTF3UXNzUsRXcL9MLYVP5-d5rhw0wmQWb5fe9aSvR4_Rw4ArQeFTBFySiAI8gGhA2obCbfye5ObhNfnYT47b--fKew0Ihw5IIIpNS8zi_S8RtxrUWkqNeJt3F-Ixqv3aVUAI-oB86AwJU57ZCGH0f9PLr_LrEbWKb_eTHmCioSv&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
     <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/0jpmVZFrJ1rP0vE9Ztaw4R2b46z8U8wDOrjurvOGVSHnrXhs2xQ6sxmA5Of3SL6YaHL7wvTcDVpz5HSAXx-LpXELIaCVuw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=16001608&amp;type=1&amp;lng=1&amp;id=1162836)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=16001608&amp;type=1&amp;lng=1&amp;id=1399801)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=16001608&amp;type=1&amp;lng=1&amp;id=3142390)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;Заглушеная скважина. В железе пробито несколько отверстий, из которых бьют фонтаны воды.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/bi7-05JoGKl7kdXJ5LqozOAzN3vbiQOQ5XqNf8Cg4Us-izSbVnqrS_oHhluSbklydfYaRHtbq8ZdMwnwldYtN18RbhMa9w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/0fN5p1i8QpDEj_PP5DEHh3uV5xvAUYrPr4lUo1NVUJE7HLbp1FuMLxOnEeM9_I1eVl-LEoo1R-M0FxhoU-WSC8oDaeQZLw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/OptJrxdTPZuqjYQdB-tryfjnR81klAACMI2Y92mEvCKdC633pqvgBYJZDOqjvRzjQ6tjeSQhCQZtU-InBCneN7q1AW3YQ4H7BQbQ3PuruU_rm5ELrhEVBp-DkGUHDND9vKy67s7fiA0CP-ee3H9QZBAlBbBjWlXgE9ObIahzkiEwqrPFin43NqeqWkPbBUiQZluKmwxEcU3JSj06&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/9gLWw8uYAGVaLwF0qD4KHaDo0VcXIq8OAhD3K_BSc68wOti1D_hAstWu8yXQ6cqZ_bCKhq1Ka1W2pslecHOUv_nw0yKHyYfru4XHy1ffSC_3Kk5iHx9LxsYatV1wBofyP6lUu0LXTrj48VqzbaogrG4FSQd94Gf7kN9KWoaynOEwwx7PaBwIgxAjlLF8NqjLNU3JVViMnOX4rCpG&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/8gGdZkqcFDX7NqQNFPM6ZaleE3iHE2SZ5t6QLFTF3UXNzUsRXcL9MLYVP5-d5rhw0wmQWb5fe9aSvR4_Rw4ArQeFTBFySiAI8gGhA2obCbfye5ObhNfnYT47b--fKew0Ihw5IIIpNS8zi_S8RtxrUWkqNeJt3F-Ixqv3aVUAI-oB86AwJU57ZCGH0f9PLr_LrEbWKb_eTHmCioSv&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
   </wpt>
+  <wpt lat="62.201929000" lon="35.408464000">
+    <ele>0.000000</ele>
+    <name>Часовня</name>
+    <cmt>Часовня</cmt>
+    <desc>Часовня</desc>
+  </wpt>
+  <wpt lat="62.592076000" lon="34.926825000">
+    <ele>0.000000</ele>
+    <name>- Вход в заброшенную шунгитовую шахту</name>
+    <cmt>07,2015 - вход закрыт решетками</cmt>
+    <desc>07,2015 - вход закрыт решетками</desc>
+  </wpt>
+  <wpt lat="62.456864000" lon="33.666358000">
+    <ele>0.000000</ele>
+    <name>- Лоток для спалва леса</name>
+    <cmt>- Лоток для спалва леса</cmt>
+    <desc>- Лоток для спалва леса</desc>
+  </wpt>
+  <wpt lat="62.912607000" lon="34.546895000">
+    <ele>0.000000</ele>
+    <name>- Церковь Рождества Пресвятой Богородицы</name>
+    <cmt>- Церковь Рождества Пресвятой Богородицы</cmt>
+    <desc>- Церковь Рождества Пресвятой Богородицы</desc>
+  </wpt>
+  <wpt lat="62.919033000" lon="34.436163000">
+    <ele>0.000000</ele>
+    <name>- Бывший клуб Место съёмки фильма &quot;Любовь и голуби.</name>
+    <cmt>- Бывший клуб Место съёмки фильма &quot;Любовь и голуби.</cmt>
+    <desc>- Бывший клуб Место съёмки фильма &quot;Любовь и голуби.</desc>
+  </wpt>
   <wpt lat="60.032230000" lon="29.635613000">
     <ele>0.000000</ele>
     <name>Форт «Риф» (Санкт-Петербург)</name>
     <cmt>Форт береговой &quot;Риф&quot;, 1898 - 1912 гг. Бывшая Александровская батарея.&lt;br&gt;&lt;br&gt;Редкий форт, который до сих пор используется военными по назначению.&lt;br&gt;&lt;br&gt;Форт является одним из культурных объектов Всемирного наследия ЮНЕСКО с 1990 года.&lt;br&gt;Статья Википедии: http://ru.wikipedia.org/wiki/Форты_Санкт-Петербурга#.D0.A4.D0.BE.D1.80.D1.82_.C2.AB.D0.A0.D0.B8.D1.84.C2.BB_.28.D0.B1.D1.8B.D0.B2.D1.88.D0.B0.D1.8F_.D0.90.D0.BB.D0.B5.D0.BA.D1.81.D0.B0.D0.BD.D0.B4.D1.80.D0.BE.D0.B2.D1.81.D0.BA.D0.B0.D1.8F_.D0.B1.D0.B0.D1.82.D0.B0.D1.80.D0.B5.D1.8F.29&lt;br&gt;Близлежащие города: Санкт-Петербург; Сосновый Бор; Выборг&lt;br&gt;Координаты:   60°1'55&quot;N   29°38'11&quot;E</cmt>
     <desc>Форт береговой &quot;Риф&quot;, 1898 - 1912 гг. Бывшая Александровская батарея.&lt;br&gt;&lt;br&gt;Редкий форт, который до сих пор используется военными по назначению.&lt;br&gt;&lt;br&gt;Форт является одним из культурных объектов Всемирного наследия ЮНЕСКО с 1990 года.&lt;br&gt;Статья Википедии: http://ru.wikipedia.org/wiki/Форты_Санкт-Петербурга#.D0.A4.D0.BE.D1.80.D1.82_.C2.AB.D0.A0.D0.B8.D1.84.C2.BB_.28.D0.B1.D1.8B.D0.B2.D1.88.D0.B0.D1.8F_.D0.90.D0.BB.D0.B5.D0.BA.D1.81.D0.B0.D0.BD.D0.B4.D1.80.D0.BE.D0.B2.D1.81.D0.BA.D0.B0.D1.8F_.D0.B1.D0.B0.D1.82.D0.B0.D1.80.D0.B5.D1.8F.29&lt;br&gt;Близлежащие города: Санкт-Петербург; Сосновый Бор; Выборг&lt;br&gt;Координаты:   60°1'55&quot;N   29°38'11&quot;E</desc>
-  </wpt>
-  <wpt lat="59.619332000" lon="31.126056000">
-    <ele>0.000000</ele>
-    <name>Царь-дерево</name>
-    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/IrzRYF-v9vGKmZYS87Dra2twWo_2Ma_jUxFr_rYCdV2M7d7INcEF2jr-jqgGowCd4lTg0nlKnXvOL7P18vnnh-NtFgG-sA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Огромная осина. Около 2-х метров диаметром. Рядом, в нескольких метрах, давно поваленная, но еще живая (по состоянию на 2012г.) ива. Тоже не маленькая - около 1 м диаметром&lt;br&gt;&lt;br&gt;Близлежащие города: Великий Новгород; Санкт-Петербург; Сосновый Бор&lt;br&gt;Координаты:   59°37'10&quot;N   31°7'31&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/CHbD2TY6SNZcK3cMeHWlNNHMHYLF9EtVhvwaPRBtRRs_t6mIlIHVfRkfCOfe1ECD66DPqEOtB1XfN2ScpZktPlviVVMD7Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/oibyYjGinsScyDMaV_uWBwiFyeDzYtXY77-j5SRhE6k7KedCpyEQPNlFjdZmw5msNsbfmEHWxSt30VGWNKaRiqU4cVoEirx4orkka0CWAqGVNZK2Z5GLOJ9KqeGv5o5KXaxflTGx0Z_dvweiOAMc9jCJWQkJ_RUPK4Ac3f_l9s_Y7T4vO5QqBPWCrQ2JlL6B7-S0HUdWN-Jo7Nlf&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/A6flTEE8KHxjN9K4X0_2HhKPxRxpZguQRUgZ368Tz4hRJeQOxV7J6ZxfuCALmxaacD7SdckRrPyGKhiA09o7nzQPllSLEr-OnMCTs1c8F-9YdW3aF_Q18gzGh8o5wTYmtbqnX3g0W1VYU9RwsDNJ2ChC1qO-GPg3x8iGsGDtSwC-dZPSiMqyPtQlIArHoUzytf3BREyeVuC2UKqw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
-    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/IrzRYF-v9vGKmZYS87Dra2twWo_2Ma_jUxFr_rYCdV2M7d7INcEF2jr-jqgGowCd4lTg0nlKnXvOL7P18vnnh-NtFgG-sA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Огромная осина. Около 2-х метров диаметром. Рядом, в нескольких метрах, давно поваленная, но еще живая (по состоянию на 2012г.) ива. Тоже не маленькая - около 1 м диаметром&lt;br&gt;&lt;br&gt;Близлежащие города: Великий Новгород; Санкт-Петербург; Сосновый Бор&lt;br&gt;Координаты:   59°37'10&quot;N   31°7'31&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/CHbD2TY6SNZcK3cMeHWlNNHMHYLF9EtVhvwaPRBtRRs_t6mIlIHVfRkfCOfe1ECD66DPqEOtB1XfN2ScpZktPlviVVMD7Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/oibyYjGinsScyDMaV_uWBwiFyeDzYtXY77-j5SRhE6k7KedCpyEQPNlFjdZmw5msNsbfmEHWxSt30VGWNKaRiqU4cVoEirx4orkka0CWAqGVNZK2Z5GLOJ9KqeGv5o5KXaxflTGx0Z_dvweiOAMc9jCJWQkJ_RUPK4Ac3f_l9s_Y7T4vO5QqBPWCrQ2JlL6B7-S0HUdWN-Jo7Nlf&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/A6flTEE8KHxjN9K4X0_2HhKPxRxpZguQRUgZ368Tz4hRJeQOxV7J6ZxfuCALmxaacD7SdckRrPyGKhiA09o7nzQPllSLEr-OnMCTs1c8F-9YdW3aF_Q18gzGh8o5wTYmtbqnX3g0W1VYU9RwsDNJ2ChC1qO-GPg3x8iGsGDtSwC-dZPSiMqyPtQlIArHoUzytf3BREyeVuC2UKqw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
   </wpt>
   <wpt lat="59.547693000" lon="30.011682000">
     <ele>0.000000</ele>
@@ -178,7 +784,7 @@
   </wpt>
   <wpt lat="61.599212000" lon="31.139662000">
     <ele>0.000000</ele>
-    <name>Полуостров Хунукка</name>
+    <name>! Полуостров Хунукка</name>
     <cmt>по опенстриту есть тропинка. ведущая сюда.&lt;br&gt;От Импилахти&lt;br&gt; &lt;br&gt;61.599375,31.139319</cmt>
     <desc>по опенстриту есть тропинка. ведущая сюда.&lt;br&gt;От Импилахти&lt;br&gt; &lt;br&gt;61.599375,31.139319</desc>
   </wpt>
@@ -202,9 +808,9 @@
   </wpt>
   <wpt lat="61.909048000" lon="30.620695000">
     <ele>0.000000</ele>
-    <name>Порог Рюмякоски</name>
-    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/GMV_TAkvivlvGncecx1xG3Ygn8H3eVhNyByUHzoVwI83lScgQOZuKJ0-OKIxMeY7ZFNVgiVQGbQvYi57-SH1dOdlSsILwA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Но строят ГЭС. год назад водопадик еще был.&lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Фин.: Ryymäkoski (&quot;Шумный водопад/порог&quot;)&lt;br&gt;www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;... (http://www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;N=6867208.042676776&amp;scale=9999.999999999998&amp;base=OpenLayers.Layer.WMS_4)&lt;br&gt;&lt;br&gt;Порог Рюмякоски на реке Тохмайоки высотой около 7 метров. Остатки строений электростанции, сооружённой в 1930-е годы.&lt;br&gt;&lt;br&gt;Небольшая финская ГЭС судя по всему обеспечивала электричеством близлежащий поселок Рускеала, в наличии плотина и полуразрушенное 3х этажное здание где когда то были механизмы.... место довольно интересно и живописно.&lt;br&gt;&lt;br&gt;В 2012 году началась реконструкция ГЭС, завершить которую планируется завершить ко второму кварталу 2013 года.&lt;br&gt;asninfo.ru/asn/57/52835 (http://asninfo.ru/asn/57/52835)&lt;br&gt;&lt;br&gt;Возможно, после окончания реконструкции водопад больше нельзя будет увидеть.&lt;br&gt;&lt;br&gt;Близлежащие города: Йоэнсуу; Савонлинна; Миккели&lt;br&gt;Координаты:   61°54'32&quot;N   30°37'14&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/9xW-py6c_ye-nglJtY1rN0uUUNbj6f17t5MowQRmGQOyr67mh658VbwX2BM9zFAz-hcEN2OaeBWjnYGXGUreeUD0t8fxAw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/e7-mpJU1BQRHudmpT9eg5rX6pgUnVX2LEM5lBmmb1bPNcYZoSRPcE4Zdit50bHHX--aB44YL5f_8i1qwcdee50xGLF8Mdw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/dCQkb_5ZYJ6qeeR9MMhrFdQckt1UfI19ClHVSS26bCwiABhBbDEGZiZrH4I1s_8k6E-f2gKwrr1geyqH1QCqTripdLA1ew&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/yGL4y5dh3RT4YLIb-id0GYGlz688nSLP86NBrvnxE72kdSpL0FzZjtPD-ioAC8oiF7BWqPhCh4apl1b8pijCQJ2xsnaLPg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/pj1LSps8CI6n7VRgp1PdUjLCzJkwyL34Tdk0TP0icDEkrfSdmC7lpU94-YxlcIpLgCrOCMfd0UEFGbvkNaGsCSyuWh5oAA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/In7ZxwDuhmAhtVaQz3mi6O_GktOcuNTfZEJTzzJ9mnxmxphAEDEsHk-DLwHn93k627eOHyjldNCj9wjqcq8jsP3kzHz4QQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/FgNmkBWGSZawMUVTS5Ltg5pe3PkRmYQoP5euyuBKFm9LVdTpymZlCER4OJjyOo729aqkkc5uAv35LTjNdt0alBbgg_s-kX9rOErsDW164oVk5mHGUACZEsEjNeVPT-odFIXoi2dsIbzzV9ZHAdLo-GwMgUx3oQRSNhEjiVn-IJzXm93maSYNASPg20x9rdDKV5sAkWg3lxUidfXE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/uv6tSY0OROA0JafjhrUFm3kf1sNxQXHTzxj77j5I8_8k4lhkbfSUWsH7_YVmZeRaHw591cItsoUJSpj3YQGOzCHUizcAO6Un5GwKLDO4Ai1CGqdZs09zC5kwQoCzPQKWlueqbVpSUZPtl80CeO_hPzjEBLCWNOJfUsKsWZ1StwYpE-vhkFLMPSHqzzDfH7fUXl1k7sQjWgRjZe98&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/bAaWBcX18lFcDZmcKgkNIEQoMlhAseHtUQ8NMLcrGskwIt3InA6LSQCjBjqG49odpAiBy9TVLYtomq7HBmP_DcUnZAMdbIfJswPJaWRHo7kKOZAMMMk_BvFG4ns9r_EcGVbHCc0RfiVSgw1pBNZCJmRcimEXpmakxAiPlVWSvzT2pNIG4Ks50geJaqoEeABfZtNxXRVc0w8oSkFA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
-    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/GMV_TAkvivlvGncecx1xG3Ygn8H3eVhNyByUHzoVwI83lScgQOZuKJ0-OKIxMeY7ZFNVgiVQGbQvYi57-SH1dOdlSsILwA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Но строят ГЭС. год назад водопадик еще был.&lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Фин.: Ryymäkoski (&quot;Шумный водопад/порог&quot;)&lt;br&gt;www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;... (http://www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;N=6867208.042676776&amp;scale=9999.999999999998&amp;base=OpenLayers.Layer.WMS_4)&lt;br&gt;&lt;br&gt;Порог Рюмякоски на реке Тохмайоки высотой около 7 метров. Остатки строений электростанции, сооружённой в 1930-е годы.&lt;br&gt;&lt;br&gt;Небольшая финская ГЭС судя по всему обеспечивала электричеством близлежащий поселок Рускеала, в наличии плотина и полуразрушенное 3х этажное здание где когда то были механизмы.... место довольно интересно и живописно.&lt;br&gt;&lt;br&gt;В 2012 году началась реконструкция ГЭС, завершить которую планируется завершить ко второму кварталу 2013 года.&lt;br&gt;asninfo.ru/asn/57/52835 (http://asninfo.ru/asn/57/52835)&lt;br&gt;&lt;br&gt;Возможно, после окончания реконструкции водопад больше нельзя будет увидеть.&lt;br&gt;&lt;br&gt;Близлежащие города: Йоэнсуу; Савонлинна; Миккели&lt;br&gt;Координаты:   61°54'32&quot;N   30°37'14&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/9xW-py6c_ye-nglJtY1rN0uUUNbj6f17t5MowQRmGQOyr67mh658VbwX2BM9zFAz-hcEN2OaeBWjnYGXGUreeUD0t8fxAw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/e7-mpJU1BQRHudmpT9eg5rX6pgUnVX2LEM5lBmmb1bPNcYZoSRPcE4Zdit50bHHX--aB44YL5f_8i1qwcdee50xGLF8Mdw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/dCQkb_5ZYJ6qeeR9MMhrFdQckt1UfI19ClHVSS26bCwiABhBbDEGZiZrH4I1s_8k6E-f2gKwrr1geyqH1QCqTripdLA1ew&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/yGL4y5dh3RT4YLIb-id0GYGlz688nSLP86NBrvnxE72kdSpL0FzZjtPD-ioAC8oiF7BWqPhCh4apl1b8pijCQJ2xsnaLPg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/pj1LSps8CI6n7VRgp1PdUjLCzJkwyL34Tdk0TP0icDEkrfSdmC7lpU94-YxlcIpLgCrOCMfd0UEFGbvkNaGsCSyuWh5oAA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/In7ZxwDuhmAhtVaQz3mi6O_GktOcuNTfZEJTzzJ9mnxmxphAEDEsHk-DLwHn93k627eOHyjldNCj9wjqcq8jsP3kzHz4QQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/FgNmkBWGSZawMUVTS5Ltg5pe3PkRmYQoP5euyuBKFm9LVdTpymZlCER4OJjyOo729aqkkc5uAv35LTjNdt0alBbgg_s-kX9rOErsDW164oVk5mHGUACZEsEjNeVPT-odFIXoi2dsIbzzV9ZHAdLo-GwMgUx3oQRSNhEjiVn-IJzXm93maSYNASPg20x9rdDKV5sAkWg3lxUidfXE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/uv6tSY0OROA0JafjhrUFm3kf1sNxQXHTzxj77j5I8_8k4lhkbfSUWsH7_YVmZeRaHw591cItsoUJSpj3YQGOzCHUizcAO6Un5GwKLDO4Ai1CGqdZs09zC5kwQoCzPQKWlueqbVpSUZPtl80CeO_hPzjEBLCWNOJfUsKsWZ1StwYpE-vhkFLMPSHqzzDfH7fUXl1k7sQjWgRjZe98&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/bAaWBcX18lFcDZmcKgkNIEQoMlhAseHtUQ8NMLcrGskwIt3InA6LSQCjBjqG49odpAiBy9TVLYtomq7HBmP_DcUnZAMdbIfJswPJaWRHo7kKOZAMMMk_BvFG4ns9r_EcGVbHCc0RfiVSgw1pBNZCJmRcimEXpmakxAiPlVWSvzT2pNIG4Ks50geJaqoEeABfZtNxXRVc0w8oSkFA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+    <name>- Порог Рюмякоски</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/GMV_TAkvivlvGncecx1xG3Ygn8H3eVhNyByUHzoVwI83lScgQOZuKJ0-OKIxMeY7ZFNVgiVQGbQvYi57-SH1dOdlSsILwA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Но строят ГЭС. год назад водопадик еще был.&lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Фин.: Ryymäkoski (&quot;Шумный водопад/порог&quot;)&lt;br&gt;www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;... (http://www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;N=6867208.042676776&amp;scale=9999.999999999998&amp;base=OpenLayers.Layer.WMS_4)&lt;br&gt;&lt;br&gt;Порог Рюмякоски на реке Тохмайоки высотой около 7 метров. Остатки строений электростанции, сооружённой в 1930-е годы.&lt;br&gt;&lt;br&gt;Небольшая финская ГЭС судя по всему обеспечивала электричеством близлежащий поселок Рускеала, в наличии плотина и полуразрушенное 3х этажное здание где когда то были механизмы.... место довольно интересно и живописно.&lt;br&gt;&lt;br&gt;В 2012 году началась реконструкция ГЭС, завершить которую планируется завершить ко второму кварталу 2013 года.&lt;br&gt;asninfo.ru/asn/57/52835 (http://asninfo.ru/asn/57/52835)&lt;br&gt;&lt;br&gt;Возможно, после окончания реконструкции водопад больше нельзя будет увидеть.&lt;br&gt;&lt;br&gt;Близлежащие города: Йоэнсуу; Савонлинна; Миккели&lt;br&gt;Координаты: 61°54'32&quot;N 30°37'14&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/9xW-py6c_ye-nglJtY1rN0uUUNbj6f17t5MowQRmGQOyr67mh658VbwX2BM9zFAz-hcEN2OaeBWjnYGXGUreeUD0t8fxAw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/e7-mpJU1BQRHudmpT9eg5rX6pgUnVX2LEM5lBmmb1bPNcYZoSRPcE4Zdit50bHHX--aB44YL5f_8i1qwcdee50xGLF8Mdw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/dCQkb_5ZYJ6qeeR9MMhrFdQckt1UfI19ClHVSS26bCwiABhBbDEGZiZrH4I1s_8k6E-f2gKwrr1geyqH1QCqTripdLA1ew&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/yGL4y5dh3RT4YLIb-id0GYGlz688nSLP86NBrvnxE72kdSpL0FzZjtPD-ioAC8oiF7BWqPhCh4apl1b8pijCQJ2xsnaLPg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/pj1LSps8CI6n7VRgp1PdUjLCzJkwyL34Tdk0TP0icDEkrfSdmC7lpU94-YxlcIpLgCrOCMfd0UEFGbvkNaGsCSyuWh5oAA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/In7ZxwDuhmAhtVaQz3mi6O_GktOcuNTfZEJTzzJ9mnxmxphAEDEsHk-DLwHn93k627eOHyjldNCj9wjqcq8jsP3kzHz4QQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/FgNmkBWGSZawMUVTS5Ltg5pe3PkRmYQoP5euyuBKFm9LVdTpymZlCER4OJjyOo729aqkkc5uAv35LTjNdt0alBbgg_s-kX9rOErsDW164oVk5mHGUACZEsEjNeVPT-odFIXoi2dsIbzzV9ZHAdLo-GwMgUx3oQRSNhEjiVn-IJzXm93maSYNASPg20x9rdDKV5sAkWg3lxUidfXE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/uv6tSY0OROA0JafjhrUFm3kf1sNxQXHTzxj77j5I8_8k4lhkbfSUWsH7_YVmZeRaHw591cItsoUJSpj3YQGOzCHUizcAO6Un5GwKLDO4Ai1CGqdZs09zC5kwQoCzPQKWlueqbVpSUZPtl80CeO_hPzjEBLCWNOJfUsKsWZ1StwYpE-vhkFLMPSHqzzDfH7fUXl1k7sQjWgRjZe98&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/bAaWBcX18lFcDZmcKgkNIEQoMlhAseHtUQ8NMLcrGskwIt3InA6LSQCjBjqG49odpAiBy9TVLYtomq7HBmP_DcUnZAMdbIfJswPJaWRHo7kKOZAMMMk_BvFG4ns9r_EcGVbHCc0RfiVSgw1pBNZCJmRcimEXpmakxAiPlVWSvzT2pNIG4Ks50geJaqoEeABfZtNxXRVc0w8oSkFA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/GMV_TAkvivlvGncecx1xG3Ygn8H3eVhNyByUHzoVwI83lScgQOZuKJ0-OKIxMeY7ZFNVgiVQGbQvYi57-SH1dOdlSsILwA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Но строят ГЭС. год назад водопадик еще был.&lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Фин.: Ryymäkoski (&quot;Шумный водопад/порог&quot;)&lt;br&gt;www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;... (http://www.karjalankartat.fi/?language=fi&amp;E=4533065.119669827&amp;N=6867208.042676776&amp;scale=9999.999999999998&amp;base=OpenLayers.Layer.WMS_4)&lt;br&gt;&lt;br&gt;Порог Рюмякоски на реке Тохмайоки высотой около 7 метров. Остатки строений электростанции, сооружённой в 1930-е годы.&lt;br&gt;&lt;br&gt;Небольшая финская ГЭС судя по всему обеспечивала электричеством близлежащий поселок Рускеала, в наличии плотина и полуразрушенное 3х этажное здание где когда то были механизмы.... место довольно интересно и живописно.&lt;br&gt;&lt;br&gt;В 2012 году началась реконструкция ГЭС, завершить которую планируется завершить ко второму кварталу 2013 года.&lt;br&gt;asninfo.ru/asn/57/52835 (http://asninfo.ru/asn/57/52835)&lt;br&gt;&lt;br&gt;Возможно, после окончания реконструкции водопад больше нельзя будет увидеть.&lt;br&gt;&lt;br&gt;Близлежащие города: Йоэнсуу; Савонлинна; Миккели&lt;br&gt;Координаты: 61°54'32&quot;N 30°37'14&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/9xW-py6c_ye-nglJtY1rN0uUUNbj6f17t5MowQRmGQOyr67mh658VbwX2BM9zFAz-hcEN2OaeBWjnYGXGUreeUD0t8fxAw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/e7-mpJU1BQRHudmpT9eg5rX6pgUnVX2LEM5lBmmb1bPNcYZoSRPcE4Zdit50bHHX--aB44YL5f_8i1qwcdee50xGLF8Mdw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/dCQkb_5ZYJ6qeeR9MMhrFdQckt1UfI19ClHVSS26bCwiABhBbDEGZiZrH4I1s_8k6E-f2gKwrr1geyqH1QCqTripdLA1ew&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/yGL4y5dh3RT4YLIb-id0GYGlz688nSLP86NBrvnxE72kdSpL0FzZjtPD-ioAC8oiF7BWqPhCh4apl1b8pijCQJ2xsnaLPg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/pj1LSps8CI6n7VRgp1PdUjLCzJkwyL34Tdk0TP0icDEkrfSdmC7lpU94-YxlcIpLgCrOCMfd0UEFGbvkNaGsCSyuWh5oAA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/In7ZxwDuhmAhtVaQz3mi6O_GktOcuNTfZEJTzzJ9mnxmxphAEDEsHk-DLwHn93k627eOHyjldNCj9wjqcq8jsP3kzHz4QQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/FgNmkBWGSZawMUVTS5Ltg5pe3PkRmYQoP5euyuBKFm9LVdTpymZlCER4OJjyOo729aqkkc5uAv35LTjNdt0alBbgg_s-kX9rOErsDW164oVk5mHGUACZEsEjNeVPT-odFIXoi2dsIbzzV9ZHAdLo-GwMgUx3oQRSNhEjiVn-IJzXm93maSYNASPg20x9rdDKV5sAkWg3lxUidfXE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/uv6tSY0OROA0JafjhrUFm3kf1sNxQXHTzxj77j5I8_8k4lhkbfSUWsH7_YVmZeRaHw591cItsoUJSpj3YQGOzCHUizcAO6Un5GwKLDO4Ai1CGqdZs09zC5kwQoCzPQKWlueqbVpSUZPtl80CeO_hPzjEBLCWNOJfUsKsWZ1StwYpE-vhkFLMPSHqzzDfH7fUXl1k7sQjWgRjZe98&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/bAaWBcX18lFcDZmcKgkNIEQoMlhAseHtUQ8NMLcrGskwIt3InA6LSQCjBjqG49odpAiBy9TVLYtomq7HBmP_DcUnZAMdbIfJswPJaWRHo7kKOZAMMMk_BvFG4ns9r_EcGVbHCc0RfiVSgw1pBNZCJmRcimEXpmakxAiPlVWSvzT2pNIG4Ks50geJaqoEeABfZtNxXRVc0w8oSkFA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
   </wpt>
   <wpt lat="60.697163000" lon="33.551513000">
     <ele>0.000000</ele>
@@ -356,23 +962,17 @@
     <cmt>Мыс Немецкий</cmt>
     <desc>Мыс Немецкий</desc>
   </wpt>
-  <wpt lat="68.961349000" lon="33.072171000">
-    <ele>0.000000</ele>
-    <name>Мурманск</name>
-    <cmt>Мурманск</cmt>
-    <desc>Мурманск</desc>
-  </wpt>
   <wpt lat="45.320409000" lon="36.345077000">
     <ele>0.000000</ele>
-    <name>Локатор РЛС П-70</name>
-    <cmt>Многоэтажные развалины большой РЛС.&lt;br&gt;Металл весь срезан, бетон в основном уцелел.&lt;br&gt;&lt;br&gt;www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?ta... (http://wikimapia.org/external_link?url=http://www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?tabID=320&amp;ItemID=87&amp;mid=2891&amp;wversion=Staging)&lt;br&gt;Координаты:  45°19'13&quot;N 36°20'42&quot;E</cmt>
-    <desc>Многоэтажные развалины большой РЛС.&lt;br&gt;Металл весь срезан, бетон в основном уцелел.&lt;br&gt;&lt;br&gt;www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?ta... (http://wikimapia.org/external_link?url=http://www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?tabID=320&amp;ItemID=87&amp;mid=2891&amp;wversion=Staging)&lt;br&gt;Координаты:  45°19'13&quot;N 36°20'42&quot;E</desc>
+    <name>- Локатор РЛС П-70</name>
+    <cmt>Многоэтажные развалины большой РЛС.&lt;br&gt;Металл весь срезан, бетон в основном уцелел.&lt;br&gt;&lt;br&gt;www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?ta... (http://wikimapia.org/external_link?url=http://www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?tabID=320&amp;ItemID=87&amp;mid=2891&amp;wversion=Staging)&lt;br&gt;Координаты: 45°19'13&quot;N 36°20'42&quot;E</cmt>
+    <desc>Многоэтажные развалины большой РЛС.&lt;br&gt;Металл весь срезан, бетон в основном уцелел.&lt;br&gt;&lt;br&gt;www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?ta... (http://wikimapia.org/external_link?url=http://www.vko.ru/DesktopModules/Articles/ArticlesView.aspx?tabID=320&amp;ItemID=87&amp;mid=2891&amp;wversion=Staging)&lt;br&gt;Координаты: 45°19'13&quot;N 36°20'42&quot;E</desc>
   </wpt>
   <wpt lat="69.858280000" lon="32.008016000">
     <ele>0.000000</ele>
-    <name>Позиция ПВО</name>
-    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/OaPJzrDWbTrMOcd5YTi_ENVaCcHsyd7LXrz7giE_rTiGXC8jAaVYNqFyi_snEOXm5Bak23Lu9xbSUdmdBO_NVs3yrC25CQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=11049716&amp;type=1&amp;lng=1&amp;id=3179252)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;  	    	Позиция зенитно-ракетного дивизиона С-125 Рыбачинской Гвардейской ЗРБР.&lt;br&gt;Позывной &quot;Локаут&quot;.&lt;br&gt;Координаты:  69°51'31&quot;N 32°0'28&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/MI0W2_52-QUpClQtfCZk1hhDdtTPs2GfLnkGbqu2KCoAVqElvo5z2pwCnPaP95mRSUxX8sGdnGkdqZdkEaQlQZtUfSUbQIqKKYhGSQrm32fHUQjf3vn-k8MSnkA0a21L1YZ5f_dVtSqdLJ9dxHy7rLzK5FRZn68prH0OS79amjFDj4UFMywnC8G_OaSE-c4W9xj6yCUGwM65XuHE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
-    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/OaPJzrDWbTrMOcd5YTi_ENVaCcHsyd7LXrz7giE_rTiGXC8jAaVYNqFyi_snEOXm5Bak23Lu9xbSUdmdBO_NVs3yrC25CQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=11049716&amp;type=1&amp;lng=1&amp;id=3179252)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;  	    	Позиция зенитно-ракетного дивизиона С-125 Рыбачинской Гвардейской ЗРБР.&lt;br&gt;Позывной &quot;Локаут&quot;.&lt;br&gt;Координаты:  69°51'31&quot;N 32°0'28&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/MI0W2_52-QUpClQtfCZk1hhDdtTPs2GfLnkGbqu2KCoAVqElvo5z2pwCnPaP95mRSUxX8sGdnGkdqZdkEaQlQZtUfSUbQIqKKYhGSQrm32fHUQjf3vn-k8MSnkA0a21L1YZ5f_dVtSqdLJ9dxHy7rLzK5FRZn68prH0OS79amjFDj4UFMywnC8G_OaSE-c4W9xj6yCUGwM65XuHE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+    <name>- Позиция ПВО</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/OaPJzrDWbTrMOcd5YTi_ENVaCcHsyd7LXrz7giE_rTiGXC8jAaVYNqFyi_snEOXm5Bak23Lu9xbSUdmdBO_NVs3yrC25CQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=11049716&amp;type=1&amp;lng=1&amp;id=3179252)			 	 	 			 	 &lt;br&gt;			 &lt;br&gt; 	 	Позиция зенитно-ракетного дивизиона С-125 Рыбачинской Гвардейской ЗРБР.&lt;br&gt;Позывной &quot;Локаут&quot;.&lt;br&gt;Координаты: 69°51'31&quot;N 32°0'28&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/MI0W2_52-QUpClQtfCZk1hhDdtTPs2GfLnkGbqu2KCoAVqElvo5z2pwCnPaP95mRSUxX8sGdnGkdqZdkEaQlQZtUfSUbQIqKKYhGSQrm32fHUQjf3vn-k8MSnkA0a21L1YZ5f_dVtSqdLJ9dxHy7rLzK5FRZn68prH0OS79amjFDj4UFMywnC8G_OaSE-c4W9xj6yCUGwM65XuHE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/OaPJzrDWbTrMOcd5YTi_ENVaCcHsyd7LXrz7giE_rTiGXC8jAaVYNqFyi_snEOXm5Bak23Lu9xbSUdmdBO_NVs3yrC25CQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=11049716&amp;type=1&amp;lng=1&amp;id=3179252)			 	 	 			 	 &lt;br&gt;			 &lt;br&gt; 	 	Позиция зенитно-ракетного дивизиона С-125 Рыбачинской Гвардейской ЗРБР.&lt;br&gt;Позывной &quot;Локаут&quot;.&lt;br&gt;Координаты: 69°51'31&quot;N 32°0'28&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/MI0W2_52-QUpClQtfCZk1hhDdtTPs2GfLnkGbqu2KCoAVqElvo5z2pwCnPaP95mRSUxX8sGdnGkdqZdkEaQlQZtUfSUbQIqKKYhGSQrm32fHUQjf3vn-k8MSnkA0a21L1YZ5f_dVtSqdLJ9dxHy7rLzK5FRZn68prH0OS79amjFDj4UFMywnC8G_OaSE-c4W9xj6yCUGwM65XuHE&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
   </wpt>
   <wpt lat="44.492472000" lon="33.554379000">
     <ele>0.000000</ele>
@@ -382,9 +982,9 @@
   </wpt>
   <wpt lat="44.500921000" lon="33.596449000">
     <ele>0.000000</ele>
-    <name>Военно-морской музейный комплекс «Балаклава» («Музей холодной войны»)</name>
-    <cmt>Телефон +380 (692) 63-75-90.&lt;br&gt;Режим работы с 10.00 до 15.00. Выходной - понедельник. Нормально работает в летний период, в межсезонье - по выходным.&lt;br&gt;&lt;br&gt;Бывшая подземная база подводных лодок в Балаклаве, более известная как «Объект 825 ГТС» — сверхсекретный военный объект времен холодной войны в Балаклавской бухте (ГТС или Городская Телефонная Станция — название объекта в целях конспирации).&lt;br&gt;Был построен в 1957—1961 годах. В настоящее время это самый крупный из всех рассекреченных военных объектов.&lt;br&gt;&lt;br&gt;Виртуальный тур по музею: &lt;br&gt;virtual-sevastopol.ru/balaklava-muzei.html (http://wikimapia.org/external_link?url=http://virtual-sevastopol.ru/balaklava-muzei.html)&lt;br&gt;Доп. информация:&lt;br&gt;ifun.ru/view/197705 (http://wikimapia.org/external_link?url=http://ifun.ru/view/197705)&lt;br&gt;aquatek-filips.livejournal.com/194346.html (http://wikimapia.org/external_link?url=http://aquatek-filips.livejournal.com/194346.html)&lt;br&gt;www.geocaching.su/?pn=101&amp;cid=1006 (http://wikimapia.org/external_link?url=http://www.geocaching.su/?pn=101&amp;cid=1006)&lt;br&gt;Анналог на Дальнем Востоке kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submari... (http://wikimapia.org/external_link?url=http://kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submarin)&lt;br&gt;Координаты:  44°29'55&quot;N 33°35'41&quot;E</cmt>
-    <desc>Телефон +380 (692) 63-75-90.&lt;br&gt;Режим работы с 10.00 до 15.00. Выходной - понедельник. Нормально работает в летний период, в межсезонье - по выходным.&lt;br&gt;&lt;br&gt;Бывшая подземная база подводных лодок в Балаклаве, более известная как «Объект 825 ГТС» — сверхсекретный военный объект времен холодной войны в Балаклавской бухте (ГТС или Городская Телефонная Станция — название объекта в целях конспирации).&lt;br&gt;Был построен в 1957—1961 годах. В настоящее время это самый крупный из всех рассекреченных военных объектов.&lt;br&gt;&lt;br&gt;Виртуальный тур по музею: &lt;br&gt;virtual-sevastopol.ru/balaklava-muzei.html (http://wikimapia.org/external_link?url=http://virtual-sevastopol.ru/balaklava-muzei.html)&lt;br&gt;Доп. информация:&lt;br&gt;ifun.ru/view/197705 (http://wikimapia.org/external_link?url=http://ifun.ru/view/197705)&lt;br&gt;aquatek-filips.livejournal.com/194346.html (http://wikimapia.org/external_link?url=http://aquatek-filips.livejournal.com/194346.html)&lt;br&gt;www.geocaching.su/?pn=101&amp;cid=1006 (http://wikimapia.org/external_link?url=http://www.geocaching.su/?pn=101&amp;cid=1006)&lt;br&gt;Анналог на Дальнем Востоке kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submari... (http://wikimapia.org/external_link?url=http://kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submarin)&lt;br&gt;Координаты:  44°29'55&quot;N 33°35'41&quot;E</desc>
+    <name>! Военно-морской музейный комплекс «Балаклава» («Музей холодной войны»)</name>
+    <cmt>Телефон +380 (692) 63-75-90.&lt;br&gt;Режим работы с 10.00 до 15.00. Выходной - понедельник. Нормально работает в летний период, в межсезонье - по выходным.&lt;br&gt;&lt;br&gt;Бывшая подземная база подводных лодок в Балаклаве, более известная как «Объект 825 ГТС» — сверхсекретный военный объект времен холодной войны в Балаклавской бухте (ГТС или Городская Телефонная Станция — название объекта в целях конспирации).&lt;br&gt;Был построен в 1957—1961 годах. В настоящее время это самый крупный из всех рассекреченных военных объектов.&lt;br&gt;&lt;br&gt;Виртуальный тур по музею: &lt;br&gt;virtual-sevastopol.ru/balaklava-muzei.html (http://wikimapia.org/external_link?url=http://virtual-sevastopol.ru/balaklava-muzei.html)&lt;br&gt;Доп. информация:&lt;br&gt;ifun.ru/view/197705 (http://wikimapia.org/external_link?url=http://ifun.ru/view/197705)&lt;br&gt;aquatek-filips.livejournal.com/194346.html (http://wikimapia.org/external_link?url=http://aquatek-filips.livejournal.com/194346.html)&lt;br&gt;www.geocaching.su/?pn=101&amp;cid=1006 (http://wikimapia.org/external_link?url=http://www.geocaching.su/?pn=101&amp;cid=1006)&lt;br&gt;Анналог на Дальнем Востоке kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submari... (http://wikimapia.org/external_link?url=http://kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submarin)&lt;br&gt;Координаты: 44°29'55&quot;N 33°35'41&quot;E</cmt>
+    <desc>Телефон +380 (692) 63-75-90.&lt;br&gt;Режим работы с 10.00 до 15.00. Выходной - понедельник. Нормально работает в летний период, в межсезонье - по выходным.&lt;br&gt;&lt;br&gt;Бывшая подземная база подводных лодок в Балаклаве, более известная как «Объект 825 ГТС» — сверхсекретный военный объект времен холодной войны в Балаклавской бухте (ГТС или Городская Телефонная Станция — название объекта в целях конспирации).&lt;br&gt;Был построен в 1957—1961 годах. В настоящее время это самый крупный из всех рассекреченных военных объектов.&lt;br&gt;&lt;br&gt;Виртуальный тур по музею: &lt;br&gt;virtual-sevastopol.ru/balaklava-muzei.html (http://wikimapia.org/external_link?url=http://virtual-sevastopol.ru/balaklava-muzei.html)&lt;br&gt;Доп. информация:&lt;br&gt;ifun.ru/view/197705 (http://wikimapia.org/external_link?url=http://ifun.ru/view/197705)&lt;br&gt;aquatek-filips.livejournal.com/194346.html (http://wikimapia.org/external_link?url=http://aquatek-filips.livejournal.com/194346.html)&lt;br&gt;www.geocaching.su/?pn=101&amp;cid=1006 (http://wikimapia.org/external_link?url=http://www.geocaching.su/?pn=101&amp;cid=1006)&lt;br&gt;Анналог на Дальнем Востоке kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submari... (http://wikimapia.org/external_link?url=http://kfss.ru/content/protivoatomnoe-ubezhishche-dlya-submarin)&lt;br&gt;Координаты: 44°29'55&quot;N 33°35'41&quot;E</desc>
   </wpt>
   <wpt lat="44.490463000" lon="33.556725000">
     <ele>0.000000</ele>
@@ -436,9 +1036,9 @@
   </wpt>
   <wpt lat="44.515565000" lon="33.708553000">
     <ele>0.000000</ele>
-    <name>Бункер (Объект 221)</name>
-    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/QDTlQO0ChHcbj5bjjVQuwlwxq9ZVn3sHX3f2ykdjDBxm_bNpd50EK5X4epnQLerdJ6sZ62wQzkNfIiJbBMyG25_BzTgwng&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты:  44°30'54&quot;N 33°42'14&quot;E&lt;br&gt;&lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/48/65/18_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/48/65/22_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/99/95/80_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/99/95/84_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/99/95/85_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/03/98/52/04_big.jpg)                                                      &lt;br&gt;             &lt;br&gt;Недостроенный военный объект, известный как ЗКП ЧФ, Запасной/защищённый Командный Пункт Черноморского Флота, «Объект № 221», «Алсу-2», расположен в склоне горы «Мишень» (Чирка-Баир) в Крыму, между Форосом и Балаклавой. &lt;br&gt;Является самым большим подземным сооружением в Крыму.&lt;br&gt;Это грандиозное сооружение, которое находится прямо в горе на южной части полуострова Крым, недалеко от Балаклавы. Высота была выбрана 495 метров, по данным геологоразведки гора представляла собой скалу, без разломов и полостей. «Крыша» из горной породы над помещениями бункера составляет 180 метров.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/mluXQNjOdu8Wdg4y5w1dywJ6ca_aRk8SxrBL4KkrLdMJ4hRgz12ejAaNeKSCA5CtmhZJJFLMtfakrF4JHHs7ZDqjGrLwyg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/AHy7MVtXX-ijbpNvZGp82JQy8jm_cHLVMAw4I5-4G5ufDCcZTKAOU0QcvL27eYzZab4eyvyh6bVqvizgu_LysO5YDMYp5A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/x87KjLm8MzseXmzeU643ccWfInqsO_C59elz_WVzG_NktUQo3rBSwPPq5QIhh24pLh7izJ87x6-AMZZcjj9sptF0e5PW2w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/m-JlCmzgvqJQxR5ctSY38twbFavVt2Hs_Vg3-ffzlcD0kYwTpYAd8K2PlHp5isnK9POclo9B9HFUqESgS-l6l1xZ7C9pnA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/A2zAdyVJVS-Cd3wmWyyat6oYFlaDeePFDZSZanJhjm25xpluS9bQ9q4WvYwkGPB6ArSOrHnrylJntC35xv1wQrvtS6Wi8Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/63XXgdgsuPQCjDiBvxJOd5gKDml7MplBwbf0iSECdXZ5wZmbSMVoo9a_1ocoGr_FtkqklexA3gFPjaZJm69y405T5ibKhEIg9yy6rGYuWS0eIbbprjHTluiIZwUqb-lFrrv0YvSiXeVOqkeKaGdI2O0CSIwgrllpWGxkVPEhcsSA-L9thxgz_67KiJRFn-cWTDZEyZJrq-0Ovb0z&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/O67vqvDluZ7B1E4krTg1xMWHjuKOcIij8Qvq7E21UvJ1sXGffjtWbkF7oiXoUvlEUQOk6OgbWdgEbnc7jK9FeumqAj7Oi9U4NDU_CPzUz0konRv8f-_xoOkj0rDGxc7mD17d7emZ9gR6g1uULow4vex1r9i8sd5VqwyT_xtvawuz1w2OLEsM1Cd2tUbNYCyddmaCJurJsFe-aeYw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/-OGtgV6U5-HA71iVwa_TIJ5UnOl2qWS7pljzh0Dz9v7MVASv153tMcLkMysRQCxO7qscSxRia1ci7XXC8ROGYP4rjHuF6xyAZXhOThHUbgehsja_7GdBfk_vtHncibBCIrNhijwGK9AOA33Y7b_mPYu09HiDNUWWzP1REGCBiG61il_gD5WAau_MgaMHCy3THewP6m49S8IJMWp6&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/tCd0lzOYAwJSD8nZu_HgWejYTB2ZfPx4Al5imNxg9W7PX5fs0GQQ_SGyREYkIy5ezAma5MeVFIrfZDAyyzQ7u7rOYhWHLkXcBZERYgsVitGDxQ44YG7MZVVGZi8o7uFpZO5DQKYwg1QGFeUGNWd8Fb2tduFUv6fsgdhZQLz5gRhGa87LQySr7cw5I6gyeANS9M13K19r_6CxDACv&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
-    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/QDTlQO0ChHcbj5bjjVQuwlwxq9ZVn3sHX3f2ykdjDBxm_bNpd50EK5X4epnQLerdJ6sZ62wQzkNfIiJbBMyG25_BzTgwng&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты:  44°30'54&quot;N 33°42'14&quot;E&lt;br&gt;&lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/48/65/18_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/48/65/22_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/99/95/80_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/99/95/84_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/99/95/85_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/03/98/52/04_big.jpg)                                                      &lt;br&gt;             &lt;br&gt;Недостроенный военный объект, известный как ЗКП ЧФ, Запасной/защищённый Командный Пункт Черноморского Флота, «Объект № 221», «Алсу-2», расположен в склоне горы «Мишень» (Чирка-Баир) в Крыму, между Форосом и Балаклавой. &lt;br&gt;Является самым большим подземным сооружением в Крыму.&lt;br&gt;Это грандиозное сооружение, которое находится прямо в горе на южной части полуострова Крым, недалеко от Балаклавы. Высота была выбрана 495 метров, по данным геологоразведки гора представляла собой скалу, без разломов и полостей. «Крыша» из горной породы над помещениями бункера составляет 180 метров.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/mluXQNjOdu8Wdg4y5w1dywJ6ca_aRk8SxrBL4KkrLdMJ4hRgz12ejAaNeKSCA5CtmhZJJFLMtfakrF4JHHs7ZDqjGrLwyg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/AHy7MVtXX-ijbpNvZGp82JQy8jm_cHLVMAw4I5-4G5ufDCcZTKAOU0QcvL27eYzZab4eyvyh6bVqvizgu_LysO5YDMYp5A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/x87KjLm8MzseXmzeU643ccWfInqsO_C59elz_WVzG_NktUQo3rBSwPPq5QIhh24pLh7izJ87x6-AMZZcjj9sptF0e5PW2w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/m-JlCmzgvqJQxR5ctSY38twbFavVt2Hs_Vg3-ffzlcD0kYwTpYAd8K2PlHp5isnK9POclo9B9HFUqESgS-l6l1xZ7C9pnA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/A2zAdyVJVS-Cd3wmWyyat6oYFlaDeePFDZSZanJhjm25xpluS9bQ9q4WvYwkGPB6ArSOrHnrylJntC35xv1wQrvtS6Wi8Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/63XXgdgsuPQCjDiBvxJOd5gKDml7MplBwbf0iSECdXZ5wZmbSMVoo9a_1ocoGr_FtkqklexA3gFPjaZJm69y405T5ibKhEIg9yy6rGYuWS0eIbbprjHTluiIZwUqb-lFrrv0YvSiXeVOqkeKaGdI2O0CSIwgrllpWGxkVPEhcsSA-L9thxgz_67KiJRFn-cWTDZEyZJrq-0Ovb0z&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/O67vqvDluZ7B1E4krTg1xMWHjuKOcIij8Qvq7E21UvJ1sXGffjtWbkF7oiXoUvlEUQOk6OgbWdgEbnc7jK9FeumqAj7Oi9U4NDU_CPzUz0konRv8f-_xoOkj0rDGxc7mD17d7emZ9gR6g1uULow4vex1r9i8sd5VqwyT_xtvawuz1w2OLEsM1Cd2tUbNYCyddmaCJurJsFe-aeYw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/-OGtgV6U5-HA71iVwa_TIJ5UnOl2qWS7pljzh0Dz9v7MVASv153tMcLkMysRQCxO7qscSxRia1ci7XXC8ROGYP4rjHuF6xyAZXhOThHUbgehsja_7GdBfk_vtHncibBCIrNhijwGK9AOA33Y7b_mPYu09HiDNUWWzP1REGCBiG61il_gD5WAau_MgaMHCy3THewP6m49S8IJMWp6&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/tCd0lzOYAwJSD8nZu_HgWejYTB2ZfPx4Al5imNxg9W7PX5fs0GQQ_SGyREYkIy5ezAma5MeVFIrfZDAyyzQ7u7rOYhWHLkXcBZERYgsVitGDxQ44YG7MZVVGZi8o7uFpZO5DQKYwg1QGFeUGNWd8Fb2tduFUv6fsgdhZQLz5gRhGa87LQySr7cw5I6gyeANS9M13K19r_6CxDACv&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+    <name>! Бункер (Объект 221)</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/QDTlQO0ChHcbj5bjjVQuwlwxq9ZVn3sHX3f2ykdjDBxm_bNpd50EK5X4epnQLerdJ6sZ62wQzkNfIiJbBMyG25_BzTgwng&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты: 44°30'54&quot;N 33°42'14&quot;E&lt;br&gt;&lt;br&gt; (http://photos.wikimapia.org/p/00/01/48/65/18_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/48/65/22_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/99/95/80_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/99/95/84_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/99/95/85_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/03/98/52/04_big.jpg) &lt;br&gt; &lt;br&gt;Недостроенный военный объект, известный как ЗКП ЧФ, Запасной/защищённый Командный Пункт Черноморского Флота, «Объект № 221», «Алсу-2», расположен в склоне горы «Мишень» (Чирка-Баир) в Крыму, между Форосом и Балаклавой. &lt;br&gt;Является самым большим подземным сооружением в Крыму.&lt;br&gt;Это грандиозное сооружение, которое находится прямо в горе на южной части полуострова Крым, недалеко от Балаклавы. Высота была выбрана 495 метров, по данным геологоразведки гора представляла собой скалу, без разломов и полостей. «Крыша» из горной породы над помещениями бункера составляет 180 метров.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/mluXQNjOdu8Wdg4y5w1dywJ6ca_aRk8SxrBL4KkrLdMJ4hRgz12ejAaNeKSCA5CtmhZJJFLMtfakrF4JHHs7ZDqjGrLwyg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/AHy7MVtXX-ijbpNvZGp82JQy8jm_cHLVMAw4I5-4G5ufDCcZTKAOU0QcvL27eYzZab4eyvyh6bVqvizgu_LysO5YDMYp5A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/x87KjLm8MzseXmzeU643ccWfInqsO_C59elz_WVzG_NktUQo3rBSwPPq5QIhh24pLh7izJ87x6-AMZZcjj9sptF0e5PW2w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/m-JlCmzgvqJQxR5ctSY38twbFavVt2Hs_Vg3-ffzlcD0kYwTpYAd8K2PlHp5isnK9POclo9B9HFUqESgS-l6l1xZ7C9pnA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/A2zAdyVJVS-Cd3wmWyyat6oYFlaDeePFDZSZanJhjm25xpluS9bQ9q4WvYwkGPB6ArSOrHnrylJntC35xv1wQrvtS6Wi8Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/63XXgdgsuPQCjDiBvxJOd5gKDml7MplBwbf0iSECdXZ5wZmbSMVoo9a_1ocoGr_FtkqklexA3gFPjaZJm69y405T5ibKhEIg9yy6rGYuWS0eIbbprjHTluiIZwUqb-lFrrv0YvSiXeVOqkeKaGdI2O0CSIwgrllpWGxkVPEhcsSA-L9thxgz_67KiJRFn-cWTDZEyZJrq-0Ovb0z&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/O67vqvDluZ7B1E4krTg1xMWHjuKOcIij8Qvq7E21UvJ1sXGffjtWbkF7oiXoUvlEUQOk6OgbWdgEbnc7jK9FeumqAj7Oi9U4NDU_CPzUz0konRv8f-_xoOkj0rDGxc7mD17d7emZ9gR6g1uULow4vex1r9i8sd5VqwyT_xtvawuz1w2OLEsM1Cd2tUbNYCyddmaCJurJsFe-aeYw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/-OGtgV6U5-HA71iVwa_TIJ5UnOl2qWS7pljzh0Dz9v7MVASv153tMcLkMysRQCxO7qscSxRia1ci7XXC8ROGYP4rjHuF6xyAZXhOThHUbgehsja_7GdBfk_vtHncibBCIrNhijwGK9AOA33Y7b_mPYu09HiDNUWWzP1REGCBiG61il_gD5WAau_MgaMHCy3THewP6m49S8IJMWp6&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/tCd0lzOYAwJSD8nZu_HgWejYTB2ZfPx4Al5imNxg9W7PX5fs0GQQ_SGyREYkIy5ezAma5MeVFIrfZDAyyzQ7u7rOYhWHLkXcBZERYgsVitGDxQ44YG7MZVVGZi8o7uFpZO5DQKYwg1QGFeUGNWd8Fb2tduFUv6fsgdhZQLz5gRhGa87LQySr7cw5I6gyeANS9M13K19r_6CxDACv&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/QDTlQO0ChHcbj5bjjVQuwlwxq9ZVn3sHX3f2ykdjDBxm_bNpd50EK5X4epnQLerdJ6sZ62wQzkNfIiJbBMyG25_BzTgwng&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты: 44°30'54&quot;N 33°42'14&quot;E&lt;br&gt;&lt;br&gt; (http://photos.wikimapia.org/p/00/01/48/65/18_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/48/65/22_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/99/95/80_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/99/95/84_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/99/95/85_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/03/98/52/04_big.jpg) &lt;br&gt; &lt;br&gt;Недостроенный военный объект, известный как ЗКП ЧФ, Запасной/защищённый Командный Пункт Черноморского Флота, «Объект № 221», «Алсу-2», расположен в склоне горы «Мишень» (Чирка-Баир) в Крыму, между Форосом и Балаклавой. &lt;br&gt;Является самым большим подземным сооружением в Крыму.&lt;br&gt;Это грандиозное сооружение, которое находится прямо в горе на южной части полуострова Крым, недалеко от Балаклавы. Высота была выбрана 495 метров, по данным геологоразведки гора представляла собой скалу, без разломов и полостей. «Крыша» из горной породы над помещениями бункера составляет 180 метров.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/mluXQNjOdu8Wdg4y5w1dywJ6ca_aRk8SxrBL4KkrLdMJ4hRgz12ejAaNeKSCA5CtmhZJJFLMtfakrF4JHHs7ZDqjGrLwyg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/AHy7MVtXX-ijbpNvZGp82JQy8jm_cHLVMAw4I5-4G5ufDCcZTKAOU0QcvL27eYzZab4eyvyh6bVqvizgu_LysO5YDMYp5A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/x87KjLm8MzseXmzeU643ccWfInqsO_C59elz_WVzG_NktUQo3rBSwPPq5QIhh24pLh7izJ87x6-AMZZcjj9sptF0e5PW2w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/m-JlCmzgvqJQxR5ctSY38twbFavVt2Hs_Vg3-ffzlcD0kYwTpYAd8K2PlHp5isnK9POclo9B9HFUqESgS-l6l1xZ7C9pnA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/A2zAdyVJVS-Cd3wmWyyat6oYFlaDeePFDZSZanJhjm25xpluS9bQ9q4WvYwkGPB6ArSOrHnrylJntC35xv1wQrvtS6Wi8Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/63XXgdgsuPQCjDiBvxJOd5gKDml7MplBwbf0iSECdXZ5wZmbSMVoo9a_1ocoGr_FtkqklexA3gFPjaZJm69y405T5ibKhEIg9yy6rGYuWS0eIbbprjHTluiIZwUqb-lFrrv0YvSiXeVOqkeKaGdI2O0CSIwgrllpWGxkVPEhcsSA-L9thxgz_67KiJRFn-cWTDZEyZJrq-0Ovb0z&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/O67vqvDluZ7B1E4krTg1xMWHjuKOcIij8Qvq7E21UvJ1sXGffjtWbkF7oiXoUvlEUQOk6OgbWdgEbnc7jK9FeumqAj7Oi9U4NDU_CPzUz0konRv8f-_xoOkj0rDGxc7mD17d7emZ9gR6g1uULow4vex1r9i8sd5VqwyT_xtvawuz1w2OLEsM1Cd2tUbNYCyddmaCJurJsFe-aeYw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/-OGtgV6U5-HA71iVwa_TIJ5UnOl2qWS7pljzh0Dz9v7MVASv153tMcLkMysRQCxO7qscSxRia1ci7XXC8ROGYP4rjHuF6xyAZXhOThHUbgehsja_7GdBfk_vtHncibBCIrNhijwGK9AOA33Y7b_mPYu09HiDNUWWzP1REGCBiG61il_gD5WAau_MgaMHCy3THewP6m49S8IJMWp6&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/tCd0lzOYAwJSD8nZu_HgWejYTB2ZfPx4Al5imNxg9W7PX5fs0GQQ_SGyREYkIy5ezAma5MeVFIrfZDAyyzQ7u7rOYhWHLkXcBZERYgsVitGDxQ44YG7MZVVGZi8o7uFpZO5DQKYwg1QGFeUGNWd8Fb2tduFUv6fsgdhZQLz5gRhGa87LQySr7cw5I6gyeANS9M13K19r_6CxDACv&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
   </wpt>
   <wpt lat="44.825454000" lon="35.037822000">
     <ele>0.000000</ele>
@@ -454,9 +1054,9 @@
   </wpt>
   <wpt lat="44.466376000" lon="34.065317000">
     <ele>0.000000</ele>
-    <name>Ветрогенератор</name>
-    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/1DtnvvON5-dF4yruQoGxc0GaWAfZMG1v-mS5uhxsOqu2Ue5schZDDtj5GcD3GqiRqhlatYq1xl-51FcOab3WsSk9EYnOYA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты:  44°28'0&quot;N 34°3'55&quot;E&lt;br&gt;&lt;br&gt;                  (http://photos.wikimapia.org/p/00/00/92/85/62_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/01/44/05_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/82/36/48_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/77/41/28_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/92/38/07_big.jpg)                                                      &lt;br&gt;             &lt;br&gt;            Вернее то, что от него осталось.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/NYF2q9xETP-XxMo4YY1hilWQFmxEu5PwdQ2BLTSfmxR606Znmps_WZN1x1eCRL22lI5ChQo0H0UaXBo9rlhRzX05T7D36A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/YzecKZq9Mb0QCDq4NlP7GFKxduWTixMzMYdndnUm_WS59X1g5I_RP76EhXhytEoq5xnAECSXnAaM0QdvavedOxZfnLnfHA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/z0m1V6xPL1PYPnm_x3OZIdoWeS-lo_1r9gWNZnLySZfBZAZA3Wav5TmllJJmrwNZG3dU6j3uy4_iBjseAAuVPpgWVNc4jw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/f-V9U1q91AmgByu2AUEElMg1BwA0OV69amghdEfNfexjj0O7Xu57BQHU33QKqJm5EymdkasbL7ONhTBYL5pJY-n3VxnkbA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/rN02-TkXsWjSm7KNIcM4E670KEEYXJKhyHjPeiP1LOvaUT2a5xcfelBdC50J0LUSuqrd9ZQN18cUi1cv4UFSYlRRqtonXbGXBLFGBLqEetF5qelG80QS_n_XU46ckPBN44XM3VSdcjcbx8ROyE_CA9KOzKkxoyE5xaV45MHsG257EDkcclsXQn1NFP_Cv3XU5Et5CqSpluQ0PRnM&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/HBz6wv8-F7Bfn3_mqsFuCLSFqLi3tb-LDq6JnanJIzh7VfpncWEU79fGdzFp2E8RTn0LqzCOUZRS-Sbn3MHzyqVauuFm-w1ClI7ureCtKMPQolMDyencNqd2zgpdgnL3drnWCGTEslsyt4PSayRu8f1QX6_pVug4zgTc-GK5rJw0iSbWnCOHLWJIKEDVNQDqhiP698KRtI97XADu&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/98iojtf6vRmEV5VJHTp_kkx7tYG8X2p69vSbQsuV4wP7iVNFJU5xhFd__8llmDSBF3gppX7FeXq5aKfuhABqo3XGVAgX1zgYb_zrLX309sYzga8_mjOuypnaahWeqlZ2ea5ad7cgVqrKHqGA2oMxWKjdaT6SSHEDSg7fjkO7dxRZAu5MH4b13dvuIDYAK0kOHS3QONiXzbokxhiP&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/NsjXxGN4m6mirxEt1SX7N6OOE_mSpxS2PPaCDuLTEYUmFc69ZhdTdhG_pDHJzdPWwO4-k9JNboPvTfuofgThddeJQqVH8LAdiUWJ2X1aZ8TI-11Yabcgi2gbajccgaVWdb243EZDm1f-imF84vBjxcj2KsQRZfWZQLS9QDMzuuUA7DNqeVIqKv8lWA9vWuxEQFLy6XRS49Ny6-UV&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/q1pwGbW2gqkN-5SEht6S5VIH8VwhN1Xr_v_dMF-JWFGbzLiJNWP7RZbmkuupjjDMGoUiUpasIrkSJMXHp4JaGK6Vn_KwS17hXUMzCyd7es3fWNO3DNDuBYhyqS4vtrUemu0wJ5yAvos6eTkTCD1Te9gOt4pb1J63a7h9fxmIa2Wmb0HHio0xBirbY5z6Y0zf7UBtxW7sABd-ieyr&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
-    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/1DtnvvON5-dF4yruQoGxc0GaWAfZMG1v-mS5uhxsOqu2Ue5schZDDtj5GcD3GqiRqhlatYq1xl-51FcOab3WsSk9EYnOYA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты:  44°28'0&quot;N 34°3'55&quot;E&lt;br&gt;&lt;br&gt;                  (http://photos.wikimapia.org/p/00/00/92/85/62_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/01/44/05_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/01/82/36/48_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/77/41/28_big.jpg)                                                  &lt;br&gt;                  (http://photos.wikimapia.org/p/00/02/92/38/07_big.jpg)                                                      &lt;br&gt;             &lt;br&gt;            Вернее то, что от него осталось.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/NYF2q9xETP-XxMo4YY1hilWQFmxEu5PwdQ2BLTSfmxR606Znmps_WZN1x1eCRL22lI5ChQo0H0UaXBo9rlhRzX05T7D36A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/YzecKZq9Mb0QCDq4NlP7GFKxduWTixMzMYdndnUm_WS59X1g5I_RP76EhXhytEoq5xnAECSXnAaM0QdvavedOxZfnLnfHA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/z0m1V6xPL1PYPnm_x3OZIdoWeS-lo_1r9gWNZnLySZfBZAZA3Wav5TmllJJmrwNZG3dU6j3uy4_iBjseAAuVPpgWVNc4jw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/f-V9U1q91AmgByu2AUEElMg1BwA0OV69amghdEfNfexjj0O7Xu57BQHU33QKqJm5EymdkasbL7ONhTBYL5pJY-n3VxnkbA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/rN02-TkXsWjSm7KNIcM4E670KEEYXJKhyHjPeiP1LOvaUT2a5xcfelBdC50J0LUSuqrd9ZQN18cUi1cv4UFSYlRRqtonXbGXBLFGBLqEetF5qelG80QS_n_XU46ckPBN44XM3VSdcjcbx8ROyE_CA9KOzKkxoyE5xaV45MHsG257EDkcclsXQn1NFP_Cv3XU5Et5CqSpluQ0PRnM&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/HBz6wv8-F7Bfn3_mqsFuCLSFqLi3tb-LDq6JnanJIzh7VfpncWEU79fGdzFp2E8RTn0LqzCOUZRS-Sbn3MHzyqVauuFm-w1ClI7ureCtKMPQolMDyencNqd2zgpdgnL3drnWCGTEslsyt4PSayRu8f1QX6_pVug4zgTc-GK5rJw0iSbWnCOHLWJIKEDVNQDqhiP698KRtI97XADu&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/98iojtf6vRmEV5VJHTp_kkx7tYG8X2p69vSbQsuV4wP7iVNFJU5xhFd__8llmDSBF3gppX7FeXq5aKfuhABqo3XGVAgX1zgYb_zrLX309sYzga8_mjOuypnaahWeqlZ2ea5ad7cgVqrKHqGA2oMxWKjdaT6SSHEDSg7fjkO7dxRZAu5MH4b13dvuIDYAK0kOHS3QONiXzbokxhiP&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/NsjXxGN4m6mirxEt1SX7N6OOE_mSpxS2PPaCDuLTEYUmFc69ZhdTdhG_pDHJzdPWwO4-k9JNboPvTfuofgThddeJQqVH8LAdiUWJ2X1aZ8TI-11Yabcgi2gbajccgaVWdb243EZDm1f-imF84vBjxcj2KsQRZfWZQLS9QDMzuuUA7DNqeVIqKv8lWA9vWuxEQFLy6XRS49Ny6-UV&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/q1pwGbW2gqkN-5SEht6S5VIH8VwhN1Xr_v_dMF-JWFGbzLiJNWP7RZbmkuupjjDMGoUiUpasIrkSJMXHp4JaGK6Vn_KwS17hXUMzCyd7es3fWNO3DNDuBYhyqS4vtrUemu0wJ5yAvos6eTkTCD1Te9gOt4pb1J63a7h9fxmIa2Wmb0HHio0xBirbY5z6Y0zf7UBtxW7sABd-ieyr&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+    <name>! Ветрогенератор (вид со скалы)</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/1DtnvvON5-dF4yruQoGxc0GaWAfZMG1v-mS5uhxsOqu2Ue5schZDDtj5GcD3GqiRqhlatYq1xl-51FcOab3WsSk9EYnOYA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты: 44°28'0&quot;N 34°3'55&quot;E&lt;br&gt;&lt;br&gt; (http://photos.wikimapia.org/p/00/00/92/85/62_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/44/05_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/82/36/48_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/77/41/28_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/92/38/07_big.jpg) &lt;br&gt; &lt;br&gt; Вернее то, что от него осталось.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/NYF2q9xETP-XxMo4YY1hilWQFmxEu5PwdQ2BLTSfmxR606Znmps_WZN1x1eCRL22lI5ChQo0H0UaXBo9rlhRzX05T7D36A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/YzecKZq9Mb0QCDq4NlP7GFKxduWTixMzMYdndnUm_WS59X1g5I_RP76EhXhytEoq5xnAECSXnAaM0QdvavedOxZfnLnfHA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/z0m1V6xPL1PYPnm_x3OZIdoWeS-lo_1r9gWNZnLySZfBZAZA3Wav5TmllJJmrwNZG3dU6j3uy4_iBjseAAuVPpgWVNc4jw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/f-V9U1q91AmgByu2AUEElMg1BwA0OV69amghdEfNfexjj0O7Xu57BQHU33QKqJm5EymdkasbL7ONhTBYL5pJY-n3VxnkbA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/rN02-TkXsWjSm7KNIcM4E670KEEYXJKhyHjPeiP1LOvaUT2a5xcfelBdC50J0LUSuqrd9ZQN18cUi1cv4UFSYlRRqtonXbGXBLFGBLqEetF5qelG80QS_n_XU46ckPBN44XM3VSdcjcbx8ROyE_CA9KOzKkxoyE5xaV45MHsG257EDkcclsXQn1NFP_Cv3XU5Et5CqSpluQ0PRnM&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/HBz6wv8-F7Bfn3_mqsFuCLSFqLi3tb-LDq6JnanJIzh7VfpncWEU79fGdzFp2E8RTn0LqzCOUZRS-Sbn3MHzyqVauuFm-w1ClI7ureCtKMPQolMDyencNqd2zgpdgnL3drnWCGTEslsyt4PSayRu8f1QX6_pVug4zgTc-GK5rJw0iSbWnCOHLWJIKEDVNQDqhiP698KRtI97XADu&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/98iojtf6vRmEV5VJHTp_kkx7tYG8X2p69vSbQsuV4wP7iVNFJU5xhFd__8llmDSBF3gppX7FeXq5aKfuhABqo3XGVAgX1zgYb_zrLX309sYzga8_mjOuypnaahWeqlZ2ea5ad7cgVqrKHqGA2oMxWKjdaT6SSHEDSg7fjkO7dxRZAu5MH4b13dvuIDYAK0kOHS3QONiXzbokxhiP&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/NsjXxGN4m6mirxEt1SX7N6OOE_mSpxS2PPaCDuLTEYUmFc69ZhdTdhG_pDHJzdPWwO4-k9JNboPvTfuofgThddeJQqVH8LAdiUWJ2X1aZ8TI-11Yabcgi2gbajccgaVWdb243EZDm1f-imF84vBjxcj2KsQRZfWZQLS9QDMzuuUA7DNqeVIqKv8lWA9vWuxEQFLy6XRS49Ny6-UV&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/q1pwGbW2gqkN-5SEht6S5VIH8VwhN1Xr_v_dMF-JWFGbzLiJNWP7RZbmkuupjjDMGoUiUpasIrkSJMXHp4JaGK6Vn_KwS17hXUMzCyd7es3fWNO3DNDuBYhyqS4vtrUemu0wJ5yAvos6eTkTCD1Te9gOt4pb1J63a7h9fxmIa2Wmb0HHio0xBirbY5z6Y0zf7UBtxW7sABd-ieyr&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/1DtnvvON5-dF4yruQoGxc0GaWAfZMG1v-mS5uhxsOqu2Ue5schZDDtj5GcD3GqiRqhlatYq1xl-51FcOab3WsSk9EYnOYA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Координаты: 44°28'0&quot;N 34°3'55&quot;E&lt;br&gt;&lt;br&gt; (http://photos.wikimapia.org/p/00/00/92/85/62_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/01/44/05_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/01/82/36/48_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/77/41/28_big.jpg) &lt;br&gt; (http://photos.wikimapia.org/p/00/02/92/38/07_big.jpg) &lt;br&gt; &lt;br&gt; Вернее то, что от него осталось.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/NYF2q9xETP-XxMo4YY1hilWQFmxEu5PwdQ2BLTSfmxR606Znmps_WZN1x1eCRL22lI5ChQo0H0UaXBo9rlhRzX05T7D36A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/YzecKZq9Mb0QCDq4NlP7GFKxduWTixMzMYdndnUm_WS59X1g5I_RP76EhXhytEoq5xnAECSXnAaM0QdvavedOxZfnLnfHA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/z0m1V6xPL1PYPnm_x3OZIdoWeS-lo_1r9gWNZnLySZfBZAZA3Wav5TmllJJmrwNZG3dU6j3uy4_iBjseAAuVPpgWVNc4jw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/f-V9U1q91AmgByu2AUEElMg1BwA0OV69amghdEfNfexjj0O7Xu57BQHU33QKqJm5EymdkasbL7ONhTBYL5pJY-n3VxnkbA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/rN02-TkXsWjSm7KNIcM4E670KEEYXJKhyHjPeiP1LOvaUT2a5xcfelBdC50J0LUSuqrd9ZQN18cUi1cv4UFSYlRRqtonXbGXBLFGBLqEetF5qelG80QS_n_XU46ckPBN44XM3VSdcjcbx8ROyE_CA9KOzKkxoyE5xaV45MHsG257EDkcclsXQn1NFP_Cv3XU5Et5CqSpluQ0PRnM&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/HBz6wv8-F7Bfn3_mqsFuCLSFqLi3tb-LDq6JnanJIzh7VfpncWEU79fGdzFp2E8RTn0LqzCOUZRS-Sbn3MHzyqVauuFm-w1ClI7ureCtKMPQolMDyencNqd2zgpdgnL3drnWCGTEslsyt4PSayRu8f1QX6_pVug4zgTc-GK5rJw0iSbWnCOHLWJIKEDVNQDqhiP698KRtI97XADu&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/98iojtf6vRmEV5VJHTp_kkx7tYG8X2p69vSbQsuV4wP7iVNFJU5xhFd__8llmDSBF3gppX7FeXq5aKfuhABqo3XGVAgX1zgYb_zrLX309sYzga8_mjOuypnaahWeqlZ2ea5ad7cgVqrKHqGA2oMxWKjdaT6SSHEDSg7fjkO7dxRZAu5MH4b13dvuIDYAK0kOHS3QONiXzbokxhiP&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/NsjXxGN4m6mirxEt1SX7N6OOE_mSpxS2PPaCDuLTEYUmFc69ZhdTdhG_pDHJzdPWwO4-k9JNboPvTfuofgThddeJQqVH8LAdiUWJ2X1aZ8TI-11Yabcgi2gbajccgaVWdb243EZDm1f-imF84vBjxcj2KsQRZfWZQLS9QDMzuuUA7DNqeVIqKv8lWA9vWuxEQFLy6XRS49Ny6-UV&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/q1pwGbW2gqkN-5SEht6S5VIH8VwhN1Xr_v_dMF-JWFGbzLiJNWP7RZbmkuupjjDMGoUiUpasIrkSJMXHp4JaGK6Vn_KwS17hXUMzCyd7es3fWNO3DNDuBYhyqS4vtrUemu0wJ5yAvos6eTkTCD1Te9gOt4pb1J63a7h9fxmIa2Wmb0HHio0xBirbY5z6Y0zf7UBtxW7sABd-ieyr&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
   </wpt>
   <wpt lat="44.493138000" lon="33.557202000">
     <ele>0.000000</ele>
@@ -604,13 +1204,13 @@
   </wpt>
   <wpt lat="54.048269000" lon="27.783742000">
     <ele>0.000000</ele>
-    <name>Вагоны (стрельбище)</name>
-    <cmt>Вагоны (стрельбище)</cmt>
-    <desc>Вагоны (стрельбище)</desc>
+    <name>! Вагоны (стрельбище)</name>
+    <cmt>! Вагоны (стрельбище)</cmt>
+    <desc>! Вагоны (стрельбище)</desc>
   </wpt>
   <wpt lat="54.057908000" lon="27.296337000">
     <ele>0.000000</ele>
-    <name>Музей ВОВ и военной техники</name>
+    <name>Музей ВОВ и военной техники (Линия Сталина)</name>
     <cmt>маст хев</cmt>
     <desc>маст хев</desc>
   </wpt>
@@ -656,4 +1256,134 @@
     <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/Lb4YQ8wV7e_hiRT0Cx_4MqCD0NARFBF5W1bthn9uQaV0-bWD038_G9yMbOZCcPPsQZCw9c8w8Dgc1zLMMRMp3K0HCt4uEg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=9839450&amp;type=1&amp;lng=1&amp;id=478430)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=9839450&amp;type=1&amp;lng=1&amp;id=3142417)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;  	    	Фото 1 - лето 2008 года; второе фото - май 2009года.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/jco9SgTH7XBjilmXgoYpD-7rFgvWA1Kyy8H5rDO2yy069LnEfoTvqHuzcDd8M2L1lFTKAz5HJxjd8WMYvF4XOw-sAeDgNA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/NQjnjp6iiuZdcz38XWv486nAXfKzPHs4diGH8bQDWhTmLso1UzfpdjYTZrV9RS2s-qbtGmmt6lGnCS9mS8N8q1FnUtn4Jg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/rBBUvI2tIuK1q_7ISJ4FxMeCakdl1TnP8HramFWTMoDx2j6slydLG8Sys5s4jyDEbMlgS0RNZ1OT4rhp_FTfuP6Hl_U4nPSzt4P26pZnywFlnNf1psxnji4qrBWQgj0tyRgDFq7mlxcn1f66snThYoAS83r6CSY3p1peOf6ZmuEKagIn0s_1Z-lQMfx-N72EVRXOfjCTqCadoYG4&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/bNFtWT12JwUOq6L83OIW4Dt_TANUODWp_jbTk5GqDGdQxzfEzhtTcaZyrNMx-WXR0rS7lxU3j1-qMkxDnOaiW8WghB7RtOKu0yk62XBOxBMQd7_CReTre4MtbcnaHWeLwcvRHn_Q8EEkfIXH1EgSNHTY5c9hhrN2D2EhLH2D3eiLSAm1F_Rn_AdzHYmo6T2taEuoP2w0hXUviY8A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/6yZ_IDhuz1sga51T-MJowaHh0nbOuyNf6231AVZMjd6S62S1PxhfwlX73IT94SX2wLM0f0tMDDatXHIQZbOnLVhlVy7ZULJvz0tL4ZKm_3Lyy5gjKQkMj6N_pYwanfDrGyWHAvwhShNwR31UH9qNdIEjY9-UjfvNDlU-CqCxM11pRMh6JQMJmvE0T0FUVz4Xy6edz2DWTtrtB7hl&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
     <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/Lb4YQ8wV7e_hiRT0Cx_4MqCD0NARFBF5W1bthn9uQaV0-bWD038_G9yMbOZCcPPsQZCw9c8w8Dgc1zLMMRMp3K0HCt4uEg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=9839450&amp;type=1&amp;lng=1&amp;id=478430)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=9839450&amp;type=1&amp;lng=1&amp;id=3142417)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;  	    	Фото 1 - лето 2008 года; второе фото - май 2009года.&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/jco9SgTH7XBjilmXgoYpD-7rFgvWA1Kyy8H5rDO2yy069LnEfoTvqHuzcDd8M2L1lFTKAz5HJxjd8WMYvF4XOw-sAeDgNA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/NQjnjp6iiuZdcz38XWv486nAXfKzPHs4diGH8bQDWhTmLso1UzfpdjYTZrV9RS2s-qbtGmmt6lGnCS9mS8N8q1FnUtn4Jg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/rBBUvI2tIuK1q_7ISJ4FxMeCakdl1TnP8HramFWTMoDx2j6slydLG8Sys5s4jyDEbMlgS0RNZ1OT4rhp_FTfuP6Hl_U4nPSzt4P26pZnywFlnNf1psxnji4qrBWQgj0tyRgDFq7mlxcn1f66snThYoAS83r6CSY3p1peOf6ZmuEKagIn0s_1Z-lQMfx-N72EVRXOfjCTqCadoYG4&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/bNFtWT12JwUOq6L83OIW4Dt_TANUODWp_jbTk5GqDGdQxzfEzhtTcaZyrNMx-WXR0rS7lxU3j1-qMkxDnOaiW8WghB7RtOKu0yk62XBOxBMQd7_CReTre4MtbcnaHWeLwcvRHn_Q8EEkfIXH1EgSNHTY5c9hhrN2D2EhLH2D3eiLSAm1F_Rn_AdzHYmo6T2taEuoP2w0hXUviY8A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/6yZ_IDhuz1sga51T-MJowaHh0nbOuyNf6231AVZMjd6S62S1PxhfwlX73IT94SX2wLM0f0tMDDatXHIQZbOnLVhlVy7ZULJvz0tL4ZKm_3Lyy5gjKQkMj6N_pYwanfDrGyWHAvwhShNwR31UH9qNdIEjY9-UjfvNDlU-CqCxM11pRMh6JQMJmvE0T0FUVz4Xy6edz2DWTtrtB7hl&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
   </wpt>
+  <wpt lat="60.554916000" lon="29.240600000">
+    <ele>0.000000</ele>
+    <name>Самолёт як-9д, место падения самолёта.</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/RVvLP5P-OHG9ErfO-qOLPaDRgygX5157tJzo2N0Sw2LsOVm2phhiGneTyYqnNGzFHeNzMvd3S8wPVqjnVYOSKVZitluoQQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=25756108&amp;type=1&amp;lng=1&amp;id=2818816)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=25756108&amp;type=1&amp;lng=1&amp;id=2858643)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=25756108&amp;type=1&amp;lng=1&amp;id=2858647)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;Осенью 2011 года грибники случайно обнаружили остатки авиационного железа и среди них останки (кости ног). По длинной цепочке людей информация дошла до нас и в мае 2012 года приехали первый раз на это место. Нашли останки разбросанные по поляне. Самолёт почти полностью подвергся разграблению. На куске обшивки самолета нашли выбитый номер и вскоре вычислили лётчика.Истребитель ЯК-9Д заводской номер 1115372 принадлежал 29 Гвардейскому Волховскому истребительному авиационному полку. Указанный истребитель, пилотируемый Гвардии старшим лейтенантом Козловым Иваном Филипповичем, заместителем командира эскадрильи, 17.06.1944 г. не вернулся с боевого задания. &lt;br&gt;Козлов Иван Филиппович 1918 гр., уроженец п. Катынь Смоленской области. Мать Козлова Ефросинья Яковлевна. Вот так надо работать!			 &lt;br&gt;&lt;br&gt;Близлежащие города:            			 Санкт-Петербург; 			            Выборг; 			            Сосновый Бор			            			            			            			            			            			            			            			            			 &lt;br&gt;Координаты:                  60°33'16&quot;N   29°14'26&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/EDmLyAFljku6hd9PxkvLQ64i5LVAhrpsknvqXqvbsZaxmahEMhHZvRDS2DTE6Zzdycmsj4UpP3hH5q6hooyH9v2FSgTC8Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/Dgpp8Cghs8y_CDblSoCq82_6UO1SyPMCNelHQ9oRiVm9q7mzMpuDKQ2y6UcD82wjm2zbYonWqFZhA_8n_CwJxSM8nOcw1w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/l3E0a17-0XdTFu-oeSa1q_Nsuev0LsLT3vclojC0jc1JJEaB9Z1clf2bLnZzXOmNaXpGGIERZ2LwuJeXqx_aXE88aDLTHQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/JSJuTo1hkw71bJT-lVwqY7U8a1DY45BnV34LpBrTlThqY4oGNtliSQeyhxCap-MuJvLUAjn3hUPahHD_VBA1dt-FmiO8YIM6cq3r7HXuX0ZWnpjSXw8Pf-b-iawmfJ_6BsbXo3kG1PBtbcjMrrkcPHy0gKPiCeXlGCyLoym_v1s5-SBh5gmvowVfKTcjCXaTXMlYBG2fln89jwrD&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/1yck06nT253EXc84GuoiA0ZLm-SIQNvoJSu8Xi67a99ZxCaM-ZB_nqTsVeQe28VYAzisIXFMkQpexAYp1y_SDSSH7A4befaqimKpUdaGS93xqdJKts3J_gr2OnYDzZ2-jZad7NVA7_11RG5MHuYTESt_e2BPPNaVz7axxiN0VUcJ0X7hReX4m1zLkYWbKq4mON9w5t3LcqIzVQM8&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/GUWgZtBMXZHYfOzIFQn71dtvro4kRmmXy2aiDV6w5s_vYoKFutCY3_6dzCph2xqDpRwNJ9kNlcdOkSUDdddKwWLzPNFUxMEWYp9WoYpYeGdPUw7qHpeEM3wyy99skjb3ZJz_1hwDkEmAvg31hGICCHVPOkYQCjPo6mV-nFK_J2l4T7Yy6B-zWBpoN5QgWZUBj_DwjSnF-gQVnG4t&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/X62DjboC_2KWrP7Km1pkuHphj6gyjZnsF2O8oAkTkFzaVOV32N-7BWnX_8P-dOvEOJf8qTU58dPQZ3sSesAj1c5RH7ylxO9Ze-vH9qe0uKU6XsgWqifFiWs0lMQ7VwtbmRH_IErHllNX3K_qCsDHCsz5nKHqqLnMT0EWS9JeCVOTR1YmCKxwu0tNTCw63BgvCaOvplqTFOv6D1zB&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/RVvLP5P-OHG9ErfO-qOLPaDRgygX5157tJzo2N0Sw2LsOVm2phhiGneTyYqnNGzFHeNzMvd3S8wPVqjnVYOSKVZitluoQQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;(http://wikimapia.org/showphoto/?obj=25756108&amp;type=1&amp;lng=1&amp;id=2818816)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=25756108&amp;type=1&amp;lng=1&amp;id=2858643)			 	        	                     &lt;br&gt;				  (http://wikimapia.org/showphoto/?obj=25756108&amp;type=1&amp;lng=1&amp;id=2858647)			 	        	        			        	 &lt;br&gt;			 &lt;br&gt;Осенью 2011 года грибники случайно обнаружили остатки авиационного железа и среди них останки (кости ног). По длинной цепочке людей информация дошла до нас и в мае 2012 года приехали первый раз на это место. Нашли останки разбросанные по поляне. Самолёт почти полностью подвергся разграблению. На куске обшивки самолета нашли выбитый номер и вскоре вычислили лётчика.Истребитель ЯК-9Д заводской номер 1115372 принадлежал 29 Гвардейскому Волховскому истребительному авиационному полку. Указанный истребитель, пилотируемый Гвардии старшим лейтенантом Козловым Иваном Филипповичем, заместителем командира эскадрильи, 17.06.1944 г. не вернулся с боевого задания. &lt;br&gt;Козлов Иван Филиппович 1918 гр., уроженец п. Катынь Смоленской области. Мать Козлова Ефросинья Яковлевна. Вот так надо работать!			 &lt;br&gt;&lt;br&gt;Близлежащие города:            			 Санкт-Петербург; 			            Выборг; 			            Сосновый Бор			            			            			            			            			            			            			            			            			 &lt;br&gt;Координаты:                  60°33'16&quot;N   29°14'26&quot;E&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/EDmLyAFljku6hd9PxkvLQ64i5LVAhrpsknvqXqvbsZaxmahEMhHZvRDS2DTE6Zzdycmsj4UpP3hH5q6hooyH9v2FSgTC8Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/Dgpp8Cghs8y_CDblSoCq82_6UO1SyPMCNelHQ9oRiVm9q7mzMpuDKQ2y6UcD82wjm2zbYonWqFZhA_8n_CwJxSM8nOcw1w&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/l3E0a17-0XdTFu-oeSa1q_Nsuev0LsLT3vclojC0jc1JJEaB9Z1clf2bLnZzXOmNaXpGGIERZ2LwuJeXqx_aXE88aDLTHQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/JSJuTo1hkw71bJT-lVwqY7U8a1DY45BnV34LpBrTlThqY4oGNtliSQeyhxCap-MuJvLUAjn3hUPahHD_VBA1dt-FmiO8YIM6cq3r7HXuX0ZWnpjSXw8Pf-b-iawmfJ_6BsbXo3kG1PBtbcjMrrkcPHy0gKPiCeXlGCyLoym_v1s5-SBh5gmvowVfKTcjCXaTXMlYBG2fln89jwrD&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/1yck06nT253EXc84GuoiA0ZLm-SIQNvoJSu8Xi67a99ZxCaM-ZB_nqTsVeQe28VYAzisIXFMkQpexAYp1y_SDSSH7A4befaqimKpUdaGS93xqdJKts3J_gr2OnYDzZ2-jZad7NVA7_11RG5MHuYTESt_e2BPPNaVz7axxiN0VUcJ0X7hReX4m1zLkYWbKq4mON9w5t3LcqIzVQM8&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/GUWgZtBMXZHYfOzIFQn71dtvro4kRmmXy2aiDV6w5s_vYoKFutCY3_6dzCph2xqDpRwNJ9kNlcdOkSUDdddKwWLzPNFUxMEWYp9WoYpYeGdPUw7qHpeEM3wyy99skjb3ZJz_1hwDkEmAvg31hGICCHVPOkYQCjPo6mV-nFK_J2l4T7Yy6B-zWBpoN5QgWZUBj_DwjSnF-gQVnG4t&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/X62DjboC_2KWrP7Km1pkuHphj6gyjZnsF2O8oAkTkFzaVOV32N-7BWnX_8P-dOvEOJf8qTU58dPQZ3sSesAj1c5RH7ylxO9Ze-vH9qe0uKU6XsgWqifFiWs0lMQ7VwtbmRH_IErHllNX3K_qCsDHCsz5nKHqqLnMT0EWS9JeCVOTR1YmCKxwu0tNTCw63BgvCaOvplqTFOv6D1zB&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="57.528635500" lon="29.917423800">
+    <ele>0.000000</ele>
+    <name>! Усадьба Красная Горка </name>
+    <cmt>Масштабно. частично развалины.</cmt>
+    <desc>Масштабно. частично развалины.</desc>
+  </wpt>
+  <wpt lat="57.623321600" lon="29.689980200">
+    <ele>0.000000</ele>
+    <name>! усадьба Волышово (конный завод)</name>
+    <cmt>Масштабно. Конюшни используются как загон для лошадок.</cmt>
+    <desc>Масштабно. Конюшни используются как загон для лошадок.</desc>
+  </wpt>
+  <wpt lat="42.857425700" lon="41.773667300">
+    <ele>0.000000</ele>
+    <name>Школа</name>
+    <cmt>Школа</cmt>
+    <desc>Школа</desc>
+  </wpt>
+  <trk>
+    <name>Бобруйская крепость </name>
+    <trkseg>
+      <trkpt lat="53.134259200" lon="29.253888100">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.136550600" lon="29.251356100">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.138069600" lon="29.248952900">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.139717200" lon="29.249382000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.140746900" lon="29.251914000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.144531000" lon="29.253673600">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.145483400" lon="29.254875200">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.145509100" lon="29.251613600">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.144685400" lon="29.248352100">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.146127100" lon="29.246335300">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.145637800" lon="29.242301000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.143346900" lon="29.239940600">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.141004400" lon="29.237365700">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.138430300" lon="29.238438900">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.135160400" lon="29.238781900">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.133023400" lon="29.241528500">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.133461100" lon="29.243202200">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="53.134259200" lon="29.253888100">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>- Лоток для спалва леса</name>
+    <trkseg>
+      <trkpt lat="62.462896000" lon="33.683234000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462901000" lon="33.682408000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462588000" lon="33.681046000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462107000" lon="33.679994000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.460629000" lon="33.675156000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.458848000" lon="33.669448000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.456611000" lon="33.665897000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.456551000" lon="33.666025000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.458794000" lon="33.669523000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462058000" lon="33.680080000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462529000" lon="33.681196000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462822000" lon="33.682419000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462826000" lon="33.683224000">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="62.462896000" lon="33.683234000">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
 </gpx>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2015-09-18T12:42:53.792Z</time>
+  <bounds minlat="53.834005100" minlon="27.457644900" maxlat="53.932853900" maxlon="27.638618900"/>
+  <wpt lat="53.907953500" lon="27.500903600">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.890936000" lon="27.457644900">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.932853900" lon="27.492363500">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.931919100" lon="27.490110400">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.834233000" lon="27.638618900">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.834233000" lon="27.635743600">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.834062100" lon="27.627884700">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.834122200" lon="27.625524400">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.834115900" lon="27.619543100">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.834005100" lon="27.611104800">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.834058900" lon="27.614983300">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="53.882886400" lon="27.537295800">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+</gpx>

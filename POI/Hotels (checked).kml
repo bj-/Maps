@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hotels (checked)</name>
+    <Style id="icon-503-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-0BA9CC-labelson">
+      <IconStyle>
+        <color>ffcca90b</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-3F5BA9-labelson">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-3F5BA9-labelson-nodesc">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-62AF44-labelson">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-795046-labelson">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-A61B4A-labelson">
+      <IconStyle>
+        <color>ff4a1ba6</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-B7DBAB-labelson">
+      <IconStyle>
+        <color>ffabdbb7</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-CDDC39-labelson">
+      <IconStyle>
+        <color>ff39dccd</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-F4B400-labelson">
+      <IconStyle>
+        <color>ff00b4f4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-F4EB37-labelson">
+      <IconStyle>
+        <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Говноотель</name>
+      <description><![CDATA[но он единственный в городишке.<br>Стоянки при отеле нет, но есть платная в 100 рублях на такси]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          33.4110653,67.5674488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Автостоянка</name>
+      <styleUrl>#icon-503-3F5BA9-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          33.3486557,67.5685337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>гост. Меридиан</name>
+      <description>Приличный номер, нормальная еда.Платная стоянка во дворе отеля. за доп деньги.</description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          33.0726671,68.973821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>База.</name>
+      <description><![CDATA[Домики. на 1-2 персоны. + пожрать. стоянка в поле. палатку поставить 500р/день<br>Из удобств - холодный душ (если включен генератор то горячий)]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          32.1551961,69.7284226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Место под палатку</name>
+      <description>рядом место отдыха у шоссе + туалеты + столики</description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          25.1492607,70.4176202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sokos</name>
+      <description>Хороший номер и еда. Своей стоянки нет, но рядом вполне приличный крытый паркинг, но без охраны</description>
+      <styleUrl>#icon-503-A61B4A-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          25.7526451,62.2413307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>говно-гост. Беларусь</name>
+      <description>есть своя стонка. но отель полное гавно</description>
+      <styleUrl>#icon-503-795046-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          23.7044835,52.0856541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Теремок.2,5к</name>
+      <description><![CDATA[своя территория. но без охраны. отельчик так себе. но переночевать сойдет. завтрак - "разогретые блинчики"]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          35.8928382,56.8776625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Горки</name>
+      <description>Закрытая внутренняя территория. вполне прилично</description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          43.9876431,56.3151503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>см. отели по этой улице.</name>
+      <description>полно отельчиков по нормальным ценам. и вроде паркинги у них есть. (у некоторых)</description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          49.1190147,55.7885399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holiday Inn</name>
+      <description>подземный паркинг. но дорогая весьма</description>
+      <styleUrl>#icon-503-0BA9CC-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          50.0865304,53.1900901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hampton by Hilton</name>
+      <description>за гостиницей большгая парковка за забором. ворота автоматические. надо интересоваться человек их открывает или автоматика</description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          50.1163673,53.186699,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Колос</name>
+      <description>платная автостояка вплотную к отелю. все остальное - гавно</description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          50.1013792,53.1864772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Автостоянка</name>
+      <styleUrl>#icon-503-3F5BA9-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          50.1014864,53.1866154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laeti</name>
+      <description>парковка вокруг отеля. за забором. ворота не закрываются.  не сахар, но сойдет</description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          51.8984216,47.106851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>гостиница Франт</name>
+      <description>новая горстинца. весьма приличная. рядом планая парковка. завтрак не оценили ибо шведский стол не накрыли т.к. нас было всего 3-е в гостинице.</description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.4949831,48.715309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гранд</name>
+      <description>парковка перед входом за шлагбаумом и забором. на безрыбье сойдет. завтрак говно. кофе пить в Пабе в том же ТЦ. (работает до 9 утра)</description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          41.4486158,52.7313023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дегас 4* BB PU 5k</name>
+      <description>очень хорош, но без кондея. подземнй паркинг. хор. завтрак. довольно дорог ~100евро</description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.2091939,51.6676446,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Park Inn</name>
+      <description><![CDATA[подземный паркигн. и все на уровне<br>стоимость 3 - несезон, 9 - сезон]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.7274476,43.5907695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лидия 3*</name>
+      <description>внутренний двор. закрытый. в остальном говноотель</description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          35.3821644,45.02903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>говно-гост. Палас</name>
+      <description>маленькая относительно закрытая территория сбоку отеля</description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          34.1632426,44.4936622,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Каркушин Дом</name>
+      <description>Тесный отельчик. Парковка на территории.</description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          28.3433479,57.8209879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Отель Карелия</name>
+      <description><![CDATA[сам отель не запомнился вообще... значит нормальный :)<br>рядом охраняемая стоянка. но беззаборная]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          34.3918687,61.7860965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Автостоянка</name>
+      <description>дрянь, но других в центре не нашел. рядом - срединй отель</description>
+      <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          30.6921422,61.7004638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Частный сектор</name>
+      <description><![CDATA[комнаты по 300р / место.<br>есть дома с хорошей внутренней территорией<br>(в частности - Джанибековская 6)<br>пожрать - магазин в центре]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.8422699,49.1329247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ring Premier</name>
+      <description><![CDATA[5* за 4 рубля<br>паркинг за забором + многоэтажный автомат]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.8702002,57.6256039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лучеса</name>
+      <description><![CDATA[3-х комнатный номер за вменяемые деньги.<br>охраняемая стоянка у отеля]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          30.2005899,55.1724529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guest House PARTIA +* BB PS 1.7-2.5</name>
+      <description><![CDATA[Prigorodnaya Str., 436, Ставрополь, Россия, <br>Частный сектор. Зазаборье.<br>Чисто, приятно, завтрак на выбор (каша с сосисками, яичница и что-то еще)<br>В город и обратно выбираться на такси (100р). ]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          42.009058,45.0771838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дон Мажор 3* BB PS 2.5k</name>
+      <description><![CDATA[улица Козлова 42, Ростов-на-Дону, Россия, <br>ЧС. Стоянка за воротами.<br>индивидуально оформленные номера.<br>Минусы: очень высокая слышимость соседей.<br>Завтрак - убогий.<br>полулюкс 2,8. его лучше и брать]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.6904841,47.2334096,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel Mister X +* ВВ 2,6к (не пробовал)</name>
+      <description><![CDATA[Улица Максима Горького 89, Ростов-на-Дону, Россия, <br>ЧС закуток + паркинг закрываемый<br>при въезде в закуток сидит очень бдительный охранник. что плюс.]]></description>
+      <styleUrl>#icon-503-B7DBAB-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.7037557,47.2250968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guest house Alla +* B- PS 1.4</name>
+      <description><![CDATA[Universitetskaya 55, Пятигорск, Россия, <br>ЧС. хорошее заворотье. сплошные ворота]]></description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          43.0573779,44.0373728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кадгарон Отель 0* ВВ 2-4Л</name>
+      <description><![CDATA[Улица Маркова 20, Владикавказ, Россия, <br>парковка с охранником, в закутке. но без ворот.]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.68822,43.0370464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alliance Отель 3* BB 120Лари</name>
+      <description><![CDATA[Сам отель очень неплох.<br>двор открытый, но не проходной. 4 дня постоя - без проблем.<br>завтрак средний.]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.7675651,41.7171616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel Dalida 2.7-3k BB +*</name>
+      <description><![CDATA[Likhauri Street 6a, 0160 Тбилиси, Грузия<br>парковка на территории, но ворота не закрываются]]></description>
+      <styleUrl>#icon-503-B7DBAB-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.7672299,41.7167892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>-- Guesthouse in Batumi 1.5-2 -* B- PS</name>
+      <description><![CDATA[97 Melikishvili Str., Batumi, Грузия;<br>нет завтрака. нет кондея. очень сыро (пахнет сыростью)<br>есть двор.]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          41.6350052,41.6400363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kiev Kutaisi Hotel +* 1,5 B$ PS</name>
+      <description><![CDATA[Закрытая парковка во дворике<br>Tamar Mepe Street 25, 4600 Кутаиси, Грузия;<br>завтрак 255р<br>Если брать люкс (100 лари) весьма неплох.  номер огромен.]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          42.7065611,42.268072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guest House -* B- PS AC 120L</name>
+      <description><![CDATA[Из достоинств - кондиционер, дворик для мота (только для мота) близость к центру<br>Все остальное - полная дрянь.<br>тесно, ушатанный номер. дорого.]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.8222688,41.6921684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Подземная стоянка</name>
+      <description>платная. при отеле.</description>
+      <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.2093012,51.6676379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vabriku +* B- PSZ 50Eur</name>
+      <description>Частный сектор, зазборье. вполне прилично и гуманно</description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          24.7262576,59.4444015,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Монарх +* B- PSZ 2.5к</name>
+      <description><![CDATA[Просторный номер, хорошее зазаборье.<br>но... блядюжник с сауной. хотя нам не мешали... или небыло никого.<br>У местных известен как ВИП сауна.]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          37.9366171,59.1214983,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сокол +* PSZ 3к</name>
+      <description>вполне прилично.</description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          34.3223324,56.2631882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Место под палатку 2-3м</name>
+      <description><![CDATA[места мало. под одну палатку 2-3 местку<br>на плоском камне покрытым мхом.<br>Есть куда поставить машину]]></description>
+      <styleUrl>#icon-503-F4EB37-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          27.9131055,61.6243802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Плесков +-* BB 3,6к PLZ 18m</name>
+      <description><![CDATA[Парковка на территории озаборенной. но сама парковка находится сбоку комплекса.<br>Впрочем вполне мопедами парковались.<br>Эконом номера простецкие и весьма тесные. Люкс - на уровне 4звезд]]></description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          27.966857,57.8506376,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Отель Остров Парк +* B$ PPLZ 2.5-3.1</name>
+      <description><![CDATA[Улица 25 октября 28, Остров, Россия<br>просторные номера, но чертовский маленькая душевая.<br>Территория за прозрачным забором. парковка со стороны улицы.<br>Охрана ввиде девочки с курткой "охрана"<br>общее качество - вполне.]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          28.364497,57.34157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>мини-отель Медведов 0* ВВ 2,5/3к</name>
+      <description><![CDATA[на отшибе. своя территория. условная собака на въезде.<br>Номер и сам отель полное г.]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          40.2952176,62.6980326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Отель на Обводном -3* ВВ 2-3к/2 PA</name>
+      <description><![CDATA[Проспект Обводный канал 8/5, Архангельск, Россия <br>ЧС, но въезд свободный. Спасает толкьо то что в закутке он. просто так туда не ходят.<br>Внутри Бедненько. Остальное не помню.]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          40.5640823,64.5374483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Камелот +* B$ 2.4к PZS 30м</name>
+      <description><![CDATA[Парковка за отелем (двор озаборен и не просматриваем). На входе собака. Ворота-шлакбаум не закрывают, но собака же есть.<br>Номер очень ничего, большой, ухоженный. Но оч. маленькая ванная комната и душевая кабинка.<br>Завтрак (НЕ БРАТЬ): 250р/чел, Шведский стол (сосиськи, сыр, ветчина, помидоры, огурцы, Каша. напитки. и это все.) вкусно, но очень и очень бедно + очень мало выложено. в одиночку можно съесть все :). на 250р никак не тянет.]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          28.2819146,57.8365619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ГД "парк Харовск Экстрим" +-* 3,8к BB PL]]></name>
+      <description><![CDATA[На отшибе. Завтрак на выбор - каша/котлеты с макаронами/что-то еще.<br>В подвале (ресторанчик) сельская дискотека до 1 ночи. как следствие все местныне вкурсе что вы приехали.<br>есть Номинальный охранник.<br><br>В целом - прилично, чисто, удобно, но не очень просторно и конфигурация ванны забавляет.]]></description>
+      <styleUrl>#icon-503-CDDC39-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          40.257515,59.9652964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Центральный +-* BB 2k PZ 16m</name>
+      <description><![CDATA[https://www.booking.com/hotel/ru/guest-house-tsentralny.ru.html<br>Ворота глухие, но открывается кем угодно. С улицы не просматривается территория.<br>Сам отель никак не подписан. Вход в калитку в воротах.<br>Парковка только для Мото. и то много не влезет.<br>Внутри прилично вроде.]]></description>
+      <styleUrl>#icon-503-F4B400-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          37.7653259,44.7212505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Афалина +* 2,4к PZT 16м</name>
+      <description><![CDATA[Отличная крытая парковка с автоматическими воротами.<br>Номер вполне. завтрак очень хороший. Море через дорогу. Сервис ненавязчив.<br>https://www.booking.com/hotel/xc/afalina-feodosiya.ru.html]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          35.381716,45.037543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чайка +-* 2.5k B- PZ</name>
+      <description><![CDATA[Вполне прилично. Ворота-калитка на замке с ключем. Парковка с навесом.<br>В наличии могут быть номера и дешевле чем на букинге т.к. "на букинг мы выставляем номера подороже" В целом бронировать стоит заранее т.к. с местами там сложно.<br>Из минусов - не мытый хром на сантехнике.<br>https://www.booking.com/hotel/xc/chayka-yalta.ru.html]]></description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          34.159348,44.4955124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Арт-отель +* 2.5k PU</name>
+      <description><![CDATA[Гостиница переделана из этажа с квартирами. посему бывают занятные особенности в виде коридора в номере больше чем сам номер.<br>Парковка подземная - условно охраняемая.]]></description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          36.6000317,50.5937809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД София ---* BB 2,2k PZ ЧС 16м</name>
+      <description><![CDATA[Для 1-2 мото - парковка есть за глухими воротами.<br>отель полный совок. "там что не убитое - то мертвое" (с) Останавливаться там - только от безысходности.<br>Старый ЧС кое как приспособленный под отель.<br>Место тоже хреновое. до центра жизни прилично топать.]]></description>
+      <styleUrl>#icon-503-A61B4A-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          33.4960645,44.5993008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Калипсо 3* B$ 2k PZ 23m</name>
+      <description><![CDATA[завтрак 150р<br>Номер нормальный, но если с видом на дорогу - очень шумно.<br>ворота глухие, на ночь закрываются на велосипедный замок.<br>Обе ночи не покидало ощущение что кто-то ходит вокруг номер и пытается все украсть :)]]></description>
+      <styleUrl>#icon-503-F4B400-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          40.9964451,42.9970408,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вилла Бавария +* BBB 2.7к PZ 23м</name>
+      <description><![CDATA[Парковка во внутреннем дворике. теоретически открыть ворота может кто угодно, но во дворик через территорию отеля.<br>Катастрофически маленькие душевые кабинки.<br>https://www.booking.com/hotel/ru/villa-bavaria.ru.html]]></description>
+      <styleUrl>#icon-503-F4B400-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.7120532,43.6072902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гостевой Дом на Возба 9А +* B- PZ 22m</name>
+      <description><![CDATA[Ул.Возба 9А, 354000 Гудаута, Абхазия<br>Ориентироваться на д. 9. чуть правее видно отельные домики и беседки со столиками.<br>Хозяйка постоянно там не присутствует, но в доме 9 живет толи ее тетя толи еще какая родственница - она ей позвонить может.<br>Мот можно затолкать в проход между домиками и его почти не видно с дороги.<br>Учитывая что девочка-хозяйка не совсем простая и ездит на RR дискавери3 - думаю там тихо должно быть в плане безопасности.<br>Сами домики очень приличные. Место тихое,]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          40.6277954,43.0993417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Магнат 3* BBB 2.8k PZ 18m</name>
+      <description><![CDATA[Дворик-парковка, но только для мото. Вод по токену. т.е. без посторонних.<br>Номера приличные<br>https://www.booking.com/hotel/ru/magnat.ru.html]]></description>
+      <styleUrl>#icon-503-F4B400-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.9303165,43.4305182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Прованс +-* BBK 2,5к PL ЧС 23м</name>
+      <description><![CDATA[завтрак континентальный.  на выбор 3 варианта. Вполне достойный по объему.<br>Отель и парковкой в закутке и скрыто от глаз глухими воротами. Ворота закрываются только номинально т.е. может открыть любой.<br>Въезд с дальней улицы через узкий проезд.<br>Внутри простенько но вроде вполне приемлимо.<br>https://www.booking.com/hotel/ru/dnd3-4d2ddegd1-2n.ru.html ]]></description>
+      <styleUrl>#icon-503-F4B400-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          38.961284,45.022773,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Барин +* BШ 2,3к PZT 20м</name>
+      <description><![CDATA[Автоматические ворота и глухой забор. Ворота закрывают на ночь.<br>Завтрак - шведский стол.<br>https://www.booking.com/hotel/ru/barin-smolensk.ru.html]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          32.0311171,54.7904516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Аэлита +-* (бухарики из бара)</name>
+      <description><![CDATA[Завтрак Вроде был.<br>В подвале здания Караоке-бар, и есть выход из этого бара - во двор... в тот самый двор где ставить мопеды. => бухие и буйные будут тусоваться рядом с вашим ТС]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          26.0936075,52.1213582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гост Могилёв +-* B-/+ 2.2/2.8k P$2$ 15/24m</name>
+      <description><![CDATA[Совкоотель<br>Стоянка обычная платная]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          30.3329059,53.9100169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Турист -*P PLS 3k</name>
+      <description>Говноотель. кровати только раздельные. </description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          26.0157698,53.1321834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

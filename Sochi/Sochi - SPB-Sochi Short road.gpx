@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2017-09-08T16:43:05.036Z</time>
+  <bounds minlat="42.624107300" minlon="32.069091800" maxlat="54.794351600" maxlon="41.740837100"/>
+  <wpt lat="54.794351600" lon="32.069091800">
+    <ele>0.000000</ele>
+    <name>Смоленск</name>
+    <cmt>Смоленск</cmt>
+    <desc>Смоленск</desc>
+  </wpt>
+  <wpt lat="51.720222600" lon="36.112060500">
+    <ele>0.000000</ele>
+    <name>Курск</name>
+    <cmt>Курск</cmt>
+    <desc>Курск</desc>
+  </wpt>
+  <wpt lat="45.034714800" lon="35.386962900">
+    <ele>0.000000</ele>
+    <name>Феодосия</name>
+    <cmt>Феодосия</cmt>
+    <desc>Феодосия</desc>
+  </wpt>
+  <wpt lat="44.504341300" lon="34.178466800">
+    <ele>0.000000</ele>
+    <name>Ялта</name>
+    <cmt>Ялта</cmt>
+    <desc>Ялта</desc>
+  </wpt>
+  <wpt lat="44.621754100" lon="33.530273400">
+    <ele>0.000000</ele>
+    <name>Севастополь</name>
+    <cmt>Севастополь</cmt>
+    <desc>Севастополь</desc>
+  </wpt>
+  <wpt lat="44.957024100" lon="34.079589800">
+    <ele>0.000000</ele>
+    <name>Симферополь</name>
+    <cmt>Симферополь</cmt>
+    <desc>Симферополь</desc>
+  </wpt>
+  <wpt lat="43.596305900" lon="39.748535200">
+    <ele>0.000000</ele>
+    <name>Сочи</name>
+    <cmt>Сочи</cmt>
+    <desc>Сочи</desc>
+  </wpt>
+  <wpt lat="44.731125600" lon="37.781982400">
+    <ele>0.000000</ele>
+    <name>Новороссийск</name>
+    <cmt>Новороссийск</cmt>
+    <desc>Новороссийск</desc>
+  </wpt>
+  <wpt lat="44.887012500" lon="37.331543000">
+    <ele>0.000000</ele>
+    <name>Анапа</name>
+    <cmt>Анапа</cmt>
+    <desc>Анапа</desc>
+  </wpt>
+  <wpt lat="47.258728200" lon="38.864135700">
+    <ele>0.000000</ele>
+    <name>Таганрог</name>
+    <cmt>Таганрог</cmt>
+    <desc>Таганрог</desc>
+  </wpt>
+  <wpt lat="43.677804500" lon="40.201721200">
+    <ele>0.000000</ele>
+    <name>Красная Поляна</name>
+    <cmt>Красная Поляна</cmt>
+    <desc>Красная Поляна</desc>
+  </wpt>
+  <wpt lat="43.278705000" lon="40.269012500">
+    <ele>0.000000</ele>
+    <name>Гагра</name>
+    <cmt>Гагра</cmt>
+    <desc>Гагра</desc>
+  </wpt>
+  <wpt lat="43.006655700" lon="41.023635900">
+    <ele>0.000000</ele>
+    <name>Сухум</name>
+    <cmt>Сухум</cmt>
+    <desc>Сухум</desc>
+  </wpt>
+  <wpt lat="42.624107300" lon="41.740837100">
+    <ele>0.000000</ele>
+    <name>Гали</name>
+    <cmt>Гали</cmt>
+    <desc>Гали</desc>
+  </wpt>
+</gpx>

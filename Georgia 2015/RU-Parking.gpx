@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2015-08-03T10:38:14.186Z</time>
+  <bounds minlat="45.048299800" minlon="38.481851200" maxlat="52.608092200" maxlon="41.935501100"/>
+  <wpt lat="52.602518100" lon="38.503233800">
+    <ele>0.000000</ele>
+    <name>?Автостоянка</name>
+    <cmt>?Автостоянка</cmt>
+    <desc>?Автостоянка</desc>
+  </wpt>
+  <wpt lat="45.048299800" lon="41.935501100">
+    <ele>0.000000</ele>
+    <name>Стоянок нет</name>
+    <cmt>Стоянок нет</cmt>
+    <desc>Стоянок нет</desc>
+  </wpt>
+  <wpt lat="51.654049600" lon="39.177787900">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="51.680555300" lon="39.126911800">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="51.674933700" lon="39.266789000">
+    <ele>0.000000</ele>
+    <name>Автостоянка ?</name>
+    <cmt>Автостоянка ?</cmt>
+    <desc>Автостоянка ?</desc>
+  </wpt>
+  <wpt lat="51.713097000" lon="39.142479300">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="52.117725900" lon="39.188184100">
+    <ele>0.000000</ele>
+    <name>Автостоянка</name>
+    <cmt>Автостоянка</cmt>
+    <desc>Автостоянка</desc>
+  </wpt>
+  <wpt lat="52.604448400" lon="38.481851200">
+    <ele>0.000000</ele>
+    <name>?Автостоянка</name>
+    <cmt>?Автостоянка</cmt>
+    <desc>?Автостоянка</desc>
+  </wpt>
+  <wpt lat="52.608092200" lon="38.523149200">
+    <ele>0.000000</ele>
+    <name>?Автостоянка?</name>
+    <cmt>?Автостоянка?</cmt>
+    <desc>?Автостоянка?</desc>
+  </wpt>
+</gpx>
