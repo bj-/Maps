@@ -225,6 +225,146 @@
       </Pair>
     </StyleMap>
     <Placemark>
+      <name>Памятник «Икарус-260»</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.0047913,52.4827672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 ШПУ для ракет Р-14У</name>
+      <description><![CDATA[На вооружении стояли ракеты среднй дальности Р-12 в наземном исполнении пуска и Р-14"Двина" в шахтном - как здесь. Позже появились счетверенные ШПУ (см. 15 км восточнее г. Кингисепп). Стартовая позиция состояла из трех шахтных пусковых установок и подземного КП откуда происходила заправка и управление пуском. Так же есть техническая позиция и жилая зона. Дальность стрельбы ракет была до 2000 км,т.е. вплоть до Франции и Британских островов - этот полк прикрывал северное направление. В состав 40 дивизи входили полки дислоцированные: 1. район города Вору (ныне это Vyru), юго-западнее 2 позиционных района (в 5 км северо-западнее от нас. пунктов Nursi и Sanna; 2. 15 км восточнее г. Кингисепп - 3 позиционных района 1 ШПУ и 2 наземных (на карте обозначены); 3. Примерно посредине и немного севернее линии соединяющей города Псков и Остров - два наземных пусковых района; 4. в районе г. Aluksne, 3 района, 1-ШПУ и 2 наземных. Если тебе очень интересно, посмотри фото по адресу http/www.flikr/com/photos/martintrollt/page12/ там их много и все есть.]]></description>
+      <styleUrl>#icon-61</styleUrl>
+      <Point>
+        <coordinates>
+          33.3768296,68.5085274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бывшая авиабаза Кричев (есть полоса бетон)</name>
+      <description>Бетон весь в сохране, инфраструктура зачишена до состояния - нет ничего.</description>
+      <styleUrl>#icon-61</styleUrl>
+      <Point>
+        <coordinates>
+          31.9163561,53.7327202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Макет Самолета непонятной конструкции</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.1874443,52.294642,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Комбайны Гоммаша памятники</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9730661,52.4462539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Памятник огнетушителю</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9469226,52.4262178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Военгородо (частично живой)</name>
+      <description>крашенные деревья</description>
+      <styleUrl>#icon-61</styleUrl>
+      <Point>
+        <coordinates>
+          31.9079447,53.7068051,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>перевал геологов</name>
+      <description><![CDATA[30--350 метров. <br>ночевать нельзя, ветер, холодно<br>Далее двигаемся еще 60 км до поворота на Ревду – точка 68.003291, 34.585713;<br>3. Едем около 8 км до самой Ревды, далее мимо старых гаражей (навигатор выведет) в направлении КПП Рудника до точки 67.900874, 34.603426 , где следует свернуть вправо на отворотку.<br>4. Далее по накатанным грунтовка и ориентируясь на спутниковые карты едем до точки 67.858816, 34.537530 (координаты примерные) – это и будет точкой назначения.]]></description>
+      <styleUrl>#icon-61</styleUrl>
+      <Point>
+        <coordinates>
+          34.516394,67.8718428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Склад ГСМ</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.9014215,53.7302957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Памятник «ГАЗ-67»</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9852782,52.4772996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Су-9 (бн 04)</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.7165074,53.7169156,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>МиГ-17. Памятник-постамент у перекрёстка.</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.7010981,54.0146849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Су-9 (самолет)</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.9080091,53.7082276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Памятник троллейбусу </name>
+      <description>На территории т.парка (За забором)</description>
+      <styleUrl>#icon-61</styleUrl>
+      <Point>
+        <coordinates>
+          30.9852433,52.4666648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Склад АТИ</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.895349,53.7283789,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Константиновская батарея (Закрыта)</name>
       <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/rv6fe6tWvTlXorAih4vmcmrXOU0vcpy42XgnRvFfK6pUkiiWtXO_qabjIQ-gkmIfMnNtzhtCfdb8ZeyvO0weqzLw79fO-g" height="200" width="auto" /><br><br>(http://photos.wikimapia.org/p/00/00/39/51/06_big.jpg) <br> (http://photos.wikimapia.org/p/00/00/60/30/65_big.jpg) <br> (http://photos.wikimapia.org/p/00/00/60/30/66_big.jpg) <br> (http://photos.wikimapia.org/p/00/00/56/22/78_big.jpg) <br> (http://photos.wikimapia.org/p/00/00/56/24/57_big.jpg) <br> (http://photos.wikimapia.org/p/00/00/56/24/56_big.jpg) <br> (http://photos.wikimapia.org/p/00/03/02/48/54_big.jpg) <br> <br>Константиновская батарея закрывала вход в Севастопольскую бухту неприятельским кораблям.<br>Построена в 1840 г. у входа в Севастопольскую бухту для усиления обороны Севастополя и его порта. Каменная казематированная батарея (94 орудия) стойко отражала удары противника в период первой обороны Севастополя в 1854-1855 гг. Было сооружено несколько подобных батарей (Михайловская и Александровская). В июне 1942 г. в районе Константиновской батареи был создан один из опорных пунктов обороны Северной стороны. В течение трех суток 70 бойцов отражали атаки противника, обеспечивая вывод последних судов из Севастопольской бухты. Так что, батарея послужила еще и в годы Второй мировой.<br>В настоящее время она утеряла свое военное значение.Но каждый день ровно в полдень в городе слышен звук пушечного выстрела, который производится с Константиновской батареи.<br>Координаты: 44°37'36"N 33°30'44"E<br><br><img src="https://lh5.googleusercontent.com/proxy/T4qlZJd3Rwz97uyjY5IWZ4DhNc5vDgbohQs4kzwwosKwLvUdjVOmafL4pGYYHWx44UqIgdEtq7_iZOr721P78AIu4UvGkg" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/7ZB183APoVtPzxe8xyX7vTNpTAei0ues8uftuipFejcFrr4k3CtvCHiXEZOUO4j5owPt4oNY4kGMl_V656Y6x-nuic5JJw" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/79bOf9V5ECXrY3a1L-Eysz1eiljiSX_yrMUXOVbhuu82u5INc72NV70QgZARagWWeECAx-gTdiHm9K5bdpEnnC5b-4wizQ" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/hslbiNwhdcBqOFph7ZgAS6TTbAZBwGk5P75dfXPTFpTvn3TmhKJrsTuC2OKpYrX7EDeIff8H3gbBBsLaZeHR7HHrQOzmVw" height="200" width="auto" /><br><br><img src="https://lh5.googleusercontent.com/proxy/t-hO57axVOM7s1MpHdT6tXudfBfcwJlyoIWbYs8_xvYqgnMfWB9o3drig8b9Tteo32A1STOGPK3ruf_Tn32CX8zEj1x4Eg" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/proxy/GEAd1ZYvi_o-lRDZTgPx_oAUE5V3LIaCPfkPzwpbwqzkmZpymVt8AbQnnqvPrmmg16wXjBM8hqzL0OYlVof29A-6nmCxMw" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/proxy/OJ4h5KESfYaKTQPapAeEaxV8XXiVGL7c3J8U4ii57CyMTA1mwMkpwaGCg1hyZ__O9MWHeLDvhiZcJg-ksjtc7mcJdaW7heT28DEv18O88w9lhoXsoQrjBSiJRbGIUnedAZhedHrIVa4LDixfLfe5wsBNQSsQOPzeGS-F6O-lgo98-gKNE_pf-JTWX2u1IBPm6bLkUqZH4lT1T5Bg" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/Vj7wwJliRy8WwrVTqsLJRkcml_WLkzwW_VUNqvDyl7pTlF7w5BfYFzvSmT_ENfHQdIRd299lkThYuzmgKmfFUD7Aou97NuULRBBQXmKhCBeSWY3iojewPKWy4HFOtTIF-Htf9sCrMpizPAzIH712Ve2kvOaG8cq49V08pH6WQnRKIXpHAPNOr6_dAYuYCXjtvDuhWflkrOrL6199" height="200" width="auto" /><br><br><img src="https://lh4.googleusercontent.com/proxy/y2nUJ6RUmiQK6ImKFZxsEmqn3DCsVvK9t6BMl1-jIxDCrQ6WgkJPhhZO5qjv3kPrFn4_nF8y5hUwr-J-mpo4uS33U23KaAoIrv0SzfF7lGy_PBOhZu4NI0jED1AcnjJGmhNrrKquZzzGGOe0MH0y7LGGO8bquUNN2RRfOWikzNJu9vbteNitZgARhKkX0u8P00OCD0otj9Hk4h6s" height="200" width="auto" />]]></description>
       <styleUrl>#icon-61</styleUrl>

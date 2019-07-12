@@ -4032,61 +4032,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Бывшая авиабаза Кричев (есть полоса бетон)</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.9163561,53.7327202,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Склад ГСМ</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.9014215,53.7302957,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Склад АТИ</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.895349,53.7283789,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Военгородо (частично живой)</name>
-      <description>крашенные деревья</description>
-      <styleUrl>#icon-123-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          31.9079447,53.7068051,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Су-9 (самолет)</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.9080091,53.7082276,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Су-9 (бн 04)</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.7165074,53.7169156,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Памятник древнему трактору</name>
       <description><![CDATA["Универсал-2" Владимирского завода на постаменте.]]></description>
       <styleUrl>#icon-123-labelson</styleUrl>
@@ -4097,75 +4042,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>МиГ-17. Памятник-постамент у перекрёстка.</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.7010981,54.0146849,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Аллея захороненных деревень</name>
       <description><![CDATA[Аллея захороненных деревень, пострадавших от аварии на Чернобыльской АЭС. <br>Торжественно открыта 26 апреля 1996 года.]]></description>
       <styleUrl>#icon-123-labelson</styleUrl>
       <Point>
         <coordinates>
           31.0039437,53.4442477,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Памятник «Икарус-260»</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.0047913,52.4827672,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Памятник «ГАЗ-67»</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          30.9852782,52.4772996,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Памятник троллейбусу </name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          30.9852433,52.4666648,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Комбайны Гоммаша памятники</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          30.9730661,52.4462539,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Памятник огнетушителю</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          30.9469226,52.4262178,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Самолет непонятной конструкции</name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          31.1874443,52.294642,0
         </coordinates>
       </Point>
     </Placemark>
@@ -4197,7 +4079,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Точка 397</name>
+      <name>Аэродром (на 2019 действующий)
+</name>
       <styleUrl>#icon-123-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -7608,16 +7491,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>перевал геологов</name>
-      <description><![CDATA[30--350 метров. <br>ночевать нельзя, ветер, холодно<br>Далее двигаемся еще 60 км до поворота на Ревду – точка 68.003291, 34.585713;<br>3. Едем около 8 км до самой Ревды, далее мимо старых гаражей (навигатор выведет) в направлении КПП Рудника до точки 67.900874, 34.603426 , где следует свернуть вправо на отворотку.<br>4. Далее по накатанным грунтовка и ориентируясь на спутниковые карты едем до точки 67.858816, 34.537530 (координаты примерные) – это и будет точкой назначения.]]></description>
-      <styleUrl>#icon-123-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          34.516394,67.8718428,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Корабль. (брошен полузатоплен)</name>
       <styleUrl>#icon-123-labelson-nodesc</styleUrl>
       <Point>
@@ -8049,16 +7922,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>3 ШПУ для ракет Р-14У</name>
-      <description><![CDATA[На вооружении стояли ракеты среднй дальности Р-12 в наземном исполнении пуска и Р-14"Двина" в шахтном - как здесь. Позже появились счетверенные ШПУ (см. 15 км восточнее г. Кингисепп). Стартовая позиция состояла из трех шахтных пусковых установок и подземного КП откуда происходила заправка и управление пуском. Так же есть техническая позиция и жилая зона. Дальность стрельбы ракет была до 2000 км,т.е. вплоть до Франции и Британских островов - этот полк прикрывал северное направление. В состав 40 дивизи входили полки дислоцированные: 1. район города Вору (ныне это Vyru), юго-западнее 2 позиционных района (в 5 км северо-западнее от нас. пунктов Nursi и Sanna; 2. 15 км восточнее г. Кингисепп - 3 позиционных района 1 ШПУ и 2 наземных (на карте обозначены); 3. Примерно посредине и немного севернее линии соединяющей города Псков и Остров - два наземных пусковых района; 4. в районе г. Aluksne, 3 района, 1-ШПУ и 2 наземных. Если тебе очень интересно, посмотри фото по адресу http/www.flikr/com/photos/martintrollt/page12/ там их много и все есть.]]></description>
-      <styleUrl>#icon-123-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          33.3768296,68.5085274,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>[-] 3 ШПУ для ракет Р-14У (Двина)
 </name>
       <description>Бункер демонтирован, три пусковые шахты ядерных ракет р14у затоплены.</description>
@@ -8181,6 +8044,346 @@
       <Point>
         <coordinates>
           30.4257774,67.5606189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вид на каньон и водохранилище</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.8342876,43.0655018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вид на каньон и водохранилище</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.8254471,43.0207136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Катер Бриз (бетонный)</name>
+      <description><![CDATA[Построен "Бриз" в 1975 году на Кубе в городе Изабелла для рыбфлота СССР. В рыбколхозе вблизи города Выборга таких было еще 3 штуки (рыбколхоз находился в самом начале Сайменского канала), там на берегу так они и стояли на стапелях. Особенности: армацементный корпус, возможность ходить под парусам, неограниченный район плаванья, мокрый трюм для хранения живой рыбы. В 1989-92 годах его арендовали его для проведения подводных археологических экспедиций совместно с институтом материальной культуры российской академии наук. Затонул корабль в ночь с 13 на 14 января 1993 года. В мае 1993 года, когда "Бриз" подняли, в его трюме не было обыкновенного холодильника "Стинол" и были открыты все 4 кингстона. То-есть в голодные девяностые годы корабль утопили ради холодильника. ]]></description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          28.7255555555555,60.7138888888889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Немецкий корабль из бетона</name>
+      <description>плавучий рыбоперерабатывающий завод ПРЗ-38,переделанный из немецкого лихтера</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          28.3016666666667,59.6688888888889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>(отсутвует) Демонтированный МР-УР-100У МБР ШПУ (50K)</name>
+      <description>Демонтирован</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          33.7187691,58.030017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ленинаканская прядильная фабрика им. С.Л. Лукашина</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          43.8502777777778,40.7966666666667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Развалины ресторана «Арагил»</name>
+      <description><![CDATA[Ресторан «Арагил», открывшийся в 1959 году в парке «Ахтанак» стал не только очередным удачным проектом армянского архитектора Рафаэла Исраеляна, но и одним из символов города. Сюда приходили все, начиная с обычных ереванцев и заканчивая высокопоставленными официальными лицами и иностранными гостями. Ресторан выделялся своим потрясающим видом на город, который при вечернем освещении был просто шикарен. <br>«Арагил» давно не работает, а здание полуразрушено. Зато вид на город, естественно, сохранился. Металлические ступени, ведущие на крышу здания, тоже сохранились, но в днем в парке слишком оживленно, чтобы «покорить» крышу без привлечения внимания. Так что, если решите добраться туда и с еще большей высоты насладиться видом Еревана, то лучше выбрать вечернее или ночное время. (imyerevan.com/ru/society/view/6463)]]></description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.5202709,40.1942179,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бункер (Бывшие стартовые позиции С-125)</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          44.5191666666667,40.0730555555556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крепость Тигнис </name>
+      <description>Тигнис[ (арм. Տիգնիս) — средневековая армянская крепость в провинции Айрарат (Западная Армения, ныне территория Турции).В 1940-е годы крепость была преобразована в базу вооруженных сил Турции. В конце 1940-х база была передислоцирована, а крепость взорвана динамитом.</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          43.7161755,40.7136017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Памятник армянскому алфавиту</name>
+      <description>Армянский алфавит, высеченный из туфа для самолюбования и потехи туристов. С одной стороны, это очень мило, но с другой – достаточно бессмысленно. Если едете мимо и хотите запечатлеть себя с группой в полосатых купальниках новыми древними буквами, то не отказывайте себе в исполнении сиюминутных желаний. Специально же ехать сюда не стоит.</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.3805555555556,40.4080555555556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Паровоз-памятник Эу 705-46 с музейным вагоном (с директором живущем в нем)</name>
+      <description><![CDATA[Все начиналось в 1996 году, когда бывший начальник Департамента железных дорог Армении Вдадимир Асрян в честь 100-летия начала строительства железной дороги в Армении создал на территории вокзала музей.<br>Был проложен 50-метровый отрезок железнодорожного пути, где навечно поставлены исправный паровоз типа Эу с прицепленным к нему вагоном старого "егоровского" типа. <br><br>Внутри вагона благодаря директору музея Николаю Хачатряну и художнику Р. Матнишяну по крупицам собраны немногочисленные экспонаты и фотоснимки, из которых посетитель может узнать о богатейшей истории железной дороги Армении, бывшей в свое время частью великой железнодорожной державы. ]]></description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.5072222222223,40.1561111111111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Станциия Айреник (Родина) Ереванской детской железной дороги (ДЖД)</name>
+      <description>Стоит пошастать. интересные вагончики. (возможно только по выходным)</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.5002777777778,40.1866666666667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Памятник армянскому алфавиту</name>
+      <description>Представлены все буквы армянского алфавита, стилизованные под хачкары. Архитектор Дж. Торосян, 1962 г.</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          44.3155555555555,40.2586111111111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крепость Алинджа Гала</name>
+      <description><![CDATA[Одно из наиболее мощных оборонительных сооружений своего времени - крепость Алинджа-гала находится на высоте 1400 метров на вершине горы Алинджа Джульфа, Нахчыван Азербайджан<br>http://ru.wikipedia.org/wiki/Алинджакала]]></description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          45.6952777777778,39.1941666666667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.3496435,39.6734617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Крепость Мегри</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.2483333333333,38.9022222222222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Родник "Гырх булаг"]]></name>
+      <description>Базальтовый выход. выглядит забавно</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.3036111111111,39.69,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.333805,39.6892307,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.3296851,39.6963677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.2551183,39.7117846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.2728022,39.753424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.3483863,39.7416116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.3957228,39.7112925,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины Села</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.4178125,39.6997866,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Просто село на самом отшибе</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.4422222222222,38.9169444444444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Деревушка в руинах</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.4697681,39.3126832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Загоризонтная радиолокационная станция "Дуга"]]></name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.0655037,51.3053773,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Депо брошенных вагонов</name>
+      <description><![CDATA[Red Star Train<br>http://www.mytravelbook.org/blogs/kladbishe_poezdov_v_budapeshte_red_star_train/]]></description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          19.1045235,47.5492914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ЖД Музей (паравоз и деревянные вагоны, платформа)
+</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          25.6468872,60.3965088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Аэродром. с бет. полосой</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9908267,69.402009,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Зенитный бункер</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9769063,69.3986048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ан-2 на фоне заброшенных домов</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.0144116,69.4012902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фундамент под крупнокалиберное артиллерийское орудие</name>
+      <description>Немецкий недострой ВОВ</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          31.3403449,69.6535574,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Руины КП Nord — штаба норвежской дивизионной группы Ван дер Хооппа</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.855943,69.5956155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Фундамент под крупнокалиберное артиллерийское орудие</name>
+      <description>Немецкий недострой ВОВ</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          31.3383922,69.6518787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Немецкий подземный госпиталь</name>
+      <description>Состоит из двух штолен соединенных тремя галереями: 1) 5х25 метров, 2)3х20метров</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          31.8038888888889,69.6344444444445,0
         </coordinates>
       </Point>
     </Placemark>

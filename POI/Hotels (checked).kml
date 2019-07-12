@@ -215,6 +215,16 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>(!) ГД Свояки +* В- ЧС PPZ 1,1к </name>
+      <description><![CDATA[Улица Ватутина 40 А, 246014 Гомель, Беларусь, частный спектор, зазаборье<br><br>не было мест. но действительно зазаборье. если бронировать то лучше отдельный домик имхо]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          30.9789455,52.4324702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>см. отели по этой улице.</name>
       <description>полно отельчиков по нормальным ценам. и вроде паркинги у них есть. (у некоторых)</description>
       <styleUrl>#icon-503-DB4436-labelson</styleUrl>
@@ -734,12 +744,76 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Амарис 3* BB 3.5k PLS 16m AC
+</name>
+      <description><![CDATA[Рядом парковка с забором и собачатником. поставить мот можно. входит в стоимость<br>Отель очень хороший. внутри сделано очень добротно, несмотря на внешнюю неприглядность советского здания.<br>Кондей есть]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          30.564271,56.352317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гостиница 0* PPLZ 1,5к B$</name>
+      <description><![CDATA[парковка за глухим забором.<br>номера так себе, но жить можно]]></description>
+      <styleUrl>#icon-503-CDDC39-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          41.4022482,54.9428199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кузнечный двор +-* B200р 2.3k 27m
+</name>
+      <description><![CDATA[есть территория за глухим забором. ставят машины в т.ч.<br>В самом отеле не был. качество номера не скажу]]></description>
+      <styleUrl>#icon-503-CDDC39-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          41.4081497,54.9459143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Турист -*P PLS 3k</name>
       <description>Говноотель. кровати только раздельные. </description>
       <styleUrl>#icon-503-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
           26.0157698,53.1321834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мирта 2к B? 0* PPL</name>
+      <description><![CDATA[парковка на задворках (внутренний двор) <br>условно закрытый, т.е. не просматривается, особо но войти и открыть ворота может любой желающий.]]></description>
+      <styleUrl>#icon-503-CDDC39-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          45.1851399,54.1931138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гост. Орша 0* B$ PLS$ 1.5к/3кL AC-
+</name>
+      <description><![CDATA[Совкогостиница. в люксе кое как еще жить можно, но нет кондея<br>парковка - охраняемая с собакой возле гостиницы]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          30.4244206,54.5130303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Мичурина 48 --* 1,2к AC-
+</name>
+      <description><![CDATA[Весь второй этаж - 1200р<br>Есть гараж в который можно поставить мопед. и есть условно-закрываемй двор (откатные ворота, но откерываются руками свободно)<br>Кондея нет - весьма жарко.]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          23.6543111,52.1032929,0
         </coordinates>
       </Point>
     </Placemark>

@@ -29,25 +29,33 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-1377-labelson">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/1377-rec-mountain.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="icon-1377-labelson-nodesc">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/1377-rec-mountain.png</href>
-        </Icon>
-      </IconStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
+    <Placemark>
+      <name>МО Скорпион +-* 1,3-1,7k B150 PZ (ворота открыты?)</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          37.6902851,54.1877527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Европейский +-* PZ 2k B280 14m</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          37.6300852,54.1882087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA["Семейная 0* 1.7-2.4k PZ BB]]></name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          48.010502,46.300541,0
+        </coordinates>
+      </Point>
+    </Placemark>
     <Placemark>
       <name>Вишневый сад +*B$350 2,3-3k PZ ЧС</name>
       <description>ул Чехова 30</description>
@@ -373,123 +381,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          42.3558998,61.2165942,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          40.6409168,61.7057429,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.9078369,61.5831641,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          41.5222263,61.5443367,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          40.9735966,61.7131465,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          41.6113186,61.5116842,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          40.7867432,61.7204669,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          40.9925652,61.7159122,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          41.597414,61.5284239,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.8306751,61.5647782,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.5094109,61.4566538,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          42.3555028,61.1650839,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          42.3902643,61.2587354,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Русский Двор</name>
       <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
       <Point>
@@ -721,16 +612,6 @@
       <Point>
         <coordinates>
           31.0043997,52.4674132,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>(!) ГД Свояки +* В- ЧС PPZ 1,1к </name>
-      <description>Улица Ватутина 40 А, 246014 Гомель, Беларусь, частный спектор, зазаборье</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          30.9789455,52.4324702,0
         </coordinates>
       </Point>
     </Placemark>
@@ -3876,16 +3757,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>! Амарис 3* BB 3.5k PLS 16m</name>
-      <description>Рядом парковка с забором и собачатником (по спутнику)</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          30.564271,56.352317,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Garmnonia Plus 0* B$250р 2,5к PL 18м</name>
       <description><![CDATA[Гадильни не везде<br>Охраняемость парковки ХЗ]]></description>
       <styleUrl>#icon-1015-labelson</styleUrl>
@@ -4072,200 +3943,6 @@
       <Point>
         <coordinates>
           39.8437670000001,59.1988985,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <description>проезженная подъездная дорога</description>
-      <styleUrl>#icon-1377-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          39.2222965,59.71378,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <description>проезженная дорога</description>
-      <styleUrl>#icon-1377-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          39.2413938,59.6999255,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.3444657,59.6385617,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.3487144,59.6367558,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.3948269,59.6074468,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.4336653,59.5809588,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          39.4499731,59.5796116,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо (Пляж)</name>
-      <description>Похоже песок </description>
-      <styleUrl>#icon-1377-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          39.463824,59.5728149,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <description>Заброшенный городской пляж с родником.</description>
-      <styleUrl>#icon-1377-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          38.9140892,61.462682,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] ? Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          38.2509184,61.5641856,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          37.9839635,61.755591,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          37.7326727,61.8033512,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          37.7345824,61.8042535,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          37.7324581,61.8071327,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          37.7250552,61.806717,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <description>Урочище</description>
-      <styleUrl>#icon-1377-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          37.7625418,61.796091,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          36.8045747,61.8129662,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          41.7212892,60.571378,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          41.6963983,60.5432265,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          41.3273049,60.2151663,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>[П] Палаткоместо</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          41.3270474,60.2124747,0
         </coordinates>
       </Point>
     </Placemark>
@@ -6342,47 +6019,779 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Песчаный берег</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
+      <name>Жукова Гора +* B+ 2.5k ЧС
+</name>
+      <description>на отшибе, но без забора</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
-          32.4774098,67.1185065,0
+          41.3319988000001,54.9501785,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Палаткоместа</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
+      <name>Корвет +-* 1,9K  B$300 PZ</name>
+      <description>заявлена теплая парковка</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
-          33.4555793,67.0380604,0
+          48.0215215,46.3344459,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Песчаный берег</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
+      <name>Сказака +*  1,5 B$150 PDA</name>
+      <description>Двор есть, но ворота похоже открыты</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
-          33.5069919,67.016864,0
+          48.0358589,46.3471945,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Песчаный берег</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
+      <name>МО Астра +-*  2,4k BB PD?</name>
+      <description>Двор вроде бы есть, надо проверять</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
-          33.4998894,67.0209523,0
+          48.0338979,46.345506,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Возможно</name>
-      <styleUrl>#icon-1377-labelson-nodesc</styleUrl>
+      <name>Визит 0* 1,8k BB PZ</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
-          33.3265328,68.1670469,0
+          48.0279487,46.344274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гостиница Чинар +-* B- PZ- 1,5к 25m
+</name>
+      <description>на дороге. без забора</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          41.3248587,54.9503525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[!] Клеопатра +-* B- 1.4k 15m PZ
+</name>
+      <description><![CDATA[Территория за глухим забором<br><br>Локомотивная улица 51, Zelezhnodorozhyi, Ульяновск, Россия<br> ]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          48.336391,54.27554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Телега 0* B100 1,6к PZ 18m
+</name>
+      <description><![CDATA[Для дальнобоев<br>терр. озаборена, написано что охраняемая стоянка, но там фуры<br><br>Ulitsa Dimitrovgradskaya 69, Ulyanovsk, Мирный, Россия]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          48.7148465,54.368313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ясная Поляна +-* B200 2к 18m
+</name>
+      <description><![CDATA[Арзамасский район, д. Поляна, Арзамас, Россия<br>Есть большая территория. возможно закрытая.]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          43.8965373,55.4655169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД На Урицкого 0* B- 1k 25m
+</name>
+      <description><![CDATA[Есть маленький кусочек территории за забором, возможно туда можно воткнуться.<br><br>24 Ulitsa Uritskogo, Leninskii, Ульяновск, Россия]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          48.3767488999999,54.3355687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мотель Аква Сити</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          48.3667139,53.1941166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>? ГД Заречный +* B300 16м
+</name>
+      <description><![CDATA[озаборено прозрычным, но есть ли нычка для мопеда - непонятно<br><br>Улица Заречная, 1/9, Балаково, Россия]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          47.8083711,52.0210236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BEREG +* BB 2,6к PZ 48м
+</name>
+      <description><![CDATA[Большая территория за забором и открытыми воротами<br>Lenina 1a, Балаково, Россия]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          47.7863718999999,52.0452914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arbat +* B300 1.7k PZT 12m
+</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          47.818523,52.0170825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Олимп -* B150 1.5k 44m
+</name>
+      <description>ХЗ.</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          49.6949480000001,52.9590218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[!] Эдельвейс +* B200 2k 20m
+</name>
+      <description><![CDATA[Территория. похоже закрытая<br>Район протоки реки Сазанки, Энгельс, Россия]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0505247999999,51.479312,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Светлана 0* BB 1.5k 15m
+</name>
+      <description>небольшая озаборенная территория. прозрачная, но может пустят</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          47.9859981,46.343543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Берег -* B100 1,2к PZ 14м
+</name>
+      <description>территория за глухим забором, но ворота открыты</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          48.057769,46.3383449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гостевой Дом</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          48.3669036,53.1942471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] На Верандах +* BB PZ 2.8k 12m
+</name>
+      <description><![CDATA[прозрачные ворота <br>Проспект Революции 1-Б, Воронеж, Россия]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.2164612,51.6805037,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Флорис +* B- 1.5k PZ 20m
+</name>
+      <description>глухой забор и ворота</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.174331,51.693016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] 21 Век +* BB 2.2k PZ 26м
+</name>
+      <description>точно есть место для двух гусей за глухим забором</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          48.0318552,46.3431216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FOXY +* B- 1,5к P? 15м
+</name>
+      <description>что с парковкой - непонятно</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.164166,51.6920933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бенефит Плаза 4* BB 3k PZS 26m
+</name>
+      <description>шлакбаум, собака, прозрачный забор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.165562,51.717548,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Абажур 3* BB 1,9к 18m
+</name>
+      <description>Есть маленькая терр за откатными воротами. может быть пустят.</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          48.3728358999999,54.3569063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Конный двор
+</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          41.3305903,54.9489554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>уральский теремок 0* BB 2.7к ЧС 12m
+</name>
+      <description><![CDATA[маленький номер и прямо у шоссе <br>uralskiyteremok.ru]]></description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          60.4998461,56.8255218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сибирь +-* B$200р 2к PZ 14м
+</name>
+      <description>есть глухо-озаборенная территория (двор) возможно пустят</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          60.5088153,56.8104556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Усадьба «Орехово» +* B$350 3,1к PZ(ЧС) 24m
+</name>
+      <description>Прозрачно озаборено. в КП</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          60.5249616,56.7830852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Экспромед +-* B- 1.4k PZЧС 38m
+</name>
+      <description>В КП</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          60.529191,56.7813649,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Аист 2* B$200 2,2к ЧС 18m
+</name>
+      <description>Возможно озаборено</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          60.6702221,56.7871149,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Александровский -* B$250 2,4к P? 10m
+</name>
+      <description>парковка ХЗ - возможно платная есть.</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          60.6323271,56.812054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Старый Город 3* BB 3.8k 20m</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          61.4029821,55.1642376,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Сибирский 4* BB 4k 37m</name>
+      <description>возможно глухой дворик есть</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.4070136,55.1683189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Никольская 0* В250 1,8к 20м</name>
+      <description>возможно есть двор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.4288289,55.1817394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рай у Гамлета -* В- 2к 25м</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          61.4547729,55.1899883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ? ] СВ Челябинск +* BB 3,4кHL 30m</name>
+      <description>Возможно закрытая территория (на спутнике забор высокий)</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.470152,55.1879302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Беркана 0* B200 2.5k 15m</name>
+      <description>Вроде озаборен</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.4634523,55.1290366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red Cristal +* ВВ 2,5к 25м</name>
+      <description>парковка озаборена, но без ворот вроде</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.3968778,55.1394509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Golden Fish +-* B150 1.8k 15m</name>
+      <description>территория с забором и воротами глухими</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.380656,55.1381123,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Алмаз 4* B500 3.45k 30m</name>
+      <description>прозрачный забор. ворота неясны</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.365678,55.150514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тишина 4* ВВ 4к 17м</name>
+      <description>Территория большая и за забором глухим, но въезд свободный</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.3633,55.170353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lynx Club 4* ВВ 3,8к 19м</name>
+      <description>Территоиря, забор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          61.319525,55.1882049,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Хоум +-* В- 1,5к 15м ЧС</name>
+      <description>таунхаусы</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.9618766,54.7187177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] PANDORA +-* BB 2.5k 30m PZ</name>
+      <description>есть внутренний дворик, но не для машин. может пустят</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.945472,54.694545,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Корона 3* B150 2.4k 20m</name>
+      <description>территория</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.9448319000001,54.693538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ural Tau 3* В600 PZ 25m</name>
+      <description>за прозрачным забором с воротами закрытыми</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.9406035,54.7314019,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>InCentre 3-* ВС 2,4-3к 12-36м PS</name>
+      <description>территория предприятия. на въезде собака</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.975385,54.735518,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Эко-стиль 3* В- 2,7 22м</name>
+      <description>Территория. но не закрываемая вроде</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.9670754,54.7250385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Европа 0* ВВ 2,2к 20м</name>
+      <description>ЧС</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          56.0403769,54.7544724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Аристоль +-* B300 1.4k ЧС 21m</name>
+      <description>по спутнику забор высокий</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          56.0572816,54.7792754,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Маракеш +-* B150 1.2k 13m</name>
+      <description>возможно есть закуток</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.9115615000001,54.764945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Звёздный дом +-* BB 3,5к PZ</name>
+      <description>вроде озаборен</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          58.960825,53.431868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Затерянный Мир +-* B200 2.5k 18m</name>
+      <description>вроде озаборен</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          58.960926,53.430814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Карат 0* ВС 2,5 PZ 30m</name>
+      <description>за непрорачным забором двор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          58.969636,53.433257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Бунгало PZ</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          58.94795,53.396416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Европа 4* B500 3.7k PL 30m</name>
+      <description>На отшибе. территория.</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          58.945299,53.389469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Юбилейный +-* В300 3к PLS 15м</name>
+      <description>будка, забор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          58.4727789999999,51.2389541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Орская 0* В- 1,2к PL 30m</name>
+      <description>вроде есть забор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          58.4765208,51.2385284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Apt Салют 0* BB 3.6k 50m</name>
+      <description>Возможно озаборенная парковка</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          58.5039801,51.2268761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Акварель 0* В350 2,1к PL 19м</name>
+      <description>вроде территория и забор но не факт что забор круговой</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.0675959,51.783681,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мэри 0* В- 1,2к P?</name>
+      <description>есть ли нычка под мопед непонятно</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.0952811,51.7813701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Домашний Очаг 0* B150 1.2k PZ</name>
+      <description>есть озаборенная территория. но не факт что путстят.</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.1238098,51.7813078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>БДЛ Пристань 0* В150 1,2к PZ</name>
+      <description>Сауна, но есть озаборенный двор с закрытыми воротами</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.133925,51.78016,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Красная горка 0* В300 2,2к PZЧС 25м</name>
+      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          55.139096,51.777512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Усадьба +-* B300 2.7k PZ 20m</name>
+      <description>Забор прозрачный, но возможно можно встать во двор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.119858,51.77199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lion Luxe +* ВВ 1,9к PZ 30м</name>
+      <description>Озаборено</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0228712000001,51.5481632,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Абсолют +* В200 3,1к PZ 20m</name>
+      <description>высокий глухой забор с воротами</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0452686,51.5477721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Оскар +* ВВ 2,6к PZ 18</name>
+      <description>есть дворик за воротами. могут пустить</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0033447000001,51.5326067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[!] Полина +* В- 2,4 PZ 15m</name>
+      <description>Озаборенная территория</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0050747,51.526478,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Звезда +* В200 2к 15м</name>
+      <description>Сбоку какая-то дверь.... может можно приткнуться</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0483789,51.5336201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLD Империал +-* B150 2.5k PZ</name>
+      <description>точно парковка во дворе</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0468334,51.5386853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ГД Life +* B150 1.8k PZ 25m</name>
+      <description>Вероятно есть двор</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0464649,51.5392216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тет-а-Тет +* В- 2,5к 10м</name>
+      <description>Вроде озаборен высоким забором</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          36.0268916,52.9594241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ретротур 2* ВВ 4,9к PZ 50м</name>
+      <description>Прозрачный забор, но немного в закутке стоит</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          36.0612364999999,52.9637996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Aviator +* В200 3к PZ 20m</name>
+      <description>ворота, забор, двор.</description>
+      <styleUrl>#icon-1015-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          36.0889365,52.9639618,0
         </coordinates>
       </Point>
     </Placemark>
