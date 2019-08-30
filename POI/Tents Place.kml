@@ -465,7 +465,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Палаткоместо</name>
+      <name>! Палаткоместо</name>
       <styleUrl>#icon-1377-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -474,7 +474,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Палаткоместо</name>
+      <name>! Палаткоместо</name>
       <styleUrl>#icon-1377-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -511,7 +511,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Палаткоместо (на отшибе)
+      <name>! Палаткоместо (на отшибе)
 </name>
       <styleUrl>#icon-1377-nodesc</styleUrl>
       <Point>
@@ -960,7 +960,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Палаткоместо</name>
+      <name>! Палаткоместо</name>
       <styleUrl>#icon-1377-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -996,7 +996,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Палаткоместо</name>
+      <name>! Палаткоместо</name>
       <styleUrl>#icon-1377-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1005,7 +1005,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Палаткоместо</name>
+      <name>! Палаткоместо</name>
       <styleUrl>#icon-1377-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1425,6 +1425,90 @@
       <Point>
         <coordinates>
           27.6325323,61.3090099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>? Палаткоместо
+</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          42.0444854,42.7473258,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>? Палаткоместо</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          42.0455509,42.7441539,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>? Палаткоместо</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          42.0331028,42.7331365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>?? Палаткоместо</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          42.0444117,42.7794523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>?? Палаткоместо</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          42.0336079,42.7656784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>! Палаткоместо
+</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          39.2743349,51.8013277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Патлаткоместо</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          41.3275635,52.6398593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Патлаткоместо (у пос)
+</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          41.7775653,51.8574804,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Палаткоместо</name>
+      <styleUrl>#icon-1377-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          41.185169,52.7416617,0
         </coordinates>
       </Point>
     </Placemark>

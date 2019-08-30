@@ -2,6 +2,14 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Hotels (checked)</name>
+    <Style id="icon-1137-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/1137-crisis-death.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="icon-503-009D57-labelson">
       <IconStyle>
         <color>ff579d00</color>
@@ -118,6 +126,16 @@
     <Style id="icon-503-F4EB37-labelson">
       <IconStyle>
         <color>ff37ebf4</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-F8971B-labelson">
+      <IconStyle>
+        <color>ff1b97f8</color>
         <scale>1.1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -776,6 +794,16 @@
       </Point>
     </Placemark>
     <Placemark>
+      <name>Постоялый Двор 3* BC 2k PLDА 17m</name>
+      <description><![CDATA[Не все номера<br>дворик не закрываемый, но не просматриваемый. Номера убогие, но в целом терпимо.<br>Завтрак очень обильный]]></description>
+      <styleUrl>#icon-503-F4B400-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          49.6762567,58.600385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>Турист -*P PLS 3k</name>
       <description>Говноотель. кровати только раздельные. </description>
       <styleUrl>#icon-503-DB4436-labelson</styleUrl>
@@ -814,6 +842,39 @@
       <Point>
         <coordinates>
           23.6543111,52.1032929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рождественская 0* BC PZ
+</name>
+      <description>Ворота на задвижке, каоитка не закрывается, но с улицы не просматривается. очень по советски но не противно</description>
+      <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.3156097999999,60.7512709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Август +* BB 3,3к PZ R8.4
+</name>
+      <description><![CDATA[Прарковка за автоматическими воротами в ЖК. с уличу просмотривается, но это ЧС и там не людно.<br>Номер не большой, но вполне приличный.]]></description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          60.5897631,56.801202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[-] Жемчуг ---* 2k PS$ R7.1
+</name>
+      <description><![CDATA[отель полный отстой. грязно, ушатано. стремно подхватить животных в нем.  В номере воняет. категорически отказать.<br>Крытый паркинг с охраной за деньги]]></description>
+      <styleUrl>#icon-1137-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.5957666,52.6189118,0
         </coordinates>
       </Point>
     </Placemark>

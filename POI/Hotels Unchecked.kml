@@ -21,12 +21,60 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
+    <Style id="icon-1137-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/1137-crisis-death.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="icon-1255-labelson">
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/1255-poi-gated-community.png</href>
         </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-009D57-labelson">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-62AF44-labelson">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-F8971B-labelson">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
     </Style>
     <Placemark>
@@ -39,8 +87,10 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ГД Европейский +-* PZ 2k B280 14m</name>
-      <styleUrl>#icon-1015-labelson-nodesc</styleUrl>
+      <name>ГД Европейский +-* PZ 2k B280 14m AC
+</name>
+      <description><![CDATA[Ворота открыты до 21. по факту это ЖК, отель дом при въезде и часть жилого дома за ним. очень маленькие стандартные номера и СУ.<br>Сидя на унитаже можно заодно чистить зубы и сияд на кровате кушать с подоконника.<br>на можно брать немного подороже и побольше.]]></description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
       <Point>
         <coordinates>
           37.6300852,54.1882087,0
@@ -4352,9 +4402,10 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>! Старый Дворик +* B$300p PLZ 18m</name>
+      <name>[ ! ] Старый Дворик +* B$300p 3,3к PLZ 15m R9.6
+</name>
       <description>территория. Глухой забор. запираемый.</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
       <Point>
         <coordinates>
           49.6742127,58.6100109,0
@@ -4382,16 +4433,6 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Постоялый Двор 3* BBB 2k PLD 17m</name>
-      <description><![CDATA[Не все номера<br>дворик не закрываемый, но не просматриваемый.]]></description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          49.6762567,58.600385,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>!? 7 холмов 3* BBB 2.3k PL 20м</name>
       <description>Здание внутри квартала. хз что там</description>
       <styleUrl>#icon-1015-labelson</styleUrl>
@@ -4403,7 +4444,7 @@
     </Placemark>
     <Placemark>
       <name>У Двух Львов +* BB 2,4-3кL PLD 12-17m</name>
-      <description>есть двор незапираемый.</description>
+      <description>есть двор незапираемый. снаружи не понравился. не заходили</description>
       <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4413,7 +4454,7 @@
     </Placemark>
     <Placemark>
       <name>Губернская +-* B$200p 2,8к PL$ 21м</name>
-      <description><![CDATA[парковка 100р.<br>в соседней арке въезд на некую парковку.]]></description>
+      <description><![CDATA[парковка 100р.<br>в соседней арке въезд на некую парковку.<br>парковка с собакой, но это скорее территория предприятия. шныряют всякие газели]]></description>
       <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -4432,9 +4473,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>!? Inn На Пристанской +-* 1.4-1.7k PL 12-17м</name>
-      <description><![CDATA[Возможно территория есть. вокруг зеленка.<br>Пристанская, 9, Киров, Россия]]></description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>[-] Inn На Пристанской +-* 1.4-1.7k PL 12-17м</name>
+      <description><![CDATA[В промзоне, территоиря не закрываемая совсем. не стоит туда ехать<br>Пристанская, 9, Киров, Россия]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
           49.6901021,58.605674,0
@@ -4690,7 +4731,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Gall&anna 3* B$150p 2k PN$ 20m]]></name>
+      <name><![CDATA[Gall&anna 3* B$150p 2k PNA$ 20m]]></name>
       <description>рядом (впритык) автостоянка, но стоянка открытая (без забора)</description>
       <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
@@ -4720,12 +4761,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Nepal 3* B- 2.3k PZ 20м</name>
-      <description>Глухой забор, большая территория.</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>Nepal 3* B- 2.3k PZГ 20м</name>
+      <description><![CDATA[Глухой забор, большая территория.<br>Жилой дом, территоиря за шлакбаумом, но охраны никакой. хотя мопеды там стоят.<br>номера хорошие.]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
       <Point>
         <coordinates>
-          56.1291057999999,57.9712641,0
+          56.1290656,57.9716453,0
         </coordinates>
       </Point>
     </Placemark>
@@ -6398,12 +6439,12 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>[ ? ] СВ Челябинск +* BB 3,4кHL 30m</name>
-      <description>Возможно закрытая территория (на спутнике забор высокий)</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>[ ? ] СВ Челябинск +* BB 3,4кHL PZ 30m</name>
+      <description><![CDATA[Наглухо закрытая территория. вход по звонку<br>вполне прилично]]></description>
+      <styleUrl>#icon-503-009D57-labelson</styleUrl>
       <Point>
         <coordinates>
-          61.470152,55.1879302,0
+          61.4698972,55.1881262,0
         </coordinates>
       </Point>
     </Placemark>
@@ -6468,9 +6509,10 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ГД Хоум +-* В- 1,5к 15м ЧС</name>
-      <description>таунхаусы</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>[H] ГД Хоум +-* В- 1,5к 15м ЧСG
+</name>
+      <description><![CDATA[таунхаусы, подземный гараж. в номере нет кондея и нет санузла (общий на этаже с хозяевами), стиралка за 50р сверху. этажом выше - хостел<br>На безрыбье - сгодится.<br>на букинге упорно пишут что в номере есть душ и туалет и старальная машина.]]></description>
+      <styleUrl>#icon-503-DB4436-labelson</styleUrl>
       <Point>
         <coordinates>
           55.9618766,54.7187177,0
@@ -6558,28 +6600,18 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Звёздный дом +-* BB 3,5к PZ</name>
-      <description>вроде озаборен</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>Звёздный дом +-* BB 3,5к PZA</name>
+      <description><![CDATA[вроде озаборен. ворота не закрываются, но можно спрятаться прямо за воротину, так что не видно с дороги.<br>номер огромный, но ушатан сильно.]]></description>
+      <styleUrl>#icon-503-F8971B-labelson</styleUrl>
       <Point>
         <coordinates>
-          58.960825,53.431868,0
+          58.9607714,53.4319751,0
         </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Затерянный Мир +-* B200 2.5k 18m</name>
-      <description>вроде озаборен</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
-      <Point>
-        <coordinates>
-          58.960926,53.430814,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>Карат 0* ВС 2,5 PZ 30m</name>
-      <description>за непрорачным забором двор</description>
+      <name>[-] Карат 0* ВС 2,5 PZ 30m</name>
+      <description><![CDATA[за непрорачным забором двор<br>двор не открываемый. внешне польный отстой]]></description>
       <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -6598,7 +6630,7 @@
     </Placemark>
     <Placemark>
       <name>Европа 4* B500 3.7k PL 30m</name>
-      <description>На отшибе. территория.</description>
+      <description><![CDATA[На отшибе. территория.<br>у стойки - дороже. по факту - номеров может и не быть, хотя на букинге есть.]]></description>
       <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
@@ -6657,9 +6689,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Домашний Очаг 0* B150 1.2k PZ</name>
-      <description>есть озаборенная территория. но не факт что путстят.</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>[-] Домашний Очаг 0* B150 1.2k PZ</name>
+      <description>есть озаборенная территория. но к ней невозможно подъехать</description>
+      <styleUrl>#icon-1137-labelson</styleUrl>
       <Point>
         <coordinates>
           55.1238098,51.7813078,0
@@ -6667,9 +6699,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>БДЛ Пристань 0* В150 1,2к PZ</name>
-      <description>Сауна, но есть озаборенный двор с закрытыми воротами</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>[-] БДЛ Пристань 0* В150 1,2к PZ</name>
+      <description>Сауна, секасотель. во двор не пускают. Номера почасовые</description>
+      <styleUrl>#icon-1137-labelson</styleUrl>
       <Point>
         <coordinates>
           55.133925,51.78016,0
@@ -6696,9 +6728,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Lion Luxe +* ВВ 1,9к PZ 30м</name>
-      <description>Озаборено</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>Lion Luxe +* ВВ 1,9к PZA 30м</name>
+      <description>Озаборено, но ворота в принципе не закрывают. спасает только то что можно спрятаться за машинами</description>
+      <styleUrl>#icon-503-62AF44-labelson</styleUrl>
       <Point>
         <coordinates>
           46.0228712000001,51.5481632,0
@@ -6736,9 +6768,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>ГД Звезда +* В200 2к 15м</name>
-      <description>Сбоку какая-то дверь.... может можно приткнуться</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>[-] ГД Звезда +* В200 P- 2к 15м</name>
+      <description>Нет закрытой территории</description>
+      <styleUrl>#icon-1137-labelson</styleUrl>
       <Point>
         <coordinates>
           46.0483789,51.5336201,0
@@ -6746,9 +6778,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>BLD Империал +-* B150 2.5k PZ</name>
-      <description>точно парковка во дворе</description>
-      <styleUrl>#icon-1015-labelson</styleUrl>
+      <name>[-] BLD Империал +-* B150 2.5k PDA</name>
+      <description><![CDATA[точно парковка во дворе<br>двор открытый]]></description>
+      <styleUrl>#icon-1137-labelson</styleUrl>
       <Point>
         <coordinates>
           46.0468334,51.5386853,0
@@ -6757,7 +6789,7 @@
     </Placemark>
     <Placemark>
       <name>ГД Life +* B150 1.8k PZ 25m</name>
-      <description>Вероятно есть двор</description>
+      <description>Глухие заборы, но не обозначен никак и не было номеров.</description>
       <styleUrl>#icon-1015-labelson</styleUrl>
       <Point>
         <coordinates>
