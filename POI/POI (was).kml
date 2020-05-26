@@ -7,7 +7,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -20,7 +20,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -43,7 +43,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -59,7 +59,7 @@
         <color>ff579d00</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -84,7 +84,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -96,7 +96,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -118,7 +118,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -133,7 +133,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -2753,6 +2753,15 @@
       <Point>
         <coordinates>
           41.7736673,42.8574257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Вотчина Деда Мороза</name>
+      <styleUrl>#icon-61-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.1876922,60.7522577,0
         </coordinates>
       </Point>
     </Placemark>

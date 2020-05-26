@@ -6,7 +6,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/101-pink-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -15,7 +15,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/1197-fac-headquarters.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -23,7 +23,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -32,7 +32,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -44,7 +44,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/124-red.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -53,7 +53,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/124-red.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -65,7 +65,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/1315-poi-religious-christian.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/1315-poi-religious-christian.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -73,7 +73,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/1315-poi-religious-christian.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/1315-poi-religious-christian.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -84,7 +84,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/157-yellow-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -93,7 +93,7 @@
       <IconStyle>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -103,7 +103,7 @@
         <color>ff92357c</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -113,7 +113,7 @@
         <color>ff92357c</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -126,7 +126,7 @@
         <color>ff3644db</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -136,7 +136,7 @@
         <color>ff3644db</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -149,10 +149,22 @@
         <color>ff37ebf4</color>
         <scale>1.1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
+    </Style>
+    <Style id="icon-61-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
     </Style>
     <Placemark>
       <name>[3 !] ВЧ радиотехническая (с техникой)
@@ -7391,7 +7403,7 @@
     </Placemark>
     <Placemark>
       <name>змей горыныч 10м высота </name>
-      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <styleUrl>#icon-61-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
           38.7655555555556,52.3683333333333,0
@@ -8384,6 +8396,106 @@
       <Point>
         <coordinates>
           31.8038888888889,69.6344444444445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Парк победы - экспозиция техники
+</name>
+      <description>огромная экспозиция военной техники, немного самолетов, ветролетов, гражданской техники. для осмотра запланировать 3-4 часа точно можно</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0537063,51.5444842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Национальная деревня народов Саратовской области</name>
+      <description>построены дворы разных народов.</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.0612552,51.5412817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Музей дальней авиации</name>
+      <description>небольшой</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          46.1872,51.4748,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Городской сад им. Фрунзе (техника)
+</name>
+      <description>Военная, гражданская, МБР есть.</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          55.091069,51.7603702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Природный заказник «Линдуловская роща»</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.5396818,60.2374039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>??? Инструкторская Щель</name>
+      <description>Не факт что стоит ехать. в конце дороги все еще лес, а получится ли из него выехать - хз</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.9855673,44.0124074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Смотровая площадка
+</name>
+      <description>Вроде ниче, но послнедние метров 200 пешком вверх</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          40.005,44.0836111111111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Узкоколейные вагоны</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          39.901711,44.23057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Узкоколейные вагоны</name>
+      <styleUrl>#icon-123-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          39.9028456,44.2279254,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Подвесной пешеходный мост</name>
+      <description>По этому мосту можно перебраться с одного берега на другой на велосипедах, состояние его отличное. Для туристов, держащих свой путь в сторону Гуамского ущелья это одна из достопримечательных точек маршрута.</description>
+      <styleUrl>#icon-123-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          39.8083333333334,44.3572222222222,0
         </coordinates>
       </Point>
     </Placemark>
