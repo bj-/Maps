@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>McDonalds</name>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>[Об0]Царская охота</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          50.7816839,61.65722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Об0] Чарли</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          50.8290732,61.6728784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Лисья Нора</name>
+      <description>Очень вкусный глуманат :)</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          31.3025162,58.5401135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[+] Дары севера (оленина)</name>
+      <description>хороший выбор и свежее все было.</description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          50.8179259,61.6639935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>оленина (в ТЦ РУблик)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          50.8314818,61.6623665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Об0] Окрошка (пельмени с морепр)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          33.5224494,44.6171645,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Об0]Терраса ракушка мидяйка (расп примерное)</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          34.1778231,44.4977604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ресторан "Жемчужина"]]></name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          33.6001612,44.5000626,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Об0 ]ВЫСОТА 5642</name>
+      <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          39.9766821000001,43.3931687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Чебуречная</name>
+      <description><![CDATA[Чебуреки очень хороши. Вкусные и большие в штатной порции.<br>Пиво темное - вполне, хотя марка неизвестна<br>Драники  - посредственные из микроволновки<br>окрошка - оказалась холодным борщом.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          30.517049,56.3427596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[+] Батьки</name>
+      <description><![CDATA[Столовка типа LIDO<br>Очень хороший выбор и очень гуманные цены. колбаски, курица гриль и драники - очень вкусно.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          31.0127108,52.4279692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[+] Сваякi</name>
+      <description><![CDATA[Вкусно и сытно.<br>Брали поджарку свиную с драниками.<br>Минус - очунь уж булоруское отношение - все пофиг. приходится пинать.<br>но ценник довольно гуманный]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          23.6867865,52.0942337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тульский пряник - Октябрьская 45А
+</name>
+      <description><![CDATA[магазинчик при музее. не путать с соедями.<br>настоящий только в доме 45А. рядом с музеем пряника.<br>Производство там предприятие называется "Старая Тула", адрес производства - Октябрьская 45.<br>Рекомендую "Гречишные" брать.]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <Point>
+        <coordinates>
+          37.6219843,54.2119139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

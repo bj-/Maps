@@ -1,0 +1,2701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Изучать</name>
+    <Style id="icon-1540-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1540-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1540-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1540-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1540-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1898-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1898-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1898-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1898-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1898-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1898-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-nodesc-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-nodesc-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>КП «Лето» ИЖС, ГВ
+</name>
+      <description><![CDATA[газа похоже нет. только в теории. дорога - узкая крошка . ЖД3км<br>https://zagorod.spb.ru/realty/village/13792273858824042]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.806645,59.672079,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Деревня</name>
+      <description><![CDATA[ф<br>- В деревне газ<br>- до деревни - асфальт, внутри советская грунтовка<br>- это деревня. старая. со всеми вытекающими]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.7379185,60.0398313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Норд Гард" ИЖС ЭГ
+]]></name>
+      <description><![CDATA[Грунт. офис нищебродский. Газ типа уже есть.<br>ЖД 1км<br>https://zagorod.spb.ru/realty/village/13792273858824006<br>http://nordgard.ru/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.8406769,59.8051448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Sarvela Park ГВКЭ 160к/с
+</name>
+      <description><![CDATA[10.2 сотки. похоже только один остался.<br>https://zagorod.spb.ru/realty/village/13792273858823867<br>http://shtab-group.ru/sarvela-park/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.825499,59.809599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>хзгде КП «Канисты ИЖС Г?В?Э? 221к/с
+</name>
+      <description><![CDATA[сотка 221тр. участки 10-15соток<br>Из инженерных коммуникаций предусмотрена возможность подведения электричества, возможность подведения водоснабжения и газа.<br><br>https://zagorod.spb.ru/realty/village/13792273858823843<br>http://www.doma-spb.ru/cottage/74.html]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.692149,59.925874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Сияние» 15Кв
+</name>
+      <description><![CDATA[Без подряда. участки большие.<br>15 Кв. Шлакбаум на въезде. без охраны.<br>дороги крошка. чистят.<br>http://wikimapia.org/#lang=ru&lat=60.177679&lon=30.218368&z=15&m=w&show=/24441068/ru/%D0%94%D0%9D%D0%9F-%C2%AB%D0%A1%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%C2%BB<br><br>Факты: <br>+ До поворота на поселок - асфальт<br>+ Сертолово со всей инфраструктурой, но пешком в него иди грустно (по шоссе)<br>+ Близко до города (на машине)<br>+ Прямая дорога до ЗСД (пересечение с КАДом)<br>- Очень часто сильно ветрено.<br>- Дороги крошка. постоянно обновляют. но весной весьма колдобисто.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.223611111111,60.1725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Омега» 110к/с
+</name>
+      <description><![CDATA[участки по 20 соток<br>ХЗ<br>http://wikimapia.org/#lang=ru&lat=60.178020&lon=30.233603&z=14&m=w&show=/24441029/ru/%D0%94%D0%9D%D0%9F-%C2%AB%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0%C2%BB]]></description>
+      <styleUrl>#icon-1899-673AB7</styleUrl>
+      <Point>
+        <coordinates>
+          30.2175,60.1738888888889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Петровское»</name>
+      <description><![CDATA[ДНП «Петровское» создано в 2012 году. Проложены все дороги. Электричество 10 кВт.<br>В 2015 году планируется окружить периметр ДНП забором и установить КПП.<br>В 2016 году планируется верхнее освещение. <br>http://wikimapia.org/#lang=ru&lat=60.178020&lon=30.233603&z=14&m=w&show=/30304566/ru/%D0%94%D0%9D%D0%9F-%C2%AB%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5%C2%BB]]></description>
+      <styleUrl>#icon-1899-673AB7</styleUrl>
+      <Point>
+        <coordinates>
+          30.2327777777778,60.1683333333333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Слобода» 125к/с
+</name>
+      <description><![CDATA[Новое ДНП.<br>участки по 20 соток<br>http://wikimapia.org/#lang=ru&lat=60.178020&lon=30.233603&z=14&m=w&show=/24441097/ru/%D0%94%D0%9D%D0%9F-%C2%AB%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%C2%BB]]></description>
+      <styleUrl>#icon-1899-673AB7</styleUrl>
+      <Point>
+        <coordinates>
+          30.2275,60.1675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>333 сотки 13,3к (40к/с)
+</name>
+      <description><![CDATA[но нет ничего. только земля. т.е. еще лямов 10 на всякое.<br><br>https://www.avito.ru/morozova/zemelnye_uchastki/uchastok_3.33_ga_snt_dnp_1668007611]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          31.0541742,59.9914649,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>~новДНП 90к/с
+</name>
+      <description><![CDATA[место примерное<br>похоже продают авторы ДНП<br>Анна +7 911 092-68-13<br>Подъезд до посёлка - асфальт. Электричество 15 квт на каждый участок- подключено. Планируются дороги с асфальтной крошкой.  ограждение посёлка по периметру, КПП, детская площадка, магазин. <br>https://www.avito.ru/gorbunki/zemelnye_uchastki/uchastok_10_sot._snt_dnp_1207961196]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9128429,59.7609233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Графская Славянка"]]></name>
+      <description><![CDATA[от 69к + некий инфраструктурный платеж.<br>участков с 2 десятка в т.ч. соседних.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.342691,59.6452867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Любимово 100к?
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=4noEkqqnekU"><img src="https://img.youtube.com/vi/4noEkqqnekU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/4noEkqqnekU">https://www.youtube.com/embed/4noEkqqnekU</a><br><br>вроде бех подряда. обещают газ. 15кВт. Охрану, "Платформа 36 км" в 650 метрах<br>начало продаж 1-й очереди. всего 3 очереди.<br>точных чен не сообщают. только по звонку.<br>https://www.fakt-group.ru/poselki/love-is/mestopolozhenie/<br><br>Облет: https://youtu.be/4noEkqqnekU<br><br>Факты:<br>+ ГАЗ<br>+ электричество разведено<br>+ асфальт до поселка<br>+- внутри дорога крошка<br>+- На начальном этапе. много участков свободно<br>+- жд "о.п. 36 км" в 2 км от въезда, электричка от Витебского вкз - 50 минут<br>- в чистом поле]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/4noEkqqnekU</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.4972801,59.6342979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Аэродром ДНП ГВКЭ 120к/с
+</name>
+      <description><![CDATA[за пакет коммуникаций еще 530к<br>62 участка площадью от 8 до 16 соток<br>https://zagorod.spb.ru/realty/village/13792273858823870<br>http://dnpaerodrom.ru/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.7154403,60.0753447,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>~ КП Лес-Поле 180к/с ГВЭ
+</name>
+      <description><![CDATA[83 участка площадью от 5 до 44 соток по цене от 180 тыс. рублей за сотку.<br>Инженерная инфраструктура представлена на сегодняшний день централизованным водоснабжением из скважины, электричеством до 10 кВт, газоснабжением, локальной канализацией.<br>https://zagorod.spb.ru/realty/village/13792273858823732<br>tp://les-pole.ru/ <br><br>ф<br>- дороги кое как отсыпаны<br>- подъезд разбит<br>- КП плоский, в отличии от поселка мендсары<br>- эл есть<br>- газа не заметил нигде<br>-]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.3418847,60.1407692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>~ КП Медовое+ ИЖС ГВКЭ 300к/с 15кВт
+</name>
+      <description><![CDATA[60 уч от 8 соток.<br>Из коммуникаций также имеется магистральный газ, центральный водопровод и центральная канализация.<br>https://zagorod.spb.ru/realty/village/13792273858823959<br>http://www.1000sotok.ru/?q=node/166]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.3809630000001,60.179891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>! КП Савоя ИЖС ГВЭ 15кВт 210к/с
+</name>
+      <description><![CDATA[190 уч 10-18сот<br>газ - централизовано, электричество - 15 кВт на домовладение, водоснабжение – централизованно с водоподготовкой (скважинное, скважина на территории поселка), центральная дорога - асфальт, внутренние проезды - благоустроенные, система отведения и очистки грунтовых вод. Газ, электричество и вода - подведение сетей до границы индивидуального участка. Централизованной канализации нет.<br>https://zagorod.spb.ru/realty/village/13792273858823991<br>http://www.savoya-land.ru/<br>Факты:<br>- Обява: 14.10.2014, обн: 17.01.2018<br>- дома подключенные к газу в 1-й оч.<br>- септики стоят]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.2854468,60.2071117,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>! КП Арли ДНП ГВКЭ 90к/с
+</name>
+      <description><![CDATA[98 уч от 8 до 15 соток.<br>подряд+безподряд<br>В поселке планируется все необходимое инженерное обеспечение: водоснабжение, газопровод, канализацию, электричество, интернет, телефон и пожарно-охранные сигнализации. Стоимость уУчастка со всеми коммуникациями составит 90 тыс. руб. за сотку.<br>https://zagorod.spb.ru/realty/village/13792273858822761<br>http://arli.spb.ru - мертв<br>http://arli.comnedspb.ru/<br>Факты:<br>в объявах на авито упоминается что есть газ]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4939122,60.2689036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Елизаветинское ГВКЭ 160к/с 10кВт
+</name>
+      <description><![CDATA[117 уч от 6 до 15 соток<br>160к/с с учетом стоимости коммуникаций. В пакет коммуникаций входят: электричество 10 кВт, центральное водоснабжение, газ, ливневая канализация, асфальтирование дорог.<br>https://zagorod.spb.ru/realty/village/13792273858824029<br>http://elizavetinskoe.ru]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.233534,60.275594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Лес ДНП ГВЭ
+</name>
+      <description><![CDATA[https://zagorod.spb.ru/realty/village/13792273858824032<br>http://olympgroup.pro/project/les#about<br>Факты:<br>- объявление от 28.03.2017 (2 года)<br>- На Викимапии отсутвуют]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9000765,60.2031736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Репинская Усадьба-3"]]></name>
+      <description>похоже с подрядом</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.8965407,60.1972852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Можайское ДНП ГВКЭ 65-95к/с
+</name>
+      <description><![CDATA[64 уч, размером от 7 до 12-ти соток. <br>Во входной группе – 65т.р/сот, в центре поселка – 75/85 т.р/сотка, у леса – 95 т.р/сот, <br>+ 290тр коммуникации.<br>газ из газгольдера<br>https://zagorod.spb.ru/realty/village/13792273858823054<br>http://www.gorodam.net]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.1969858,59.6765052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Вариксолово ДНП 140к/с 10кВт ГВКЭ
+</name>
+      <description><![CDATA[В описании указано что газа канализаци и воды нет.<br>https://zagorod.spb.ru/realty/village/13792273858823833<br>http://zagorodspb.com/o-poselke1 <br>факты:<br>объявление от 27.03.2013]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.1282959,59.6916522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Велигонты ИЖС ГВЭ 120к/с 10кВт</name>
+      <description><![CDATA[3 очереди. стартовала 2-я<br>участки от 10 до 21 <br>инфраструктура 75000 рублей<br>https://zagorod.spb.ru/realty/village/13792273858823034<br>http://www.veligonty.ru/ <br>Факты:<br>Объявление от 29.10.2013. обн 17.01.2018]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9078136,59.7877714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Изумрудный город ИЖС ГВКЭ  150-190к/с
+</name>
+      <description><![CDATA[8 - 30 соток<br>Газо/электро/водоснабжение;<br>газ вроде как подводят<br>3 км до школы;<br>дороги крошка<br>похоже без подряда<br>https://zagorod.spb.ru/realty/village/13792273858823936<br>http://slavno-spb.ru <br>Факты:<br>Объявление: 04.07.2014, обн 15.09.2017]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9463513,59.7852659,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Иннола парк ДНП Г?ВК?Э 110к/с
+</name>
+      <description><![CDATA[8 до 20 соток<br>большие участки дороже за сотку<br>Газо- и электроснабжение<br>про газ прямо не пишут.<br>дороги крошка<br>вроде без подряда. <br>сайта продаж http://slavno-spb.ru<br>сайт поселка https://иннола-парк.рф/<br>https://zagorod.spb.ru/realty/village/13792273858823937<br> Факты:<br>Объява: 04.07.2014 обн 15.09.2017<br>Газ:<br>Вода/кал:<br>Дороги:<br>Охрана:<br>Забор:]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9928518,59.7815361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Подсолнухи ИЖС ГВКЭ 172-193к/с
+</name>
+      <description><![CDATA[участки с коммуникациями от 8 до 15 соток<br>Газо- и электроснабжение;<br>Остановка общественного транспорта;<br>https://zagorod.spb.ru/realty/village/13792273858823907<br>http://wikimapia.org/#lang=ru&lat=59.721154&lon=29.996023&z=16&show=/29522751/ru/%D0%9A%D0%9F-%C2%AB%D0%9F%D0%BE%D0%B4%D1%81%D0%BE%D0%BB%D0%BD%D1%83%D1%85%D0%B8%C2%BB&search=59.72468%2C%2029.99999<br>http://luonto-izhs.ru/<br>http://luonto.land <br>Факты:<br>Объява 02.12.2013 обн 04.08.2017]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9962154,59.7212191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Новое Иннолово"
+]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9473281,59.7814239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ДНП "Малиновка"]]></name>
+      <description>Участки под дачное строительство т. 920-07-73</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.8966784,59.7936791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП «Аннинская слобода</name>
+      <description><![CDATA[Посёлок со всеми коммуникациями для ПМЖ.<br>ГК «АйДаДом»]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9413227,59.7489406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Изумрудное ДНП 110к/с 15кв</name>
+      <description><![CDATA[газа нет во всей округе. ждут когда построят газопровод.<br>emerald.spb.ru]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9382973,59.7607807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП хз</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9392502,59.7646221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП хз</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9281566,59.7613588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ДНП "Уютное"]]></name>
+      <description>http://уютное-спб.рф</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.931365,59.7564873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП? ???</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.1157937,59.6838924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Ново-Туутари ДНП 99к/с + 1ккКомм ГВКЭ 10кв</name>
+      <description><![CDATA[газ типа есть.<br>www.new-tyytari.ru]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.2015666,59.6828018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Удачный</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.2036875,59.6816168,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачный ДНП</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.2035802,59.6796128,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Павловские дачи</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3332826,59.6326059,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Павловский Посад</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3384539,59.6433651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Покровское</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3535211,59.6534814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SNT Sestroretskoe</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9080152,60.1964744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 45</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9101787,60.192103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 35</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9158154,60.1946045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 33</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.8928907,60.2013604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 36</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9233041,60.1958417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 34</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9111298,60.2005606,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 32</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9022537,60.1997998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 37</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9364362,60.190818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 46</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.91638,60.192551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 47</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.8937306,60.2156998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Белоостровское подворье</name>
+      <description>С подрядом похоже</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.0233435,60.1765185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Скандинавский парк»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.0137871,60.1996398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП «Терра-Выборгское»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9978415,60.1974294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП Солнечное
+</name>
+      <description>есть мнение что кидалово (на викимапии в комментах)</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.9955055,60.2109026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 58 - ГЭ
+</name>
+      <description><![CDATA[ф<br>- Дорога асфаль до въезда в пос.<br>- поселок свежий, немного холмистый, видовые участки<br>- ГАЗ электричество<br>- строятся не активно]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.0252531,60.1929327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Лесная поляна»</name>
+      <description>викимапия: возможно под судом и собсвенность МО РФ</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.1124873,60.1775812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Садоводство Заозёрное-1</name>
+      <description><![CDATA[образовано в 1994г.<br>zaozernoe.ru]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.0894938,60.1843472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Медное Озеро - 3</name>
+      <description>возможно собственность МО РФ</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.0983681,60.1799193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Заречное»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.0755801,60.1763232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ДНП "Памир"]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.0281609,60.1508511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Ягодка 2</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.1581706,60.1701487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 68</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.152098,60.171643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ДНП "Дранишники"]]></name>
+      <description><![CDATA[ДНП "Дранишники" создано 2005 году. Всего участков 270, на участке земли в 40 ГА.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.2627737,60.1306114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Агалатово-3</name>
+      <description><![CDATA[Периметр бывшей воинской части. Ныне ДНП Агалатово-3, планирующее перерасти землей из ДНП в ИЖС<br>http://www.agalatovo3.ru]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.2524613,60.2590602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Точка 72</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.2491501,60.2392453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Медное озеро 2»</name>
+      <description>honkavillage.ru/settlements/built/mednyi_zavod/</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.1534469,60.210333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Новая Екатериновка"]]></name>
+      <description><![CDATA[группа поселка здесь https://vk.com/club128880592, <br>За свет просят сотни тысяч, руководство после оплаты денег становится хамское.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4606833,60.3058195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Витязь»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4181718,60.3079653,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП Пять холмов"]]></name>
+      <description>www.5holmov.ru</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4360525,60.2671532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Удальцовские Поместья ДНП 200-300р/с
+</name>
+      <description>стремный. на викимапии срач. администрация перекапывает дорога, отключает коммуникации</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4110995,60.5923774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>korelapark.ru</name>
+      <description><![CDATA[korelapark.ru<br><br>ф<br>- дороги отсыпаны, может быть даже крошкой<br>- газа не видно, но может и есть<br>- тихое шоссе мимо КП, <br>- столбики освещения уличного<br>- откатные ворота, на воротах тел охраны<br>- застроен слабо, но не заросший.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.3563904,60.134676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OSKO Village (с подрядом)
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3580411,60.1372651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ДНП "Новые Мендсары"]]></name>
+      <description>вроде кидалы (платные дороги)</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.3425177,60.1420815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ДНП "Мендсары"]]></name>
+      <description><![CDATA[ф<br>- газ ХЗ, но в поселке он есть, возможно есть и там.<br>- подъездная асфальт, в поселке асфальт, но на подъезде метров 50 газбитого говна<br>- дома довольно кучерявые. скорее всего ен шибко дешего]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.3404202,60.1433527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Сувантоярви</name>
+      <description>возможно торгуют воздухом (участки не в собственность) и сама земля еще не выкуплена у пред. владельца</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4019427,60.5981599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Зареченское</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3867829,60.5910485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Каменный мыс</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3777466,60.6127851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Сосны</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.2521086,60.6603221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНП «Светлое»</name>
+      <description><![CDATA[Садоводческое некоммерческое партнёрство.<br>Организация зарегистрирована 29 ноября 2002 года по адресу: 188734, Ленинградская область, Приозерский район, Запорожская вл. Компании был присвоен ОГРН 1024701650456 и выдан ИНН 4712019792. Основным видом деятельности является выращивание однолетних культур. Компанию возглавляет Дартау Мария Витольдовна.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4462767,60.5671864,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНТ Тэйпл Плаза</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5042299,60.5884831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Непонятно что. явно нарезано.
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7011936,60.0671738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Звёздное</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7191515,60.0619708,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Малый Петербург</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7592455,60.0534323,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Новая Романовка</name>
+      <description><![CDATA[ф<br>- реально застроен небольшой кусок, как на спутнике.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.6990188,60.0363181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Солнечная долина</name>
+      <description><![CDATA[похоже с подрядом хотят продавать<br><br>ф<br>- дороги асфальт, но осыпаются и размываются. явная халтура<br>- построено несколько однотипных домиков, но есть и 1-2 явного самостроя.<br>- электричество вроде есть<br>- газ в округе. на территории - не понятно]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.7381698,60.0428902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Прайд</name>
+      <description><![CDATA[вроде подряд<br>по факту - дома очень разношерстные.<br><br>факты<br>- почти до поселка асфальт<br>- дороги толи галька толи крошка<br>- фонари дорожные.<br>- газ на территории<br>- пустые участки есть.<br>- на склоне (там и пустые участки)]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.7591992,60.0335669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ладога Ленд
+</name>
+      <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.0478169,59.9967293,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ладога Ленд 2оч (подряд)
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=mmcibQ3rGow"><img src="https://img.youtube.com/vi/mmcibQ3rGow/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/mmcibQ3rGow">https://www.youtube.com/embed/mmcibQ3rGow</a><br><br>Электричество стоит<br><br><a href="https://www.youtube.com/watch?v=1K1R46rACFQ"><img src="https://img.youtube.com/vi/1K1R46rACFQ/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/1K1R46rACFQ">https://www.youtube.com/embed/1K1R46rACFQ</a>]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/mmcibQ3rGow https://www.youtube.com/embed/1K1R46rACFQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          31.0393891,59.9951055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачное СНТ
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.0215559,59.9595265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачное СНТ</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.0393229,59.9656703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачное СНТ</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.0093535,59.956669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачное СНТ</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.0256184,59.9549931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачное СНТ</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          31.009096,59.9494275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП возможно
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9847764,59.9353359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачное СНТ
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9801844,59.9269285,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачное СНТ</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9796694,59.9232509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дубровка (ГП) ГАЗ в деревне
+</name>
+      <description><![CDATA[- Школа есть на карте<br>- детсад есть на карте<br><br>ф<br>- ГАЗ есть<br>- дороги - в целом ничего. асфальта много где по сельским меркам]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.9357121,59.8442962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП ХЗ
+</name>
+      <description>на викимапии истерики пишут про незаконный захват,  и что уже ничего строить не будут.</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          31.0162344,59.9489547,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Lakesberry Club</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9683515,60.6554817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Вуокса вирта 160к/с
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.8589085,60.6578921,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Дом на Вуоксе 160к/с
+</name>
+      <description>похоже эти: http://www.navuokse.ru/</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.8646592,60.6572927,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Застроено</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.8731135,60.6564095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Ораваниеми</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.7656799,60.655482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Коттеджный посёлок</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.5769319,60.7022899,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП «Вуокса плюс»</name>
+      <description>www.вплюс.рф/raspol/</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.561182,60.7119767,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Котеджный поселок
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.5680056,60.7094363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ИЖС Невский остров</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.8007206,59.8055398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Рыбацкая Деревня</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.8036603,59.8069211,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1-й микрорайон</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7901427,59.7922212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Бриллиант»</name>
+      <description><![CDATA[Взносы большие по 60000в год пока. уже 4 года платим и 3 еще предстоит.  собственности нет только книжка днп. обещают газ к 15г и в собстенность передать. <br>http://vdnp.ru]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.2389,60.2550469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гранит</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.2146837,60.2523454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Малые Пороги</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7406505,59.7823637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[ ! ] Коркинские просторы ГАЗ</name>
+      <description><![CDATA[<img src="https://doc-0g-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/kb64k5j7rnsfi1n4b4abqn8jns/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALp3JKNNUWM8QfZgNeOzd7ALPH0jQ-b_33gWQ286OjAv_ln8W-vvxePE6AeQlr_evyTodk8E44D2_g0Uug3dQ8MiAuHdqeiFGikqJRJuk_S7pJGxSb6dBq5esBADyOwu3c4cio-ZCWVboM-saQ4OEpzRVlYzk7qQsbSjulGnlIEtC1XYqSnc9pH6l0BJ6F1LbyXJIYV_87pZFyeLzbemrPzGHIN40FPKCb03TBhLHGu-WiNEbEIyobACPacyhmRDZKmoMQjCByH9QPMDzjXp4gzNM_WYWA?session=0&fife" height="200" width="auto" /><br><br>ф<br>- по центру поселка холм, по нему идет ЛЭП соотв. большая пустая территория.<br>- Газ везде<br>- Электричество<br>- построено прилично, живут, до пос асфальт, последние 1 км - не очень.<br>- внутри асф.крошка, местами асфальт. состояние хорошее.<br>- въезд шлакбаум, охранник, но моте пролетаешь без проблем.<br><br><img src="https://doc-10-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/ad7bvbudeg5suiq2d8imcmosb0/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrgwbkTscgc237HIoAnICxJ7FhhSPCZhwcsoi03-u7gqCY5RxAwO-YTDw93RhRF1uTssj4_EHEF37UMkQuPEs2p3BPCur-JBDOVFFPlvv37ImUjqqFKUXZd3C918w02yjzQCt5u5VQNT86snjZNWpcByr88GU8jJrr6RmxpHsgsisyocbiKQkOU_KAYYKjuscOGkv5Oao5UUBpPrkYWwPpfzfsDZz97T3uueJCInNqRF_1-s0tt1QtDgXDd4v-SANVoPZ0Pg4GfWZX4nP1fXGDP5dhCrw?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-10-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/h4ghj63f4upleukc287b7c5ung/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoED255jSUU9l-vPQJ2aoE5ZsR3JZRgdIOB5kSE4UvGHNYq9RckpiCj2K3MCzkYhwgHm65vieVUl-bu_Xsh0O2coPCgX-B0chwPDbkobdND2owIFDe3KDXEkAfoWRDHxoQ4-vfMTMhhYNFKrljIvMLN-TCLBJwEJ5NlsxA5pyfUR654k_Jp0ae8__WV3L05uzSc0rod5-i05vNnoh64tGwVvzOYdLEDluNCspL3xKXUCZqc8l9d-0eA4uxncuuDjYDAdG0oVhXhoqIuzprHWMoQloHkZQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/1is7m6kjh71sov2cqqbk5a44h0/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqNMn28sIFqpHPVy1YehKEWPzij0JW4ddQAZL4lJ3pLq0o4NMa3iIX4x_7aU_1esxcbeUP-ivXqLg4jwwatts4qit8n_9RJNdBd3zqw7Yur1yBocSJuL2u6YyS7iind4pUTvWwj9D6wlvpRvk3ghnA4_uV9eRy6mdUOZzne6C1QmqGb5GNO6yVfw5jH81nWF-747LZW6KK8pyEQXd9dPFfXKGpy5Gvbp1FdW7BCYLDti-Oq3y_q_-kd5fV-h2IvkuthieNkkqDON7yThoULoRTg4fAO7g?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/fa1k6to7d7tho78sm48eid8fdo/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoPiLQiMIafcQ_PtwG-3Qss4cfEnDPsPCeA85rtd_Yl3vLHtIa3nxXb7TrriP-kLUYtMvPi1jtIYu3DsyYfIjgyFej9oH_-iFypz-A7_XYd7auiffwfe3u3JdD-KMw55abaxB6oumYi0aOKfBBmbV7s77yYNY6T9JNOkkRCaO6m4Oec81pG68f2hIOMMk_-2drty5R_Nj_eqfeTi2hBf1zVP91F2hBsoXUDRTNvEqn_HtQIPRu6FMg9TTLdHEzmdOQ1dDJdKlYreVqJebyvRSdMySckJw?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/dq7kh6h31n68u8kg440mg4rf2g/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoYVDX08QlcpEdDBKphIk31OUzt8O_6I1VTd1SllhhQgMH-HGjSvuqdaPlAzNYD0RILp9NEYOcdJHHUIunRuWVZgITpTldqdKw9M9VJwzK08Ok0TNfxlWjsyXTv2Hb45Al14-9AYReOd8qGJ5z7xUms9GOL2kXtgR4lt-i0Qy1OGrA3BNDv0WJncsrLZ6WFTzN5Yw55uRtDqbc5a8Fw5vtd3nCq0lcZmDypBrT3LypYJQDj95vnITK2pD7gTaHjwfZ0Syz9AxrbCwPdExtuCP7UGwMgGw?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/nnjuiu3e5lvlke8lutqfau0tv4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqm2EV5dBuxQjFdbGoKy1ksuMsFdFeJVLqpwe1xehIJfmY4KzENA0As78HetPCTIKN_zT5hXwL91F32j96C3oIkPqXuYsNvNMgBukiQLzL_j5t-c-7OoHNuJk6S_s6USxqFdT-rdFt5d1pdtoRybzZDhIweGnCTEaXEokOtuGWc2DDtPOFqpdPT-IlTPfanCSTL6BWlobrVAsYR2Lz2X23TCYZUMWCWzRybC-ynTLWzaFJYrMgw-COypJabnwoAFNpjDtaUfWC1YW01B1ANHBhSkyicfg?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/h80det5hv8g9vs363bo8mil1q4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrrDJSPAGkQBuqoX1mBYkeCgocxPeI15W9rnoSYsfZX_IIHMxKnTzQhDzaNXx1a40lwGva9lNIFl6ZPYYMtoUD1UfuOSJD1qzT7bk24XluQyhF8ozPgI9Y_ohH3Vo5asGMFe--ZVC8bVc9Xry5-25WrlsJmOlop8v8XBTGoC07scmuVRLC7jkubj3GLphuDAYdJJYBwt48MbN6aDieWujAIGDIcauA18mL6yHNI0T0zG9sw4INcpgW_bpOzDFjB_p3R-2yGW9XMtV-_Fb9fXK7vuvekhg?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/808gp58tvgg66rs681iq6n341s/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr1HV81ZG7Cet8i5E1zT7DcHqDspVz79FEhNfOU1HodWh0zQZt5G40m8Of44vWWNDJu-h-wlQxsiji7_y9JaSWJXH0n7uIOGAU5TxfWg7gY88YklsDk2POjkaHSW1KDQHvtoZ-Pk_y7KUPv3blkkIDhJa3m7TjFoCtB-lK63WlOIVzR_r8rcqlwHWMDG-cpoqdURuYGy5wFNdvY3-Ekxd-HSxaj_-ShgL0D1Wa6_SnTb9ChhHsRlgXRga5TtpdIULulJidi_PjUyK9e0sM_9L07c9L1pg?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/crumebvhlcqgcfcmcq3pueilb4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoWLH5T6JVz2CCq-_fHP3VwrnXS6AxxmhyLAieu28yvAqca1-g_6K-kuRv1Xq7Pz2yYEN850UShMCZPHDNWwllGWwsry4nYGWlldcpxf6IQtmHok2kNA92Z4x9fUiEA-jS4-rACpJQHZZQNau0OlTQlHJeYhXfluFQp2F29XsEaTbxJq9k6--_6XeVRINpAGiq95eYDxYLIR2PWrY0-Eaz4OMiDaZZ0iySfhfw48qhxpHO1YmbUSUPch28UO21erAEru9zNQ6y3rfvcas7Ru4UaMm7Sqg?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/kb64k5j7rnsfi1n4b4abqn8jns/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALp3JKNNUWM8QfZgNeOzd7ALPH0jQ-b_33gWQ286OjAv_ln8W-vvxePE6AeQlr_evyTodk8E44D2_g0Uug3dQ8MiAuHdqeiFGikqJRJuk_S7pJGxSb6dBq5esBADyOwu3c4cio-ZCWVboM-saQ4OEpzRVlYzk7qQsbSjulGnlIEtC1XYqSnc9pH6l0BJ6F1LbyXJIYV_87pZFyeLzbemrPzGHIN40FPKCb03TBhLHGu-WiNEbEIyobACPacyhmRDZKmoMQjCByH9QPMDzjXp4gzNM_WYWA?session=0&fife https://doc-10-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/ad7bvbudeg5suiq2d8imcmosb0/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrgwbkTscgc237HIoAnICxJ7FhhSPCZhwcsoi03-u7gqCY5RxAwO-YTDw93RhRF1uTssj4_EHEF37UMkQuPEs2p3BPCur-JBDOVFFPlvv37ImUjqqFKUXZd3C918w02yjzQCt5u5VQNT86snjZNWpcByr88GU8jJrr6RmxpHsgsisyocbiKQkOU_KAYYKjuscOGkv5Oao5UUBpPrkYWwPpfzfsDZz97T3uueJCInNqRF_1-s0tt1QtDgXDd4v-SANVoPZ0Pg4GfWZX4nP1fXGDP5dhCrw?session=0&fife https://doc-10-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/h4ghj63f4upleukc287b7c5ung/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoED255jSUU9l-vPQJ2aoE5ZsR3JZRgdIOB5kSE4UvGHNYq9RckpiCj2K3MCzkYhwgHm65vieVUl-bu_Xsh0O2coPCgX-B0chwPDbkobdND2owIFDe3KDXEkAfoWRDHxoQ4-vfMTMhhYNFKrljIvMLN-TCLBJwEJ5NlsxA5pyfUR654k_Jp0ae8__WV3L05uzSc0rod5-i05vNnoh64tGwVvzOYdLEDluNCspL3xKXUCZqc8l9d-0eA4uxncuuDjYDAdG0oVhXhoqIuzprHWMoQloHkZQ?session=0&fife https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/1is7m6kjh71sov2cqqbk5a44h0/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqNMn28sIFqpHPVy1YehKEWPzij0JW4ddQAZL4lJ3pLq0o4NMa3iIX4x_7aU_1esxcbeUP-ivXqLg4jwwatts4qit8n_9RJNdBd3zqw7Yur1yBocSJuL2u6YyS7iind4pUTvWwj9D6wlvpRvk3ghnA4_uV9eRy6mdUOZzne6C1QmqGb5GNO6yVfw5jH81nWF-747LZW6KK8pyEQXd9dPFfXKGpy5Gvbp1FdW7BCYLDti-Oq3y_q_-kd5fV-h2IvkuthieNkkqDON7yThoULoRTg4fAO7g?session=0&fife https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/fa1k6to7d7tho78sm48eid8fdo/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoPiLQiMIafcQ_PtwG-3Qss4cfEnDPsPCeA85rtd_Yl3vLHtIa3nxXb7TrriP-kLUYtMvPi1jtIYu3DsyYfIjgyFej9oH_-iFypz-A7_XYd7auiffwfe3u3JdD-KMw55abaxB6oumYi0aOKfBBmbV7s77yYNY6T9JNOkkRCaO6m4Oec81pG68f2hIOMMk_-2drty5R_Nj_eqfeTi2hBf1zVP91F2hBsoXUDRTNvEqn_HtQIPRu6FMg9TTLdHEzmdOQ1dDJdKlYreVqJebyvRSdMySckJw?session=0&fife https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/dq7kh6h31n68u8kg440mg4rf2g/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoYVDX08QlcpEdDBKphIk31OUzt8O_6I1VTd1SllhhQgMH-HGjSvuqdaPlAzNYD0RILp9NEYOcdJHHUIunRuWVZgITpTldqdKw9M9VJwzK08Ok0TNfxlWjsyXTv2Hb45Al14-9AYReOd8qGJ5z7xUms9GOL2kXtgR4lt-i0Qy1OGrA3BNDv0WJncsrLZ6WFTzN5Yw55uRtDqbc5a8Fw5vtd3nCq0lcZmDypBrT3LypYJQDj95vnITK2pD7gTaHjwfZ0Syz9AxrbCwPdExtuCP7UGwMgGw?session=0&fife https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/nnjuiu3e5lvlke8lutqfau0tv4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqm2EV5dBuxQjFdbGoKy1ksuMsFdFeJVLqpwe1xehIJfmY4KzENA0As78HetPCTIKN_zT5hXwL91F32j96C3oIkPqXuYsNvNMgBukiQLzL_j5t-c-7OoHNuJk6S_s6USxqFdT-rdFt5d1pdtoRybzZDhIweGnCTEaXEokOtuGWc2DDtPOFqpdPT-IlTPfanCSTL6BWlobrVAsYR2Lz2X23TCYZUMWCWzRybC-ynTLWzaFJYrMgw-COypJabnwoAFNpjDtaUfWC1YW01B1ANHBhSkyicfg?session=0&fife https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/h80det5hv8g9vs363bo8mil1q4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrrDJSPAGkQBuqoX1mBYkeCgocxPeI15W9rnoSYsfZX_IIHMxKnTzQhDzaNXx1a40lwGva9lNIFl6ZPYYMtoUD1UfuOSJD1qzT7bk24XluQyhF8ozPgI9Y_ohH3Vo5asGMFe--ZVC8bVc9Xry5-25WrlsJmOlop8v8XBTGoC07scmuVRLC7jkubj3GLphuDAYdJJYBwt48MbN6aDieWujAIGDIcauA18mL6yHNI0T0zG9sw4INcpgW_bpOzDFjB_p3R-2yGW9XMtV-_Fb9fXK7vuvekhg?session=0&fife https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/808gp58tvgg66rs681iq6n341s/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr1HV81ZG7Cet8i5E1zT7DcHqDspVz79FEhNfOU1HodWh0zQZt5G40m8Of44vWWNDJu-h-wlQxsiji7_y9JaSWJXH0n7uIOGAU5TxfWg7gY88YklsDk2POjkaHSW1KDQHvtoZ-Pk_y7KUPv3blkkIDhJa3m7TjFoCtB-lK63WlOIVzR_r8rcqlwHWMDG-cpoqdURuYGy5wFNdvY3-Ekxd-HSxaj_-ShgL0D1Wa6_SnTb9ChhHsRlgXRga5TtpdIULulJidi_PjUyK9e0sM_9L07c9L1pg?session=0&fife https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/crumebvhlcqgcfcmcq3pueilb4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoWLH5T6JVz2CCq-_fHP3VwrnXS6AxxmhyLAieu28yvAqca1-g_6K-kuRv1Xq7Pz2yYEN850UShMCZPHDNWwllGWwsry4nYGWlldcpxf6IQtmHok2kNA92Z4x9fUiEA-jS4-rACpJQHZZQNau0OlTQlHJeYhXfluFQp2F29XsEaTbxJq9k6--_6XeVRINpAGiq95eYDxYLIR2PWrY0-Eaz4OMiDaZZ0iySfhfw48qhxpHO1YmbUSUPch28UO21erAEru9zNQ6y3rfvcas7Ru4UaMm7Sqg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.7091011,59.9225789,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рублево</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6980075,59.9169111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Роквилль</name>
+      <description><![CDATA[<img src="https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/iurq3kjc1m58vel7t110qgrcao/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqgz8lAvp7tOjLrkf5_Jq36TZraz4WXRBa7UNJX0q8iXuMkBt8PQr-Ke8cDNFBNg0eMDgkreor-EFMALgQqWtAqUs1ABwiewwEcdTCU8Ng68L6w56dWBUiTEGBoLkQlEUMo5AJS-KEM9TR0BSuqGKNA6unimVENs_eQW5E145Ik1JXtrVQheRnKjSHcj6_kLLySaHcdri8_WvggYiNC3lpVg9sJuxu-x8-cNF2m-FHSMI0xr5n3l5OOlTIxSGPAZy5XBpEHDq8hgJ439AluTrplLv0X0g?session=0&fife" height="200" width="auto" /><br><br>Ф<br>- недалеко от шоссе, условно асфальт до пос<br>- дорога грунт с крошкой<br>- газовый щит ни въезде. по домам не видно.<br>- очень однотипные дома. скорее подрядный.<br>- живет похоже только один<br><br><img src="https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/94t2vvf4jn6np87dgf4ijjr7ao/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr23iGBWhPePMOx9WxVRWT3AvRwjrlDhwbhMEXBGEN8am-B2x_l9PN8AABca5Yn1OFc64aQhlVYQAlIg7xq1ergvxcQSEKmDmPbogJtK9cE8kYvByIQkq48t0IKrBAV0JrIzcrkQynW0lFOFU_MB52Tw2L42A3RlR5yYZ9bmOpuOSMft39Jij3f5iTNW2ErCdrf8O2xR0qeb5Nbu9PnPfO0J12GrCleDQNK46HZm0vk1UfycAC81-qw32uEMOzmoYe-JpxSJLOdt2_i6xxVm-k0XXSBbw?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/khlbbt03tpg0icatthh2f2b3d8/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALofcQ-q7dLCHGGD3BUnT6IVFSHAEfai3aH62uRK-LxFJKh1g6ztZ8qRGs73T24L1Jx5bRKxCOadhVAJ-pDUuBaCXC9Xqrj-KLZCab3I3gTHav_5MXeeycxWVZJ0oKLkorWL_cUpomaeoDT8te_SOb1cA5KkeSt8vFl64oBqrcIOIqivBNwaDyNGgPQgbOR7vVN-AwAcsCJF3_ElL1HjHb1bzUeiQfeKAkopWI3fKsyaCdszcPFc4PvskF4j8K4-I3bATGVlYzTQfSF0mMtZrBbgOJbzuA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0g-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/msq3nksfhk6p41elj28l6ivsc8/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpmW-iTrCTuAwE82XcjF_Jc57HZe9kzpnhejCSx9nRw0IoJNhAbTnkt-ZIl5BItfXKelxwQzTCZjAFKdWu3FcFkc7vBWcaspPVDtyhWqptwtS5R8Y-QuVFVhj3buOK3PCNgspK7V2gvOYTkibPoBONI2akb6Ul25lQlolTDt9Vk9XY9mZ3GrEsGE43rcty_0jHoUT8rjp1Wv4vR5tVeo1FABX41yxVcpsus5Bjo8Wc7SgwP4xk093xbJmrYaprP-k-HYb7GuBi8ksHxHheFLS077djfVA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-08-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/804eq9u68adgkod1i56tauat7k/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpRVKmbRJ3fMwH8Q1YI6IwHXxyGgb1BRcvoRukoW-f6tLQEkdKHwHuX8X_OCyuLQCXac4ESQJR-U6oJUyPB-KFVpXu9ycjotoSo_8-apjo-dbdWSMRcl0vC7Vq-TjNC9rMzI4DS5NcX9LhzJIPR_S8ndGB521Ci7IV_77TVlUjMjRKoGKTb6J5h0138N5O2Ft4bXbsg65VmxpPyKPiDkOW_VbfETpad5zSkkkycY-y8GAfCE2iyUm7FJDeoCmvHepUaJgIa0wIdMAMSEv2m15RLNtXHRQ?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/iurq3kjc1m58vel7t110qgrcao/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqgz8lAvp7tOjLrkf5_Jq36TZraz4WXRBa7UNJX0q8iXuMkBt8PQr-Ke8cDNFBNg0eMDgkreor-EFMALgQqWtAqUs1ABwiewwEcdTCU8Ng68L6w56dWBUiTEGBoLkQlEUMo5AJS-KEM9TR0BSuqGKNA6unimVENs_eQW5E145Ik1JXtrVQheRnKjSHcj6_kLLySaHcdri8_WvggYiNC3lpVg9sJuxu-x8-cNF2m-FHSMI0xr5n3l5OOlTIxSGPAZy5XBpEHDq8hgJ439AluTrplLv0X0g?session=0&fife https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/94t2vvf4jn6np87dgf4ijjr7ao/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr23iGBWhPePMOx9WxVRWT3AvRwjrlDhwbhMEXBGEN8am-B2x_l9PN8AABca5Yn1OFc64aQhlVYQAlIg7xq1ergvxcQSEKmDmPbogJtK9cE8kYvByIQkq48t0IKrBAV0JrIzcrkQynW0lFOFU_MB52Tw2L42A3RlR5yYZ9bmOpuOSMft39Jij3f5iTNW2ErCdrf8O2xR0qeb5Nbu9PnPfO0J12GrCleDQNK46HZm0vk1UfycAC81-qw32uEMOzmoYe-JpxSJLOdt2_i6xxVm-k0XXSBbw?session=0&fife https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/khlbbt03tpg0icatthh2f2b3d8/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALofcQ-q7dLCHGGD3BUnT6IVFSHAEfai3aH62uRK-LxFJKh1g6ztZ8qRGs73T24L1Jx5bRKxCOadhVAJ-pDUuBaCXC9Xqrj-KLZCab3I3gTHav_5MXeeycxWVZJ0oKLkorWL_cUpomaeoDT8te_SOb1cA5KkeSt8vFl64oBqrcIOIqivBNwaDyNGgPQgbOR7vVN-AwAcsCJF3_ElL1HjHb1bzUeiQfeKAkopWI3fKsyaCdszcPFc4PvskF4j8K4-I3bATGVlYzTQfSF0mMtZrBbgOJbzuA?session=0&fife https://doc-0g-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/msq3nksfhk6p41elj28l6ivsc8/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpmW-iTrCTuAwE82XcjF_Jc57HZe9kzpnhejCSx9nRw0IoJNhAbTnkt-ZIl5BItfXKelxwQzTCZjAFKdWu3FcFkc7vBWcaspPVDtyhWqptwtS5R8Y-QuVFVhj3buOK3PCNgspK7V2gvOYTkibPoBONI2akb6Ul25lQlolTDt9Vk9XY9mZ3GrEsGE43rcty_0jHoUT8rjp1Wv4vR5tVeo1FABX41yxVcpsus5Bjo8Wc7SgwP4xk093xbJmrYaprP-k-HYb7GuBi8ksHxHheFLS077djfVA?session=0&fife https://doc-08-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/804eq9u68adgkod1i56tauat7k/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpRVKmbRJ3fMwH8Q1YI6IwHXxyGgb1BRcvoRukoW-f6tLQEkdKHwHuX8X_OCyuLQCXac4ESQJR-U6oJUyPB-KFVpXu9ycjotoSo_8-apjo-dbdWSMRcl0vC7Vq-TjNC9rMzI4DS5NcX9LhzJIPR_S8ndGB521Ci7IV_77TVlUjMjRKoGKTb6J5h0138N5O2Ft4bXbsg65VmxpPyKPiDkOW_VbfETpad5zSkkkycY-y8GAfCE2iyUm7FJDeoCmvHepUaJgIa0wIdMAMSEv2m15RLNtXHRQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.6948598,59.9377495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Таврический country club</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6973075,59.9141744,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Хвойное</name>
+      <description><![CDATA[<img src="https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/7jtuivllphf7ks7q7k82snroog/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoaKgAA9GNmjEiCCTB84W1u76NPvVUljcjWw40eOjB3K1j75DGpLq5JWzd_7XLCxg0zR1jkYhdcSdKUuEJAlWVZrHkCpl63_WZz5mnb2VWJjbybMfLel_sMR0EQo5OdmLQEGMtWgpl51GdghPF99UPr_BMLqYxiAykq-rZSePzo8wIFXyjPOMiLi9c2JMvh4vzZrWyRjbBCqHQwT4Y1Z4tLa4WtJBVjpjZVVcBew6nzyTK5FtFnIcqszOoNBKgPLjGlxCCsmaBAKcF0styurPX-KH1ELA?session=0&fife" height="200" width="auto" /><br><br>ф<br>- хороший перепад высот (запад выше)<br>- дороги внутри - отсыпаны. вроде с крошкой.<br>- встречается уличное освещение<br>- дорога от мурманки - танкодром, со стороны Коркино - грунтовка обычная.<br>- почва суглинок. ближе к песку,<br>- газа не заметил<br><br><img src="https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/ab7lu18vodmr3r3v9tdcbek7gc/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALp3qFAqv_hOCUGaJEJmn7B9M4GPzSs4s0-76jKhoQpuceKJr_Jh4HO5jzhvAWfE5S72luxTsE_m0iyySLmT0kuoBTeNhr71ma6Od7t06-CZcDpCG3_-VVwjSr_6-4iqE4jVqE7ajkgwq-NVj6_5PELrwjJaV1GAKVTWsDo5kLWGvmKc_T2eFAvS3akrXjy2fGaw-e8yO37AOM1ktKkOxPe1IpFExB-BxLxVhdJVDdGrLk-I4S4kikKHxjubXku5ofYm0byS8vzklf2EB1afEBDsHWmGRg?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/6vgc3d2disrapugui511a6pt3c/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqDPcuXvuzvNIGONPKfwZZ_5aALkdFveLstT-1Y3WQrmnl-IBVCdFLDFyhJHReYpE1pfvxXEO0efiiRbK4tabl-BZnb7D-EHwGs_doC5m3PUAs_bsVJs3G3QRMvaa9w89BUcLFNvCVtqaLiI0gywpqy2Xk5zsh_j-FEKtHJAbtLL828zYqstBMZdUXXca5Ly_Ej-2R6UNvNgE8aSiSFBYKormxxJTyLgQej53IAyXThiXnG4kt5N_dQgeOBdT3k5aIJcqNkDJiGWizCsPhjhVGpfYZC8w?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/smp4sr4g7aj8op471m8jl9hj80/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr9Fnic3PKtuAVRldC2G-5N04BVm_QV8bh8b1DR6p9YtEvvRL-tzfhKxQFPrxAZ2dVyV2RJIzZVfkExLgfJb_zo_tueLly_xh0pKvqpHZ3qLEa2MpPjRYhEhbPJ5klVgC0cv9bM0TQfsLkKJ8eo_N7osBxYDuBdXBda-1-xklnyZe5DwtjeKoYYisBLkBXMqrzOll5MvEZQelVdWhkA7klSNVIGftJPW7DEPeZFjiazphpuHTRPXsXIrFV9Qs4NpfLHD_f08-ynfM_wPSzDgtKzCR222Q?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/73ukh7mri3jegpq74em9522gdo/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoBIS7_ejiKeYrW0Z9I10sD_8lJWkV6G-ctkN_9Hcy24SX3wS6_Kt82T78uImsB-NmZllz__OTZPwt4dS7_WqpwOUvOn3DeU5V7DXbueO6u-vaFx9Y4GgbnZ0Eax0JMs4NlsEHd4mjDwKMdkZuKnkv3yXDB-6NM3feTe1_Vg6A7VU8Ll4WIOlO4SAtO2ea764CIqAvDcOoF8pMN1mtwTE2E754PQoki-awD2eGqy4g7dBkbs8Q1zEF4xYh7MgLBcc-QVonD_cxPnZwpLbHbKxIHH8jU-A?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/7jtuivllphf7ks7q7k82snroog/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoaKgAA9GNmjEiCCTB84W1u76NPvVUljcjWw40eOjB3K1j75DGpLq5JWzd_7XLCxg0zR1jkYhdcSdKUuEJAlWVZrHkCpl63_WZz5mnb2VWJjbybMfLel_sMR0EQo5OdmLQEGMtWgpl51GdghPF99UPr_BMLqYxiAykq-rZSePzo8wIFXyjPOMiLi9c2JMvh4vzZrWyRjbBCqHQwT4Y1Z4tLa4WtJBVjpjZVVcBew6nzyTK5FtFnIcqszOoNBKgPLjGlxCCsmaBAKcF0styurPX-KH1ELA?session=0&fife https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/ab7lu18vodmr3r3v9tdcbek7gc/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALp3qFAqv_hOCUGaJEJmn7B9M4GPzSs4s0-76jKhoQpuceKJr_Jh4HO5jzhvAWfE5S72luxTsE_m0iyySLmT0kuoBTeNhr71ma6Od7t06-CZcDpCG3_-VVwjSr_6-4iqE4jVqE7ajkgwq-NVj6_5PELrwjJaV1GAKVTWsDo5kLWGvmKc_T2eFAvS3akrXjy2fGaw-e8yO37AOM1ktKkOxPe1IpFExB-BxLxVhdJVDdGrLk-I4S4kikKHxjubXku5ofYm0byS8vzklf2EB1afEBDsHWmGRg?session=0&fife https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/6vgc3d2disrapugui511a6pt3c/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqDPcuXvuzvNIGONPKfwZZ_5aALkdFveLstT-1Y3WQrmnl-IBVCdFLDFyhJHReYpE1pfvxXEO0efiiRbK4tabl-BZnb7D-EHwGs_doC5m3PUAs_bsVJs3G3QRMvaa9w89BUcLFNvCVtqaLiI0gywpqy2Xk5zsh_j-FEKtHJAbtLL828zYqstBMZdUXXca5Ly_Ej-2R6UNvNgE8aSiSFBYKormxxJTyLgQej53IAyXThiXnG4kt5N_dQgeOBdT3k5aIJcqNkDJiGWizCsPhjhVGpfYZC8w?session=0&fife https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/smp4sr4g7aj8op471m8jl9hj80/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr9Fnic3PKtuAVRldC2G-5N04BVm_QV8bh8b1DR6p9YtEvvRL-tzfhKxQFPrxAZ2dVyV2RJIzZVfkExLgfJb_zo_tueLly_xh0pKvqpHZ3qLEa2MpPjRYhEhbPJ5klVgC0cv9bM0TQfsLkKJ8eo_N7osBxYDuBdXBda-1-xklnyZe5DwtjeKoYYisBLkBXMqrzOll5MvEZQelVdWhkA7klSNVIGftJPW7DEPeZFjiazphpuHTRPXsXIrFV9Qs4NpfLHD_f08-ynfM_wPSzDgtKzCR222Q?session=0&fife https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/73ukh7mri3jegpq74em9522gdo/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoBIS7_ejiKeYrW0Z9I10sD_8lJWkV6G-ctkN_9Hcy24SX3wS6_Kt82T78uImsB-NmZllz__OTZPwt4dS7_WqpwOUvOn3DeU5V7DXbueO6u-vaFx9Y4GgbnZ0Eax0JMs4NlsEHd4mjDwKMdkZuKnkv3yXDB-6NM3feTe1_Vg6A7VU8Ll4WIOlO4SAtO2ea764CIqAvDcOoF8pMN1mtwTE2E754PQoki-awD2eGqy4g7dBkbs8Q1zEF4xYh7MgLBcc-QVonD_cxPnZwpLbHbKxIHH8jU-A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.7305076,59.9150889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кокосы</name>
+      <description><![CDATA[<img src="https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/qqqmcigkq14oju0kg7dfete228/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr4FApKfdcSWMvgfwbZsod1EwCVRAfcTpuU9b0ONR0wd-SqjUvHQXK8f-AGt2oHpOCOmHrFPKPsqOm7bdHWmh3p77hfLhuk3v53EJt0XmR_n-lfavrrKmYeLrmV-gNvQ2J6R07uqiSwpSB4VJq1jExsQKU9kZITkAPT3N4cuK-6rluz09-lFvIArry9qHDkAlaNYvbakCd3CYWPNZVo6TcGauJT-Z5vtFie1puFjXd1xB2dsWrrpw8MHGqu-V3YbnXpNaH7wEf0qbXWxWJ3k1vUgkd8DA?session=0&fife" height="200" width="auto" /><br><br>ф<br>- до поселка - средняя грунтовка. отсыпанная по нормальному, но содержат абы как.<br>- в поселке отсыпанные грунтовки<br>- на щитах кокосы нарисованы в самом конце узкой полосой, а это имеет другое название.<br><br><img src="https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/tltua80usrp90shtqbusa2r2og/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpGi0bTTHiCR7A06KRXNx8D7_j6vsiwIB2ZhQ9CyMoyJ8jCHq5A2S96z0TAILzvUBv2bKep0WDee0xTnz6GQpSgEQ6TdTH2vjCzVIz8BVY8QJj31B_Ghuj9Nynp42HtG4FHTqRrRQMHINJ4RnC_LFN4uwPYwTOb1NTg68cRtGyEEjSLWafN4ifm8X86IFXdXHNPYifnCCM0Zj2rkJnQTVnwY6hgCMIEIgNV3yVEExacwzPrMevXMgRnc9QdAcI2d-88YBTnN-VPPgxOkkVQW4W7M0hlpA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/oii40a8864omjjh49umknkjj18/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoid8hX1osN_v0SgSJxj8Zd12I-t4fGrj8BKhZPaOJYKiIwAea2pkz7Mx0SPMmSjZGCLTOczcqDVplmVT_97iuVMS2L-GLRofl3xU9WaECr4H-DS9NhfOMcc3gifxZBkf5OtYJhHVYlMmqZYtr2FyP1Sf2SzTUlzqrv0Pxh8ULFoxvw9rkIwCmO6-HveOcY3E8xY1N8BtQNv7sqWYzYHkjxBAiTTeWoVOCHM6qq2lXCLkH-cUlw4yckQfItcLDI0u5OFjoh4wYiXGaC6Vdc8CKD3e4VHQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-14-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/hqb5avplaie4jhqd7eh9gpuc3o/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALq82loyOyTq0C_OHpbIDZwayEDl_8aAyBWHaMScYesr4m58QwAhsOacpI6iVeZ1JMRAlf2DlZPmX-cWBdtbo2vD-KNdOK_ANu3agAUV2JSuUgYHpzXiPssZD-tCWfjLLUEv1uvKs9RvSFB3o76nhOGMrbfNci88oVifAVDHkh7hcoGyU4jdLtbnVdfHXVR_oaVNZvXhPdPVzzIYgmqTPkj5ZKypkN4yuiuCxSsZruFICkswfrz66LssIB6v8zyVZ7Q1KwpeGDMnTg--cmy6AIZHRkFYlQ?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/qqqmcigkq14oju0kg7dfete228/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr4FApKfdcSWMvgfwbZsod1EwCVRAfcTpuU9b0ONR0wd-SqjUvHQXK8f-AGt2oHpOCOmHrFPKPsqOm7bdHWmh3p77hfLhuk3v53EJt0XmR_n-lfavrrKmYeLrmV-gNvQ2J6R07uqiSwpSB4VJq1jExsQKU9kZITkAPT3N4cuK-6rluz09-lFvIArry9qHDkAlaNYvbakCd3CYWPNZVo6TcGauJT-Z5vtFie1puFjXd1xB2dsWrrpw8MHGqu-V3YbnXpNaH7wEf0qbXWxWJ3k1vUgkd8DA?session=0&fife https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/tltua80usrp90shtqbusa2r2og/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpGi0bTTHiCR7A06KRXNx8D7_j6vsiwIB2ZhQ9CyMoyJ8jCHq5A2S96z0TAILzvUBv2bKep0WDee0xTnz6GQpSgEQ6TdTH2vjCzVIz8BVY8QJj31B_Ghuj9Nynp42HtG4FHTqRrRQMHINJ4RnC_LFN4uwPYwTOb1NTg68cRtGyEEjSLWafN4ifm8X86IFXdXHNPYifnCCM0Zj2rkJnQTVnwY6hgCMIEIgNV3yVEExacwzPrMevXMgRnc9QdAcI2d-88YBTnN-VPPgxOkkVQW4W7M0hlpA?session=0&fife https://doc-0s-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/oii40a8864omjjh49umknkjj18/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoid8hX1osN_v0SgSJxj8Zd12I-t4fGrj8BKhZPaOJYKiIwAea2pkz7Mx0SPMmSjZGCLTOczcqDVplmVT_97iuVMS2L-GLRofl3xU9WaECr4H-DS9NhfOMcc3gifxZBkf5OtYJhHVYlMmqZYtr2FyP1Sf2SzTUlzqrv0Pxh8ULFoxvw9rkIwCmO6-HveOcY3E8xY1N8BtQNv7sqWYzYHkjxBAiTTeWoVOCHM6qq2lXCLkH-cUlw4yckQfItcLDI0u5OFjoh4wYiXGaC6Vdc8CKD3e4VHQ?session=0&fife https://doc-14-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/hqb5avplaie4jhqd7eh9gpuc3o/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALq82loyOyTq0C_OHpbIDZwayEDl_8aAyBWHaMScYesr4m58QwAhsOacpI6iVeZ1JMRAlf2DlZPmX-cWBdtbo2vD-KNdOK_ANu3agAUV2JSuUgYHpzXiPssZD-tCWfjLLUEv1uvKs9RvSFB3o76nhOGMrbfNci88oVifAVDHkh7hcoGyU4jdLtbnVdfHXVR_oaVNZvXhPdPVzzIYgmqTPkj5ZKypkN4yuiuCxSsZruFICkswfrz66LssIB6v8zyVZ7Q1KwpeGDMnTg--cmy6AIZHRkFYlQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.7716461,59.910414,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Петровское Барокко"]]></name>
+      <description><![CDATA[стоит присмотреться.<br><br>Факты:<br>- Асфальт до поселка<br>- асфальт внутри (возможно везде)]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.6819197,59.9785436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Green Hills</name>
+      <description><![CDATA[<img src="https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/e6ic746treqhobt7t2lr42k8tg/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrqxKr8_pUienMBgS8EADz1biEo22r8FqcR1mCOx5VUCDPHLSdsDtP-eS8LDYWdRw2IkpipiKq5GK4i_PO8Xq6vniNTDTrNIJz5DvtyDYjepAqOJPkhIEr1LFkRqpt5mMjQdNbHFN6SaGC3OaDVLT7gYWMaLeePIIRSyZjJDxvCnPS_JgMzA9_JLZmrXnHGiBOfmmHLt7L0RDt-1dTAq4B1F-VBrYNIESMlhcjN4DQzp3ZeqLI0CiFFQbqmD4xbd0cGvMo0DZrjtELxnRVncWUOjNM2ew?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-10-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/am2ghunadjip28q59pmiovcuoc/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrIkz7uAnjW-U3jkhUKhIuexfDwkTunfr6dr_D5zePa9iCkqzSdM3E57Hc_6WBBuH8ASU9OH6Q2PzhkxdqFXjb-4h9bp7TUikczOR9Yt-yvjt6FS5-a-VW5RRwVMRZKLDeTeFx4seNIBmTBEEJr76qkjmbX4ODIL8N9MJB_WURh-kwik8d5K-sk4EyPs29r6_VGm3NdNSNC9HniMLtFaCVgnYGjFeEKQjbmExisqlmLZ1lk3wiB4FceZd5DqwCIprlL1Vwa8kDpR3hWtCb_CRn0TbVGCA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/dfaiqddod0oe6nshvusc888f3g/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr3fqNlSRE5mKGwKNVa4jmaMS8PDBJ9twQjY-2HewXfuTUovnp-tz7qqho1iA6_Nm2u1bkAezEt9XIF97izGEPlgNlrTihpEjOQRKRWAY7Rl-kXUaAA4S5__cNkmj60GPjfa1OvRDM9h5umviU0R1qi0nB9QkeKZ-uAAeHqWr9yIS1TQkSW7Vg4ebSEMDVcipDnv0K1tikU_sWIUWKcmGoC9qoTNcEdLqxwj-CrGdNCmKV6sfBB1lfhorcSGuxIIo__hiPuRTjZrcXvbEixp3bPCVqjRg?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/e6ic746treqhobt7t2lr42k8tg/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrqxKr8_pUienMBgS8EADz1biEo22r8FqcR1mCOx5VUCDPHLSdsDtP-eS8LDYWdRw2IkpipiKq5GK4i_PO8Xq6vniNTDTrNIJz5DvtyDYjepAqOJPkhIEr1LFkRqpt5mMjQdNbHFN6SaGC3OaDVLT7gYWMaLeePIIRSyZjJDxvCnPS_JgMzA9_JLZmrXnHGiBOfmmHLt7L0RDt-1dTAq4B1F-VBrYNIESMlhcjN4DQzp3ZeqLI0CiFFQbqmD4xbd0cGvMo0DZrjtELxnRVncWUOjNM2ew?session=0&fife https://doc-10-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/am2ghunadjip28q59pmiovcuoc/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrIkz7uAnjW-U3jkhUKhIuexfDwkTunfr6dr_D5zePa9iCkqzSdM3E57Hc_6WBBuH8ASU9OH6Q2PzhkxdqFXjb-4h9bp7TUikczOR9Yt-yvjt6FS5-a-VW5RRwVMRZKLDeTeFx4seNIBmTBEEJr76qkjmbX4ODIL8N9MJB_WURh-kwik8d5K-sk4EyPs29r6_VGm3NdNSNC9HniMLtFaCVgnYGjFeEKQjbmExisqlmLZ1lk3wiB4FceZd5DqwCIprlL1Vwa8kDpR3hWtCb_CRn0TbVGCA?session=0&fife https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/dfaiqddod0oe6nshvusc888f3g/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALr3fqNlSRE5mKGwKNVa4jmaMS8PDBJ9twQjY-2HewXfuTUovnp-tz7qqho1iA6_Nm2u1bkAezEt9XIF97izGEPlgNlrTihpEjOQRKRWAY7Rl-kXUaAA4S5__cNkmj60GPjfa1OvRDM9h5umviU0R1qi0nB9QkeKZ-uAAeHqWr9yIS1TQkSW7Vg4ebSEMDVcipDnv0K1tikU_sWIUWKcmGoC9qoTNcEdLqxwj-CrGdNCmKV6sfBB1lfhorcSGuxIIo__hiPuRTjZrcXvbEixp3bPCVqjRg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.6684932,59.9707518,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новострой какой-то ХЗ.</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6621681,59.9790014,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Размечено дорожками</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6644875,59.9767566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Поселок "Щегловка"]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7516682,60.0339467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ХЗ</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7532399,60.037573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ХЗ</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7379806,60.0416664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ИЖС Красная горка-2</name>
+      <description><![CDATA[2-3 дома пока<br>газ в соседнем поселке<br><br>ф<br>- дорога асфальт до поворота к поселку, далее убитая, в самом поселке - хз из чего. из канавы похоже]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.6696887,59.9803976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[P] ХЗ. явно участки</name>
+      <description><![CDATA[<img src="https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/grks76asmm8au2ihpc341sll5c/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoXtALgxu9nlMd3Cw15hDmIT1ucIQoFKOJ-vk7Dz9sz8mpJHteglcTPIcSh3Kw0fUVQjnISxbgd7hyiZdcQX5xVnT3MGgukIYfpiS0hKDkQEzCdoxpYQYb6sSYkIzNKycVyNhrCad0av69_Fg5GBW7HH8XN8cVtoO20YKe0VI1X8ufKpuEksD-VkftjyH8cFcLniIYFiFx5EQIM0bvg5DiqUxTL7FirPkele9I-0ZXzSq2SHeul3jXHVpzoYKPGwG3ZnjAho1Ri1trKOeNMXsKYD7FdEA?session=0&fife" height="200" width="auto" /><br><br>ф<br>- холмисто<br>- вышка состовая<br>- дорог нет. вообще<br>- грунт суглинок ближе к песку<br>- газ в соседнем поселке есть, в этом не видно.<br><br><img src="https://doc-14-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/28jj25a62pt6td3ef9o0eeq7lc/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrWCbvPqYcccdRnJ1Cc_KZGUZTPDoAxl9dky_oMsahaXxpUjrTRSpy2l736XR3IDT-3yeqOy6p8B-DByWCNWn6-ZloowhiSVn5ggEIjSlCCeW6O1GJSSZpENNsTng4QTETuEXe3w5OTC3A2x0rhuC1r2kAkflQckTUlGyHfiNYNeLHENpbUP3zmkTozOPK4vgJ7mINqXi2WG1eWaGS5mNE-RE-YO96sJOqcrA-Y1Q_cxZ-i18-GDl3bbUyxSPEUW6-Bc2leS7BUEvSLlmeB6Tro2cy2eg?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/0n5pl09jjo92uclpdles9lu2rs/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpxTJu2_p3H5ZbSAsXif4UXFpHzwiUGcXj7ezp7qF0BFS8E0ABeKczdluKTrDt1JIjbwK60X2Pv3RChSAOukh9ubB3TYEoXOo6Y4W-DB8udwqXJqeKTU2h2oMWOqTlFlMWaU7bn8PEyjEc44n4ljgzcVpo9z-Y6LiitHOujNqunKw_fc3R0SA4mk8g1FNiPkGoOc1Y_P4sMADvh8wh57u5D0XG4gkLqnbYD_5kgbmqhCNV6IVeSIqfDfN6_1EBLNgROGEi6BTFx9wbMb-9UB5PPMUX2RA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/ca8t6ba5i9i3tknlt37dhmgrak/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqXA40VFYrslDAOP7QwjXGFbs-u1zy2jc8wLTQhy2e6Ut8e6G4bodwP7taDfdPyEiySoKtla712fTkpAGyDTnIgqEz3iu5hqPxfRvtANNOvRfOUyHmO1y41fQHBZbGs4-BzxCPNMuZK8taF14i6CsB7Wg8X4xdjgRVVznKkMmdZz9AAariO9UJ-bnDySb1hnTVQp_RAaTytyPDgyM0r4WqZF4qomESEYrZ8XgI3FBKSXuetz1iSqP7w4AVig6Tt8LvcK9jz5C3eitoxhxLXG79f2HkTQQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/f9go486rt7ridagial320auntk/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALreaX9jqC-C1MrLqr6bAUulgRJe6jthnkzqBX4fI86ZniAQdNC9hy6YVGqUnVUEY5-BwsDDSMvE1P-9SKzmPmuNSfcX6oiqtsJ-x_uz3tLjoqBdy27HJ1aaOlRkgH9fSBzOe1luKs2AN3ulXD6rQkrdIo72c65_bfk0mBaih8uM2eVD9VKBYAwcTCGT6AdasxQcePm9Lg8YQ-pZCtCbrIE46pwJjBK0lBsvBxW_r-wZXPCPDj0RxtV3Q0-VTE1yCDHkyEqyrU2AlwF4CiVafex9RrSOTw?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0g-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/4prchlfhrf3ibr2v7oifs8kbao/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALryZ5WO193hJsP80JXpxwg18VJ00Wy9DGAY293THE-HSk2LKYqI7FZIlgaboFULTvWzgF7HKLi10ruc0fwkkwM54GW1HM_R37bjDqlaGP-7IdZj_bkt3G8hXvC5cv9Emk5L8SkbAJ06h9uqnstRtlUqU6jhZzXKpFxpfkZezgj8wGfheT5BhgnWP8E4vMq1g8YtwGvnXnjPMbAABOJEdKCEzUqbOWIsE5tqosEoQRam7ViLdOzSZjwP0z-oWOjEUzwkclETfst-LkC0d3VHNPCW-jv9bQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0k-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/sjvohap3c02pj804e1slqe1ss4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALriuIW1cyUG-BuTztLaafqFVqYfGDVCRW3miTI4Rls-c7WTL1JOCQJqswMVAdWDaBPr4-eXD76DP22dFeNSX2GmpbGotRYxoypEZJq77jARRZYbmuyItotRqF5_42DI7zAqf3kXD41ipbLhGl6znzw7qYYqIl0_3Jb94Sz32MH_bsDWba10cDXoPgNz1YjkNJbl7kFqyfukPHwoC6S4698Ypuq0F76SmVWDOCkUTuAe_bgyVT52ZUsPs20r1ZgObJxVhH4qKgm8AhuiY7QFT1zam4i4iw?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/grks76asmm8au2ihpc341sll5c/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALoXtALgxu9nlMd3Cw15hDmIT1ucIQoFKOJ-vk7Dz9sz8mpJHteglcTPIcSh3Kw0fUVQjnISxbgd7hyiZdcQX5xVnT3MGgukIYfpiS0hKDkQEzCdoxpYQYb6sSYkIzNKycVyNhrCad0av69_Fg5GBW7HH8XN8cVtoO20YKe0VI1X8ufKpuEksD-VkftjyH8cFcLniIYFiFx5EQIM0bvg5DiqUxTL7FirPkele9I-0ZXzSq2SHeul3jXHVpzoYKPGwG3ZnjAho1Ri1trKOeNMXsKYD7FdEA?session=0&fife https://doc-14-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/28jj25a62pt6td3ef9o0eeq7lc/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrWCbvPqYcccdRnJ1Cc_KZGUZTPDoAxl9dky_oMsahaXxpUjrTRSpy2l736XR3IDT-3yeqOy6p8B-DByWCNWn6-ZloowhiSVn5ggEIjSlCCeW6O1GJSSZpENNsTng4QTETuEXe3w5OTC3A2x0rhuC1r2kAkflQckTUlGyHfiNYNeLHENpbUP3zmkTozOPK4vgJ7mINqXi2WG1eWaGS5mNE-RE-YO96sJOqcrA-Y1Q_cxZ-i18-GDl3bbUyxSPEUW6-Bc2leS7BUEvSLlmeB6Tro2cy2eg?session=0&fife https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/0n5pl09jjo92uclpdles9lu2rs/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpxTJu2_p3H5ZbSAsXif4UXFpHzwiUGcXj7ezp7qF0BFS8E0ABeKczdluKTrDt1JIjbwK60X2Pv3RChSAOukh9ubB3TYEoXOo6Y4W-DB8udwqXJqeKTU2h2oMWOqTlFlMWaU7bn8PEyjEc44n4ljgzcVpo9z-Y6LiitHOujNqunKw_fc3R0SA4mk8g1FNiPkGoOc1Y_P4sMADvh8wh57u5D0XG4gkLqnbYD_5kgbmqhCNV6IVeSIqfDfN6_1EBLNgROGEi6BTFx9wbMb-9UB5PPMUX2RA?session=0&fife https://doc-04-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/ca8t6ba5i9i3tknlt37dhmgrak/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqXA40VFYrslDAOP7QwjXGFbs-u1zy2jc8wLTQhy2e6Ut8e6G4bodwP7taDfdPyEiySoKtla712fTkpAGyDTnIgqEz3iu5hqPxfRvtANNOvRfOUyHmO1y41fQHBZbGs4-BzxCPNMuZK8taF14i6CsB7Wg8X4xdjgRVVznKkMmdZz9AAariO9UJ-bnDySb1hnTVQp_RAaTytyPDgyM0r4WqZF4qomESEYrZ8XgI3FBKSXuetz1iSqP7w4AVig6Tt8LvcK9jz5C3eitoxhxLXG79f2HkTQQ?session=0&fife https://doc-0c-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/f9go486rt7ridagial320auntk/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALreaX9jqC-C1MrLqr6bAUulgRJe6jthnkzqBX4fI86ZniAQdNC9hy6YVGqUnVUEY5-BwsDDSMvE1P-9SKzmPmuNSfcX6oiqtsJ-x_uz3tLjoqBdy27HJ1aaOlRkgH9fSBzOe1luKs2AN3ulXD6rQkrdIo72c65_bfk0mBaih8uM2eVD9VKBYAwcTCGT6AdasxQcePm9Lg8YQ-pZCtCbrIE46pwJjBK0lBsvBxW_r-wZXPCPDj0RxtV3Q0-VTE1yCDHkyEqyrU2AlwF4CiVafex9RrSOTw?session=0&fife https://doc-0g-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/4prchlfhrf3ibr2v7oifs8kbao/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALryZ5WO193hJsP80JXpxwg18VJ00Wy9DGAY293THE-HSk2LKYqI7FZIlgaboFULTvWzgF7HKLi10ruc0fwkkwM54GW1HM_R37bjDqlaGP-7IdZj_bkt3G8hXvC5cv9Emk5L8SkbAJ06h9uqnstRtlUqU6jhZzXKpFxpfkZezgj8wGfheT5BhgnWP8E4vMq1g8YtwGvnXnjPMbAABOJEdKCEzUqbOWIsE5tqosEoQRam7ViLdOzSZjwP0z-oWOjEUzwkclETfst-LkC0d3VHNPCW-jv9bQ?session=0&fife https://doc-0k-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/sjvohap3c02pj804e1slqe1ss4/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALriuIW1cyUG-BuTztLaafqFVqYfGDVCRW3miTI4Rls-c7WTL1JOCQJqswMVAdWDaBPr4-eXD76DP22dFeNSX2GmpbGotRYxoypEZJq77jARRZYbmuyItotRqF5_42DI7zAqf3kXD41ipbLhGl6znzw7qYYqIl0_3Jb94Sz32MH_bsDWba10cDXoPgNz1YjkNJbl7kFqyfukPHwoC6S4698Ypuq0F76SmVWDOCkUTuAe_bgyVT52ZUsPs20r1ZgObJxVhH4qKgm8AhuiY7QFT1zam4i4iw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.7002818,59.9236177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП ХЗ
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6998151,59.9216874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Нева-Да!
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=gWQb6rk6ywg"><img src="https://img.youtube.com/vi/gWQb6rk6ywg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/gWQb6rk6ywg">https://www.youtube.com/embed/gWQb6rk6ywg</a><br><br>https://youtu.be/gWQb6rk6ywg<br><br>Земли сельхоз назначения. Выделяются только для ведения дачного хозяйства<br>www.fakt-group.ru]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/gWQb6rk6ywg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.8411967,59.8143655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>дер. Кузьминки
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=gWQb6rk6ywg"><img src="https://img.youtube.com/vi/gWQb6rk6ywg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/gWQb6rk6ywg">https://www.youtube.com/embed/gWQb6rk6ywg</a><br><br>https://youtu.be/gWQb6rk6ywg<br><br>Население деревни 9 чел.(2010, перепись). Свердловское городское поселение Всеволожского района.<br>До середины XX века, деревня целиком располагалась на берегу Невы, затем название Кузьминка перешло и на выселки из деревни выше по ручью на дороге Н76.]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/gWQb6rk6ywg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.8419263,59.8126392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП Родные просторы</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=QNjhmYo4-dk"><img src="https://img.youtube.com/vi/QNjhmYo4-dk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/QNjhmYo4-dk">https://www.youtube.com/embed/QNjhmYo4-dk</a><br><br>Облет: https://youtu.be/QNjhmYo4-dk]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/QNjhmYo4-dk</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.774417,59.8704623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ Новосел</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9153221,59.778849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Южный Парк</name>
+      <description><![CDATA[https://south-park.armada.land/<br>Заявлено<br>- газ по границе поселка<br>- 15 кВт, прямой с ПСК<br>- система водоотведения (канавы вероятно)<br><br>участки 4-6 соток, редко 11<br>на старте продаж 55р/сотка]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          29.922669,59.7774118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Сергеевка ДНП</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          29.9223162,59.7743998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Карьер Мяглово</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6747326,59.8616504,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шестнадцатый Километр</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7042818,59.8629391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Островки</name>
+      <description>Огороды и домик смотрителя .</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.8271688,59.8285342,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Невская Отрада"]]></name>
+      <description><![CDATA[викимапия:<br>- В 80-x на этом месте была свалка промышленных (и не только) отходов<br>-  Свалка постоянно дымилась и в этом карьере никто не купался.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.8460346,59.8015652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ПГТ Павлово, ЧС у станции</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.8593028,59.8100598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ПГТ Павлово, ЧС</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.8743595,59.8101186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Балашовка (Тосно)</name>
+      <description><![CDATA[Балашовка-это исторический район города Тосно.<br>Застройка Балашовки- частные дома второй половины ХХ века.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.8875408,59.5477564,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ПГТ Павлово, ЧС дальний</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.889809,59.8083813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>д. Лобаново</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9157922,59.8144617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9191456,59.8098868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.9282007,59.8129296,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ Стройдеталь</name>
+      <description><![CDATA[Площадь: 13,5 га.<br>Участков: 211.<br>Основано: 1966.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.8604285,59.5653316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тосно 2 (домики у станции)
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.844239,59.5619827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пгт Ульяновка
+</name>
+      <description><![CDATA[Посёлок городского типа Ульяновка (Саблино до 1922 г.). Тосненского района.<br>Жителей: 11 601 (2010, перепись), 12 650 (2016).]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.7642166,59.6369946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Саблинка»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7660191,59.6201134,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Ручеёк»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.7550113,59.6173027,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красный Бор (Восточная часть)
+</name>
+      <description>Похоже очень болотисто. очень много прудов</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.7026271,59.6849937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Красный Бор (к западу от станции)
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6925567,59.6799281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пгт Петро-Славянка (С-В часть у станции)
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5163024,59.8076845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пгт Петро-Славянка (с-з часть у станции)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5110238,59.8055046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пгт Петро-Славянка (с-з часть у станции)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5170429,59.7991152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>пгт Петро-Славянка (Ю-В часть у станции)</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5231798,59.8041648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Садоводство «Коллективный сад № 6»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4363866,59.7236251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Садоводство №5 «Аэрогеодезия»</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4328139,59.7228678,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кобралово (С-З часть)</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3860407,59.5888875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Садоводство ВИР-1</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4337205,59.7180316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Гуммолосары (восточная часть)
+</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.419605,59.6900117,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Семрино (Ю-З часть)</name>
+      <description><![CDATA[Часть территории что-то похожее на военные склады<br>жилая часть - откровенные халупы]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.3721202,59.528593,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Семрино (С-В часть)</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3892844,59.5442104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Семрино (С-З часть)</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.381165,59.549222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Корбалово (Западная часть)</name>
+      <description><![CDATA[Облет: https://youtu.be/Rjhu9wss4WE<br><br>Факты:<br>Плюсы:<br>+ жд станция Кобралово<br>+ два пути в город - через Гатчину и через М10/М11<br>Минусы:<br>- Дороги в поселке полный шлак<br>- Газа не замечено ]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.3750543,59.5839942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кобралово (Ю-З часть)</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.3826933,59.5839341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ремиз (Коммунар)</name>
+      <description>мкр г.Коммунар</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.429889,59.6368756,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[P] Коттеджный поселок Коркинский парк</name>
+      <description><![CDATA[ф<br>- до поселка грунт от Коркино<br>- внутри вроде отсыпаны дороги]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.7177729,59.912697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Антропшино (Коммунар)</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=NWngLAM0tM8"><img src="https://img.youtube.com/vi/NWngLAM0tM8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/NWngLAM0tM8">https://www.youtube.com/embed/NWngLAM0tM8</a><br><br>общее впечатление - шлак, старые дома, хреновые дороги, снимать даже желания не было. Полное отвращение к поселку.<br><br>Факты:<br>+ Газ, как минимум вдоль центральных дорог (асфальтовых)<br>+ Станция<br>+ Асфальт мимо поселка и по центральнйо улице<br>- Дороги гавно полное<br>- если отсыпают то извесняком]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/NWngLAM0tM8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.4191601,59.6415717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СТ «Заречное»</name>
+      <description><![CDATA[Крайне убитая дорога (грунтовка невероятно колдобистая)<br>От переезда в Антропшино.<br>Но если дорогу и отсыпают то извястниковым гравием, т.е. на время она становится просто грязной, а потом опять глазной и колдобистой<br><br>Единственный вариант - Дача или только электричка]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4663681,59.6352248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>34-й км</name>
+      <description><![CDATA[Часть деревни Ладоги. Павловская, Гатчинская, Набережная улицы.<br><br>К востоку от ЖД:<br>Факты:<br>- Газа вроде нет<br>- дорога так себе (в одну машину), врядли чистят.<br>+- есть брошенные дома и брошенные участки<br>+- мало, но живут на постоянку<br>+ часть подъездной дороги в новом асфальте<br>+ часть дорог отсыпано отсевом, но похоже на самодеятельность<br>+ ближе к станции достаточно прилично<br>+ озаборено не так что бы сильно, восновном советского образца, но встречется и профнастил 2-х метровый<br>+ нормальная Эл будка<br>Дачный вариант.]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4734063,59.6377628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Строитель»</name>
+      <description><![CDATA[Крайне убитая дорога (грунтовка невероятно колдобистая)<br>От переезда в Антропшино.<br>Но если дорогу и отсыпают то извястниковым гравием, т.е. на время она становится просто грязной, а потом опять глазной и колдобистой]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4604458,59.6381099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Магистраль»</name>
+      <description><![CDATA[Крайне убитая дорога (грунтовка невероятно колдобистая)<br>От переезда в Антропшино.<br>Но если дорогу и отсыпают то извястниковым гравием, т.е. на время она становится просто грязной, а потом опять глазной и колдобистой]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4475427,59.6333193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Альфа»</name>
+      <description><![CDATA[Крайне убитая дорога (грунтовка невероятно колдобистая)<br>От переезда в Антропшино.<br>Но если дорогу и отсыпают то извястниковым гравием, т.е. на время она становится просто грязной, а потом опять глазной и колдобистой]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4642526,59.6393858,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Ручеёк» (Ладога)</name>
+      <description><![CDATA[Факты:<br>- дорога до СНТ - асфальт (дорога до платформы идет)<br>- в СНТ дороги убогие, в одну машину, довольно колдобистая<br>- Газа вроде нет<br>+- два чильно богатых дома в конце поселка<br>+ жд "о.п. 36 км" , электричка от Витебского вкз - 50 минут<br>Приемлимый дачный вариант]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4844417,59.627132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Форносово (С-З часть)
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=cVCNn6f4XVs"><img src="https://img.youtube.com/vi/cVCNn6f4XVs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/cVCNn6f4XVs">https://www.youtube.com/embed/cVCNn6f4XVs</a><br><br>Облет: https://youtu.be/cVCNn6f4XVs<br><br>Факты:<br>+ асфальтированное шоссе<br>+ ГАЗ<br>+ ЖД "Новолисино" крупная станция<br>- вдоль шоссе. Шумно, пыльно.<br>- поселок не сильно развитый, но есть 5-ка и Магнит]]></description>
+      <styleUrl>#icon-1899-F9A825</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/cVCNn6f4XVs</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.5431766,59.5766522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Форносово (С-В часть)</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=v5vK12F0fnI"><img src="https://img.youtube.com/vi/v5vK12F0fnI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/v5vK12F0fnI">https://www.youtube.com/embed/v5vK12F0fnI</a><br><br>Облет: https://youtu.be/v5vK12F0fnI<br><br>Факты:<br>+ явно новая часть поселка (присоединенная)<br>+ ГАЗ<br>+ ЖД "Новолисино" крупная станция, возможность запарковаться есть. Но идти прилично<br>+- озаборено по разному<br>- дорога от станции - известняк, очень грязная в дожди. и проход через старую часть деревни.<br>- вторая дорога (основная подъездная) - грунт, средней убитости<br>- держат скот]]></description>
+      <styleUrl>#icon-1899-F9A825</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/v5vK12F0fnI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.562001,59.5812807,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Форносово (Ю-З часть)</name>
+      <description><![CDATA[Факты:<br>+ ГАЗ. разведен, но мало у кого подключен.<br>+ жд "пл 46-й км"<br>+- деревня-деревней<br>+- много жилых домов<br>- очень, очень много собак. гав-гав отовсюду. из каждого дома.<br>- участки маленькие. ближе к садоводству<br>- в поселке есть тюрьма (колония №3)]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.548475,59.5647184,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Весна»</name>
+      <description><![CDATA[Факты:<br>- в чистом виде дачи (довольно убогие)<br>- новых домов нет вообще<br>- дороги более менее (для садоводства), похоже отсыпаны асфальтовой крошкой<br>- участки крийне маленькие (6 соток)<br>+ лес по периметру (преобладает хвойный, немного разбавлено березой)<br>+ нормальный вариант для дачи<br>+ жд в пешей доступности<br>+ пешеходная дорожка от поселка до СНТ<br>Как дача вроде ничего, для проживания - не годится.]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.5513074,59.5572175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Рынделево</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=8hbphkMAIGA"><img src="https://img.youtube.com/vi/8hbphkMAIGA/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/8hbphkMAIGA">https://www.youtube.com/embed/8hbphkMAIGA</a><br><br>Облет: https://youtu.be/8hbphkMAIGA<br><br>Факты:<br>+ практически нет глухих заборов. Очень хорошо просматриваются участки.<br>+ 2 линии по 4кв<br>+ ЖД платформа (укороченная) "пл. 51-й км"<br>+- новостроя мало<br>- дорога грунтовка, но не слишком ушатанная. достаточно широкая. два грузовика разъедутся.<br>- подъезд к станции условен, без парковки<br>- огромное количество борщевика]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/8hbphkMAIGA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.5630748,59.5202303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ДНП "Белые Росы"]]></name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=Dlf91dUeE-8"><img src="https://img.youtube.com/vi/Dlf91dUeE-8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Dlf91dUeE-8">https://www.youtube.com/embed/Dlf91dUeE-8</a><br><br>Облет: https://youtu.be/Dlf91dUeE-8<br><br>Факты:<br>+ практически нет глухих заборов. Очень хорошо просматриваются участки.<br>+ 2 линии по 4кв<br>+ ЖД платформа (укороченная) "пл. 51-й км"<br>- дорога грунтовка до поселка, но не слишком ушатанная. достаточно широкая. два грузовика разъедутся.<br>- дорога в поселке - известняковый щебень, пока в хорошем состоянии<br>- подъезд к станции условен, без парковки<br>- огромное количество борщевика]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/Dlf91dUeE-8</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.5662215,59.519582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Поги (Ю-З часть)</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=uRcRcxxQU-4"><img src="https://img.youtube.com/vi/uRcRcxxQU-4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/uRcRcxxQU-4">https://www.youtube.com/embed/uRcRcxxQU-4</a><br><br>Облет: https://youtu.be/uRcRcxxQU-4<br><br>Факты:<br>+ дорога до Пог - асфальт<br>+ участков свободных много<br>+- мало кто построился, у тех кто стоит - заборы преимущественно глухие<br>- много борщевика<br>- подъезная дорога к участкам - грунтовка, относительно приличная и широкая, два грузовика разъедутся.<br>- Газа - нет<br><br><a href="https://www.youtube.com/watch?v=TMEvFAd3HaE"><img src="https://img.youtube.com/vi/TMEvFAd3HaE/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/TMEvFAd3HaE">https://www.youtube.com/embed/TMEvFAd3HaE</a>]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/uRcRcxxQU-4 https://www.youtube.com/embed/TMEvFAd3HaE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.5692148,59.525439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новолисино</name>
+      <description><![CDATA[Факты:<br>+ ГАЗ<br>- дороги треш. единственная нормальная - центральная, она хоть как-то отсыпана, вроде как крошкой<br>- дома стрые, новых практически нет<br>+- жилой]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.5775143,59.581126,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Форносово (центр. часть)</name>
+      <description><![CDATA[кратко: убожество. Старая деревня<br>- в поселке есть тюрьма (колония №3)]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.5535247,59.5733028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Успех»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5028362,59.576227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Полиграфист»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5098743,59.5781394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Берёзка»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5029649,59.5783132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Огонёк»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5110759,59.5810946,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Озон»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5012054,59.5832786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Корвет»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5123634,59.5846691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Луч»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5178643,59.5882636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Символ»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5097762,59.5880638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Надежда»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4997769,59.5896931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Меркурий»</name>
+      <description><![CDATA[Факты:<br>- дорога до железки от шоссе - грунтовка относительной убитости. за переездом ухудшается)<br>+ окружено лесом (по карте)<br>+ ЖД платйорма 40 км<br>+- возможно для дачного варианта]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.5136386,59.591735,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Макаровец»</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5074158,59.5918219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Уголёк» (Санкт-Петербург)</name>
+      <styleUrl>#icon-1898-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4650806,59.6450508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Меркурий»</name>
+      <description><![CDATA[Факты:<br>- дорога до железки от шоссе - грунтовка относительной убитости. за переездом ухудшается)<br>+ окружено лесом (по карте)<br>+ ЖД платйорма 40 км<br>+- возможно для дачного варианта]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.512909,59.5937334,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>40-й километр</name>
+      <description><![CDATA[Факты:<br>- дорога до железки от шоссе - грунтовка относительной убитости.<br>- к самому поселку ведет накатанная грунтовка вдоль железки. проехать затруднительно. не поехал.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.5241528,59.5901927,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНТ «Ладога» (Ладога)</name>
+      <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.492372,59.6244046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Контакт» (Санкт-Петербург)</name>
+      <styleUrl>#icon-1898-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4632137,59.6471328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ладога (Юг)
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=rU3QAm7KsBw"><img src="https://img.youtube.com/vi/rU3QAm7KsBw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rU3QAm7KsBw">https://www.youtube.com/embed/rU3QAm7KsBw</a><br><br>Облет: https://youtu.be/rU3QAm7KsBw<br><br>Факты:<br>+ дорога - асфальт (дорога до платформы идет)<br>+ жд "о.п. 36 км" , электричка от Витебского вкз - 50 минут<br>- Газа вроде нет<br>Приемлимый дачный вариант]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/rU3QAm7KsBw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.4955478,59.6271388,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ «Славянка» (Юг)
+</name>
+      <description><![CDATA[Крайне убитая дорога (грунтовка невероятно колдобистая)<br>От переезда в Антропшино.<br>Но если дорогу и отсыпают то извястниковым гравием, т.е. на время она становится просто грязной, а потом опять глазной и колдобистой]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4608105,59.643023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ДНП «Мариинская Усадьба» - 15-23Мруб (подрядный)</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=pYV-75gd7lg"><img src="https://img.youtube.com/vi/pYV-75gd7lg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/pYV-75gd7lg">https://www.youtube.com/embed/pYV-75gd7lg</a><br><br>Облет: https://youtu.be/pYV-75gd7lg<br><br>Очень странный поселок - застройщик позиционирует его как "элитный". Да дороги, озеро, дорожка вдоль кака-речки, позолоченные ворота, ценник в 15-23 ляма - это все обязательные атрибуты... <br>НО огромные дома по 200-400 кв.м. с бойницами вместо окон и на на несуразно маленьких участках? Нет участки в целом не крохотные, 9-18 соток, но под таким домом они выглядят как место на кладбище. А нахрена такие заборы между участками? Туда сразу соседей поговнистее подбирают? Впрочем подобравшиеся проживатели и сами рады поставить и ворота помассивнее и забор из секвойи.<br>А нахуа пруд на въезде и дорога вдоль него? Это ж зона отдыха, а не место просмотра длинны автомобиля.<br>А круговое движение на въезде? Это ж вечная бесилка. смысла ровно ноль, а ездить по этой загогулине придется всем и всегда.<br>И, кстати, а где тротуары? поселок то большой, а разделительная полоса делает очень неудобным объезд пешеходов.<br><br>Застройщик заявляет магистральный газ (вполне вероятно т.к. рядом газ есть)]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/pYV-75gd7lg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.507852,59.625384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП «Лазурное»</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=qDQS1OXUlqM"><img src="https://img.youtube.com/vi/qDQS1OXUlqM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/qDQS1OXUlqM">https://www.youtube.com/embed/qDQS1OXUlqM</a><br><br>облет: https://youtu.be/qDQS1OXUlqM<br><br>Факты:<br>+ ГАЗ<br>+ много свободных участков<br>+ асфальт до поселка<br>+ Внутри асфальт, бордюры, но асфальт до бордюра чуть-чуть не доходит.<br>+- жд "о.п. 36  км" в 2 км от въезда. электричка от Витебского вкз - 50 минут<br>+- самострой]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/qDQS1OXUlqM</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.51548,59.6336037,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП «Русланово»</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=wqnPLjxE3Q4"><img src="https://img.youtube.com/vi/wqnPLjxE3Q4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/wqnPLjxE3Q4">https://www.youtube.com/embed/wqnPLjxE3Q4</a><br><br>Облет: https://youtu.be/wqnPLjxE3Q4<br><br>Факты:<br>- много борщевика<br>- дорога асфальт мимо поселка, в самом поселке отсутвуют. на въезде еще отсыпано, а дальше - никак.<br>- дороги полный ужас (гряземесные)<br>- Газа вроде нет<br>+ Электричество разведено]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/wqnPLjxE3Q4</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.5142355,59.6305229,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП</name>
+      <description><![CDATA[Факты:<br>- много борщевика<br>- дорога асфальт мимо поселка, в самом поселке отсутвуют. на въезде еще отсыпано, а дальше - никак.<br>- дороги полный ужас (гряземесные)<br>- Газа вроде нет<br>+ Электричество разведено]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.5205869,59.6305446,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тюрьма (Колония #3)</name>
+      <styleUrl>#icon-1540-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.5605014,59.5673594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новая Деревня</name>
+      <description>Относительно новый район Пушкина. Застроен частными деревянными домами середины 20-го века</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.450235,59.7264283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Садоводство «ВИР-2»</name>
+      <description><![CDATA[Входит в состав "Новая деревня"<br>kc2vir.ru/]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4441196,59.7222525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Павловск-2</name>
+      <description><![CDATA[Небольшой район частной застройки, ранее являвшийся частью города Павловска, а ныне - города Пушкина.<br><br>Возник как пристанционный посёлок при строительстве станции Павловск-II (позднее, после уничтожения Музыкального вокзала, станция стала называться просто Павловск).<br><br>Район со всех сторон окружён транспортными магистралями. В посёлке расположено сразу 2 скважины с питьевой водой.]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.432299,59.6959236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тярлево</name>
+      <description><![CDATA[spb-tyarlevo.narod.ru/<br><br>http://wikimapia.org/#lang=ru&lat=59.712790&lon=30.465260&z=13&show=/11068511/ru/%D0%A2%D1%8F%D1%80%D0%BB%D0%B5%D0%B2%D0%BE]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          30.4497264,59.7015011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кобраловская (Коммунар)</name>
+      <description><![CDATA[Факты:<br>+ Асфальт до дома. в две полосы<br>+ пешеходные дорожки<br>- газа не заметил, только твердотопливные котлы]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          30.3903544,59.6104114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Сусанино</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=-0c0G9gRARg"><img src="https://img.youtube.com/vi/-0c0G9gRARg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-0c0G9gRARg">https://www.youtube.com/embed/-0c0G9gRARg</a><br><br>Осмотр с воздуха 03.2020 - https://youtu.be/-0c0G9gRARg<br><br>Факты:<br>+ Газ<br>+  Школа<br>+ жд станция Сусанио в цекнтре поселка<br>+ асфальт по центральным улицам, пусть и не до конца.<br>+ поселок расширяется. на окраине режут новые участки.<br>+ два+ пути в город - через Гатчину и через М10/М11<br>- да это село, бабки, алкоголики, старые дома в центре и прочие атрибуты - это все тоже будет.]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/-0c0G9gRARg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.364683,59.4913148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

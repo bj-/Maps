@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Возможные</name>
+    <Style id="icon-1512-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1512-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1512-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1512-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1512-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Белоостровская жемчужина 110-120к Г?
+</name>
+      <description><![CDATA[участки есть. Авито 5 шт. судя по всему не застроен еще.<br><br>ф<br>- газа не видел, но чем топятся не понятно. труб тоже нет.<br>- хорошие участки<br>- почва суглинок, возможно есть гилна<br>- почти до поселка асфальт. метров 500 последних - крошка давняя<br>- стрятся как попало. состояние от участка до построенного дома<br>- дороги что отсыпаны крошкой<br>- канавы мелкие, но не болото<br>- На плакате при въезде висит ценник 90/сотка<br>- в целом место забавное, вопрос Газа]]></description>
+      <styleUrl>#icon-1899-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          30.021645,60.1783653,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мяглово</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=BvnAe-LbMlk"><img src="https://img.youtube.com/vi/BvnAe-LbMlk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/BvnAe-LbMlk">https://www.youtube.com/embed/BvnAe-LbMlk</a><br><br>https://ru.wikipedia.org/wiki/%D0%9C%D1%8F%D0%B3%D0%BB%D0%BE%D0%B2%D0%BE_(%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA_%D0%BF%D1%80%D0%B8_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8)<br><br>Облет: https://youtu.be/BvnAe-LbMlk<br><br>Факты:<br>+ Довольно прилично. разрухи особо не видно.<br>+ Асфальт прямо в поселок и по центральной улице.<br>+ Часть домов уже новые.<br>+ Станция оп. "Мяглово" (3 остановки до Ладожского вокзала)<br>- Газа нет<br><br>* Население поселка станции 10 человек (2007), 7 (2010, перепись)]]></description>
+      <styleUrl>#icon-1899-FFEA00</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/BvnAe-LbMlk</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.6080597,59.8977805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Изумрудный город</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=DtMP2muuNjo"><img src="https://img.youtube.com/vi/DtMP2muuNjo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/DtMP2muuNjo">https://www.youtube.com/embed/DtMP2muuNjo</a><br><br>Облет:  https://youtu.be/DtMP2muuNjo<br><br>Факты:<br>+ шоссе в асфальте до поселка<br>- много забросов. фудамент есть, дома нет.<br>- судя по всему с подрядом]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/DtMP2muuNjo</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.7041577,59.8858663,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[[V] Котеджный поселок "Новое Минулово"]]></name>
+      <description><![CDATA[Явно с подрядом (по осмотру на месте), но продано еще не все<br><br>- Дороги асфальт везде<br>- озаборено<br>- вроде благоустроено ]]></description>
+      <styleUrl>#icon-1512-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          30.747797,60.0351617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[V] КП</name>
+      <description><![CDATA[- подряд<br>- дороги вроде асфальт<br>- озаборен<br>- вроде благоустроен]]></description>
+      <styleUrl>#icon-1512-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          30.7428086,60.0396948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Эко-поселок Хапо-Ое</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=WGWc16Tjxzc"><img src="https://img.youtube.com/vi/WGWc16Tjxzc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/WGWc16Tjxzc">https://www.youtube.com/embed/WGWc16Tjxzc</a><br><br>Облет:  https://youtu.be/WGWc16Tjxzc]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/WGWc16Tjxzc</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.7741514,59.8739447,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Высота</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=WGWc16Tjxzc"><img src="https://img.youtube.com/vi/WGWc16Tjxzc/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/WGWc16Tjxzc">https://www.youtube.com/embed/WGWc16Tjxzc</a><br><br>Облет: https://youtu.be/WGWc16Tjxzc]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/WGWc16Tjxzc</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.7766574,59.8732738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ Колос</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=LwUhQhT076E"><img src="https://img.youtube.com/vi/LwUhQhT076E/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/LwUhQhT076E">https://www.youtube.com/embed/LwUhQhT076E</a><br><br>www.kolos.apora.ru<br><br>Факты:<br>+ Асфальт до поселка.<br>+ ЖД платформа "7-й км"<br>- в бывшем дачи<br>- подъезд через Колтушское ш. - пробка сплошная<br><br>В целом не так плох. Если купить 2-3 смежных участка.<br>Много новых домов.]]></description>
+      <styleUrl>#icon-1899-FFEA00</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/LwUhQhT076E</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.5931687,59.9184983,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Снетково</name>
+      <description><![CDATA[Поселок Снетково, в 15 километрах от Приозерска.<br>Облет: https://youtu.be/HV6fW9EfB94<br><br>Цены:<br>Участок на первичке: 40-55 тыр за сотку<br>Участки на вторичке (в деревне): 25-150 тыр за сотку<br><br>Факты:<br>+ электричество разведено<br>+ асфальт до поселка<br>+ хорошее место для коммерческой базы отдыха<br>+ недалеко Ладога<br>- грунтовка в поселке, и, похоже, без основания.<br>- 140км от КАДа<br>- Полюс холода<br>- Комары. В НАЧАЛЕ МАЯ...]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <Point>
+        <coordinates>
+          30.2286834,61.0056901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

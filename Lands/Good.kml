@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Интересные</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>КП Дубровка
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=4G3GHMSBnkw"><img src="https://img.youtube.com/vi/4G3GHMSBnkw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/4G3GHMSBnkw">https://www.youtube.com/embed/4G3GHMSBnkw</a><br><br>Облет: https://youtu.be/4G3GHMSBnkw <br><br>Факты<br>+ Газ<br>+ Асфальт почти до самого поселка (центральная улица Невской дубровки в асфальте, поворот к поселку - нет.)<br>+ Электричество<br>+ Лес Сосновый + Смешаный (береза)<br>+ ЖД платформа (пл 37 км)<br>+ Поселок с полной инфраструктурой<br>- по ЖД ехать 1.5 часа от Финляндского вокзала<br><br>Строятся сами. пока довольно цивильно. недострои есть, но забросов - нет.]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/4G3GHMSBnkw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.9359821,59.8609032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНТ Осинка Г
+</name>
+      <description><![CDATA[Садоводческое некоммерческое товарищество.<br>Участков: 193.<br>Площадь: 22,4 га.<br>Основано: 1998 год.<br><br>ф<br>- Газ <br>- глухой забор (не проехать)<br>- лес сосна-елка, примыкает смешанный и чистая елка<br>- вдоль поселка асфальт, внутри грунт.]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          30.0626807,60.1564799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Мендсары (дер) Г
+</name>
+      <description><![CDATA[ф<br>+ газ по деревне.<br>+ очень холмисто<br>- нет заезда с Сортовалы. единственный заезд через мегу.<br>+ очень асфальтированный поселок. асф в хор состоянии<br>+ гипер "перекресток" на подъезде<br>+ дома средней руки, не дворцы.<br>- ??? вопрос транспортной доступности ???]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          30.3500585,60.139723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Невская дубровка (Дальняя часть)</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=sJmKWV6Lxn0"><img src="https://img.youtube.com/vi/sJmKWV6Lxn0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/sJmKWV6Lxn0">https://www.youtube.com/embed/sJmKWV6Lxn0</a><br><br>Факты:<br>+ Входит в нп. "Невская дубровка"<br>+ Газ<br>+ Асфальт с тротуарами<br>+ ЖД платформа (пл 37 км)<br>+ Поселок с полной инфраструктурой<br>- по ЖД ехать 1.5 часа от Финляндского вокзала<br>- 1.5 км до ЖД платформы<br><br>Очень прилично. участков уже нет, но есть незастроенные. Только под перекуп.]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/sJmKWV6Lxn0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.9294786,59.8669181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Охтинское раздолье 250к/с
+</name>
+      <description><![CDATA[www.land-invest.ru<br><br>ф<br>- дороги асфальт, но без должной подложки, особенно в глубине поселка (2-я и далее очереди видать) у въезда норм.<br>- местами тротуары плиткой выложены<br>- но зарос очень сильно. похоже продажи неочень идут<br>- газ<br>- дома очень кучерявые.<br>- довольно холмисто, можно очень видовой участок подобрать<br>- участки есть точно. уч по 20-30 соток<br>- гастеры шляются<br>- у въезда все зас троено и очень прилично<br>- строятся медленно. чуркобесами.<br>- собака на входе, но открывает всем подряд]]></description>
+      <styleUrl>#icon-1899-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          30.3954858,60.1242122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Тихая Ладога</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=l5e6Mu4twGg"><img src="https://img.youtube.com/vi/l5e6Mu4twGg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/l5e6Mu4twGg">https://www.youtube.com/embed/l5e6Mu4twGg</a><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/l5e6Mu4twGg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          31.0410172,59.9890669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Привольный</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=wD_v5ka1rxk"><img src="https://img.youtube.com/vi/wD_v5ka1rxk/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/wD_v5ka1rxk">https://www.youtube.com/embed/wD_v5ka1rxk</a><br><br>]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/wD_v5ka1rxk</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          31.0452659,59.9856431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

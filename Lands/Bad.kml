@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Не годятся</name>
+    <Style id="icon-1512-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1512-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1512-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1512-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1512-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1898-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1898-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1898-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1898-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1898-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1898-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>СНТ «Романовка» 950-110k
+</name>
+      <description><![CDATA[газа нет, но есть в  соседнем поселке.<br>участков 3 штуки 10,12,13 соток от разных продаванов<br><br>ф<br>- газа нет<br>- дорога до пос - зубодробительная для гуся<br>- в пос - главная зубодробило, ответвления - грунт какой попало.<br>- заселен, пустых участков немного]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.01562,60.0065487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Некий КП Г-Э-
+</name>
+      <description><![CDATA[ф<br>- Газа нет<br>- Эл - нет<br>- отсыпанные дороги<br><br>ни газа, ни света, только калитка на въезде. <br>Чил говорит что это земля Рината. ]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.0512391,59.9886076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>СНП «Северная жемчужина» Г
+</name>
+      <description><![CDATA[на викимапии пишут что земля в аренде и принадлежит военным.<br><br>ф<br>- слабозастроен<br>- почти нет активности по стройке<br>- лет от кустов до сосен, похоже где кусты  -похоже ранее выкорчевывались<br>- дороги широкие<br>- ГАЗ<br>- много до мов без труб, 2 с коротышами. и вроде газом<br>- подъездные дороги не очень<br>- въезд - собага и шлакбаум<br>- въезда два, но дорога до них одна<br>- при въезде на подъездную дорогу стоит знак военная часть проезд запрещен.<br>- полигон]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.0907849,60.1550138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП Зеленый Дол</name>
+      <description><![CDATA[ф<br>- в обном доме замечен коротыш, но не факт что ен газгольдер. в других домах печи и газа не видно. в деревне тоже<br>- дорог нет. то что накатали то и дорога.<br>- подездная дорога так себе.<br>- невысокие холмы. виды возможны.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4023952,60.1136075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачи</name>
+      <description>Дачи в наихудшей ипостаси</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.2334323,60.1732044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Горы" ГЭ асф 140к/с
+]]></name>
+      <description><![CDATA[land-dream.ru<br>з<br>- газ по границе уч., электричество 15 кв<br>- забор, вода - сами и за свой счет.<br>- не продано 5 участков по сайту<br><br>Факты:<br>- газ<br>- электричество разведено.<br>- дороги преимущественно асфальт. главная улица очень широкая. ощущение что это кусок старого шоссе<br>- дома разные дворцы и просто дома<br>- три части поселка отделены. похоже что посрались и отделились.<br>- продается плохо. участки и обочина заросли сильно<br>- в дальнем апендиксе - очень кучерявые дома.<br>- юг сбоку участка, на западе большой холм. солнца вечером не будет<br>- въезд только с сортовалы. причем только из направления в город. туда приходится ехать через разворот у скотного.<br>- на авито объяв нет.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.3616889,60.1408655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>КП</name>
+      <description><![CDATA[Строительство приостановлено.<br><br>ф<br>- как-то все уныло<br>- газ не замечен<br>- дорога грунтовка]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.0573133,59.99962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ТСН "Фаворит"]]></name>
+      <description><![CDATA[47:08:0103001:4748<br>Для ведения гражданами садоводства и огородничества<br>возможно не оформлен<br><br>ф<br>- на самом начальном этапе.<br>- на участке бытовка-дровник в подарок<br>- скорее всего самострой<br>- центральная дорога отсыпана. подъездные - вторичка<br>- грунт глина и песок (в разных местах) после дерна мождет быть и глина и суглинок)<br>- дороги по финалу должны быть широкие, сейчас две машины не разъедутся.<br>- канавы бутофорские. пол метра глубиной<br>- электричества по факту нет. стоит подстанция, столбы, провода, но нет ввода.<br>- лес елка, немного сосны.<br>- участки вроде ничего<br>- подъездная дорога - отсыпанный сов. грунт]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.0403839,60.1588806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5-й Км</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=d6DzPU0s1Yw"><img src="https://img.youtube.com/vi/d6DzPU0s1Yw/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/d6DzPU0s1Yw">https://www.youtube.com/embed/d6DzPU0s1Yw</a><br><br>360 панорама https://photos.app.goo.gl/JfsQDmjMpwVPCYFL9<br>Облет 02.2020: https://youtu.be/d6DzPU0s1Yw  <br><br>Викимапия:<br>- Население поселка 4 чел.(2010, перепись)<br>- поразил вид деревеньки - грязной, бедной и глухой<br>- Редкой красоты место<br>- Болото на сто верст кругом!<br>- Жилых 3 дома<br><br> Факты: - Собаки - Разруха - Подъездная дорога плохо проходима в осенне-весеннюю распутицы (грязевые колеи). - Колтушское ш. сильно перегружено, слегка спасает только то что поворот в поселок близко к городу, но из-за сужения все равно пробка длинная. На въезд в город - пробка постоянная. но она дальше по шоссе тянется.<br>- Газа нет. Хотя рядом и идет магистральный газопровод.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/d6DzPU0s1Yw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.5689032,59.926199,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Морозовка Г-
+</name>
+      <description><![CDATA[ф<br>- Газ не замечен<br>- На въезде первый дом - живут обезьяны]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.0524137,59.9994546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[/] КП Ладожский маяк 130к/с (иногда 100к/с)
+</name>
+      <description><![CDATA[http://ladozhskymayak.city78zn.ru/<br>https://vk.com/lmayak группа продажника<br>Тел. отдела продаж:<br>8 (812) 996 78 78<br>Часы работы отдела продаж: <br>будние дни 10.00 - 19.00, выходные 12.00 - 17.00<br><br>http://47news.ru/articles/96466/?firstpage=1<br>типа земля сельхозка и стротельство незаконно<br><br>заявлено:<br>- Эл от 6,5 до 10,5 кВт (возможно докупить)<br>- благоустроенные внутренние дороги - НЕТ (фахт).<br>- детская площадка<br>- уличное освещение (хз, может и было)<br>- 2 поста охраны круглосуточно. въезд по пропускам - НЕТ (фахт).<br>- видеонаблюдение<br><br>некоторые участки продают со скидкой. рандомно.<br><br>факты:<br>- подход к воде заболочен или илистый. стоят длинные пирсы, пляжа нет и быть не может..<br>- дороги абы какие, порой даже не отсыпаны<br>- эл есть<br>- дороги очень узкие. шириной в грузовик-протиснется<br>- все дома озаборены 2+м<br>- газа не земечено<br>- холодно. очень. -10 гр от городской t]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.0600777,60.072654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Шлак (пустышка)
+</name>
+      <description>есть какая-то дорога, перекрыта шлакбаумом. более нет ничего</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.019968,60.1871667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Манушкино</name>
+      <description><![CDATA[факты:<br>- не смог проехать...<br>- в осенне-весеннюю распутицу дорога слабопроходима.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.7326332,59.8554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[КП "Царева Дача"]]></name>
+      <description><![CDATA[факты:<br>- не смог проехать...<br>- в осенне-весеннюю распутицу дорога слабопроходима.<br><br>http://www.fakt-group.ru/uchastki-v-poselkah/poselok-tsareva-dacha/o-poselke/]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.7362319,59.8683086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Новая Дубровка 500к/с
+</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=0wYztssT_rI"><img src="https://img.youtube.com/vi/0wYztssT_rI/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/0wYztssT_rI">https://www.youtube.com/embed/0wYztssT_rI</a><br><br>Облет: https://youtu.be/0wYztssT_rI <br><br>Факты: <br>+ дороги внутри асфальт, бордюр с заездами и вообще очень круто. правда дороги только там где построены дома <br>+ До поселка, кроме последних 100 метров - асфальт. <br>+ На берегу реки, территория относительно благоустроена (не засрана по крайней мере) <br>+ Место вполне красивое <br>+ Газ<br> - построено 12 домов. жилой только один у самого въезда<br> - в домах разбиты стекла, открыты окна <br>- на юге - вместо домов построены 5-ти этажки <br>- оно явно не продается от слова вообще. <br>- на сайте - нет проданных участков, есть только якобы забронированные. <br><br>С их ценами - не имеет никакого смысла.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/0wYztssT_rI</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.9454206,59.851796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Пески (деревня) Г-
+</name>
+      <description><![CDATA[ф<br>- просто деревня. <br>- восновном дома новые<br>- Газа не замечено,<br>- Э - есть в каком-то виде]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.9325608,59.8258991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[[/] КП "На Ладоге"]]></name>
+      <description><![CDATA[https://zagorod.spb.ru/realty/village/13792273858822817<br>- на загороде пишут что ЭГВК - нет.<br>Возможно продает - ВсевИнвестСтрой<br>https://vk.com/naladoge - вроде неоф группа.<br>пишут что с дорогами не очень, <br>Эл - похоже сам подключаешь. по гос тарифу<br><br>ф<br>- недалеко уже есть вполне песчаный пляж<br>- прибрежка занята отдыхающими сильно.<br>- на юге Ладога-Парк - оренда стеликов для шашлыков]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.0625239,60.0580274,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[/] КП Ближняя пристань</name>
+      <description><![CDATA[http://kokkorevo.com/ - вродже неоф сайт, но похоже не обновляется.<br>Продает вроде как FD-Group<br>абонентка 3000р/мес<br><br>- дороги чуть лучше чем в маяке, тут они хотя бы отсыпаны]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.0586615,60.064774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] Что то мутное на 80-90к/с
+</name>
+      <description>мапия - для семей военных пишет, в обзяве земля пром назначения. мутное место</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.1462939,59.7555022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[X] Дер. Ладожское озеро
+</name>
+      <description><![CDATA[просто деревня в конце дороги жизни<br><br>ф<br>- газа нет, участков мало, уже все застроено новостроем<br>- пляж - забит отдыхающими.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          31.0719661,60.1250378,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Срач у озера</name>
+      <description><![CDATA[<img src="https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/5qkvlf94btvrj6k1runbj1td9c/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqjvkMUjOUUpi0wCBZKlqZ8gqhJZb5AUiLbAiSOYecpZlmvCEQfhdqXTe9R0DgwjFWjaR4HobH2CaOVqFAK4KP2_x_s0BqcpcKxQCIBUv-pxRKogP2pwnfQ93lozJNAEJDtT2nftVLwOYmWeVLBSp_kKB_6ntcUBPiT2hT4bxSuH5Q7gbT315zH2cXe0Px76g36TCNbRxilM3CgyfaDld-sLY3bHg4dLtjj8X5mXb_PZwDS90fv_TdURvyXeQVPXMm-VVHJbwYuHZH4wmOYAMYVM142IQ?session=0&fife" height="200" width="auto" /><br><br>апрель, суббота. холодно.... а народу вагон<br><br><img src="https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/tfu1cqctfih12f2agj3uj8uhfk/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpQkqNgeN0TOWuJV1RZzHG2ntKl3VjGVZ0A7UcOirPcahf2qeJSiOApQZ5ol7P7gvYrJhMQdZpBtHDYZBG4TdmmHsTKI6uazMO4NZcQvSHKbM2s1fRlx7SHAdhYgpnJP-c-5KOlt5MXOQsf9Vpa4jGAhzw_o0vaeyPyzOtPWtj2Mi_bCWnEsf87ZVS1cmtQtnHBJhAiNPR2KqsrnpjL-eIaLvZRbVzoNve1Dfw4V-_wiCRbvAuN5hnXNAshk5NBW4qtqT-Oy2fHCyGE06aMcXt3w0Ekkg?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-14-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/3l0vqqctfdjrgqrp4kjiq7d17k/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrvajWmgVmOgXdCvGcV3FLO5UG0vDkTJHEIcVYzxFcB7T6MDLZA0H7PR-onXio2moBw4KU-quvAMpgfvjBXh85J5Fx48Unz99i7ZGmHL03w6rEB_mp6Kx-iJWm8IogzSizr5f8bPs9dj3Rvuh2SzFy46ofWzbHDotZeBp866dH1m802eNyxJmvtNEPKUr4JK8aSKQthn4ZBvSHWY4xWhf0zneEAmsXI-1YysvXvMfb2iY8EfGx2zhF-YFEzpAzq9hvNYftIn8PiC-E9fVX9upgt0z6NqA?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/5qkvlf94btvrj6k1runbj1td9c/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALqjvkMUjOUUpi0wCBZKlqZ8gqhJZb5AUiLbAiSOYecpZlmvCEQfhdqXTe9R0DgwjFWjaR4HobH2CaOVqFAK4KP2_x_s0BqcpcKxQCIBUv-pxRKogP2pwnfQ93lozJNAEJDtT2nftVLwOYmWeVLBSp_kKB_6ntcUBPiT2hT4bxSuH5Q7gbT315zH2cXe0Px76g36TCNbRxilM3CgyfaDld-sLY3bHg4dLtjj8X5mXb_PZwDS90fv_TdURvyXeQVPXMm-VVHJbwYuHZH4wmOYAMYVM142IQ?session=0&fife https://doc-0o-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/tfu1cqctfih12f2agj3uj8uhfk/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALpQkqNgeN0TOWuJV1RZzHG2ntKl3VjGVZ0A7UcOirPcahf2qeJSiOApQZ5ol7P7gvYrJhMQdZpBtHDYZBG4TdmmHsTKI6uazMO4NZcQvSHKbM2s1fRlx7SHAdhYgpnJP-c-5KOlt5MXOQsf9Vpa4jGAhzw_o0vaeyPyzOtPWtj2Mi_bCWnEsf87ZVS1cmtQtnHBJhAiNPR2KqsrnpjL-eIaLvZRbVzoNve1Dfw4V-_wiCRbvAuN5hnXNAshk5NBW4qtqT-Oy2fHCyGE06aMcXt3w0Ekkg?session=0&fife https://doc-14-3g-mymaps.googleusercontent.com/untrusted/hostedimage/s7jl3u71pe4pdrm6b0lej6bvjo/3l0vqqctfdjrgqrp4kjiq7d17k/1590497460500/q-U2nFb3kbS_vJS8mZku9vca0hLFykiL/13793450522681766061/5AF2TALrvajWmgVmOgXdCvGcV3FLO5UG0vDkTJHEIcVYzxFcB7T6MDLZA0H7PR-onXio2moBw4KU-quvAMpgfvjBXh85J5Fx48Unz99i7ZGmHL03w6rEB_mp6Kx-iJWm8IogzSizr5f8bPs9dj3Rvuh2SzFy46ofWzbHDotZeBp866dH1m802eNyxJmvtNEPKUr4JK8aSKQthn4ZBvSHWY4xWhf0zneEAmsXI-1YysvXvMfb2iY8EfGx2zhF-YFEzpAzq9hvNYftIn8PiC-E9fVX9upgt0z6NqA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.737146,59.9198796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] вояки? 100-120к/с</name>
+      <description>вроде для вояк</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.1456763,59.7443343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[X] Семь ручьев</name>
+      <description><![CDATA[ф<br>- очень соответствует названию - болото с ручьями]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.7205298,59.9146479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] Неведомый самострой</name>
+      <description><![CDATA[ф<br>- прямо у дороги<br>- за первой линией отсыпано метров 5 (H) грунта, под участки похоже.<br>- дорог нет совсем.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.6700167,59.9749502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] КП Уварово</name>
+      <description><![CDATA[Не по нашему карману.<br><br>Факты:<br>- очень бахато - въезд понты под замок<br>- много домов строится, но недостроено.<br>- внутри асфальт хороший, благоустроено<br>- от шоссе до поселка - подубитый асфальт]]></description>
+      <styleUrl>#icon-1512-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          30.7068601,59.9290488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[[Х] ДНП "Светлое" (9-й квартал).]]></name>
+      <description>мутное</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4209006,60.2655845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] КП Всеволожский [Без всего]
+</name>
+      <description><![CDATA[Г-В-К-Э- 7кВт<br>https://zagorod.spb.ru/realty/village/13792273858823900<br>http://vsevsev.ru<br><br>Факты:<br>- Асфальт до поселка<br>- Стоят бетонные столбы, по ним какой-то кабель, скорее оптика.<br>- электричества нет вообще.<br>- дороги - содержимое канавы по плодородке. частично отсыпана строительным мусором.<br>- Газа нет и в помине.<br>- некоторое кол-во полностью построенных домов.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.7344972,60.0213623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[[Х] ДНП "Светлое" (12-й квартал).]]></name>
+      <styleUrl>#icon-1898-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.4354275,60.2628599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] ТХ Шагрово Газ (сдан живут)
+</name>
+      <description><![CDATA[таунхаусы<br>Стоимость таунхаусов - от 2 400 000 рублей до 4 500 000 рублей.: 42 кв.м. - 2 400 000р; 60 кв. м. - 3 300 000р; 90 кв.м. - 4 500 000р.<br>придомовой участок 1-2 сотки. Коммуникации: магистральный газ; электричество от 5 кВт; центральное водоснабжение; канализация; ливневая канализация; выделенная линия (интернет, телефон, цифровое ТВ).<br><br>Факты:<br>- благоустройство территорий отсутствует.<br>- где не дорога - там бурьян]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.66941,59.981851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] Светлое</name>
+      <description>Изначально посёлок создавался организацией Светлое (Светлое место и т.д.) с целью отъёма и вымогательства денежных средств у доверчивого населения.</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4943397,60.2716492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] Солнечная равнина</name>
+      <description>кидалово</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4713455,60.2629528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] Солнечная равнина</name>
+      <description>кидалово</description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.4652515,60.2617926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>[Х] ДНП Рыжики</name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=rgtZb2XhnxU"><img src="https://img.youtube.com/vi/rgtZb2XhnxU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rgtZb2XhnxU">https://www.youtube.com/embed/rgtZb2XhnxU</a><br><br>Газа нет. Эл. - есть. ЖД станция "11км".<br>https://youtu.be/QNjhmYo4-dk<br><br>Cайт посёлка: http://poselokrizhiki.ru/<br><br>Очень депрессивный поселок.<br>- сплошные недострои, мусор, и профнастил.<br>- очень шумно от мурманки.<br>- заезд через заправку BP<br>- выезда в сторону города нет - только через развязку в разметелево.<br><br>Но много свободных участков.<br><br>Болваны их Викимапии:<br>- Выделенная эл. мощность на посёлок - 1Мвт. Т.е. чуть > 2кВт /уч]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/rgtZb2XhnxU</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.6431097,59.8813185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Садоводческий массив "Карьер Мяглово"]]></name>
+      <description><![CDATA[<a href="https://www.youtube.com/watch?v=KNysfBXqRzM"><img src="https://img.youtube.com/vi/KNysfBXqRzM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/KNysfBXqRzM">https://www.youtube.com/embed/KNysfBXqRzM</a><br><br>Севераня часть: https://youtu.be/KNysfBXqRzM<br>Южная часть: https://youtu.be/29envh-i4EM<br><br><a href="https://www.youtube.com/watch?v=29envh-i4EM"><img src="https://img.youtube.com/vi/29envh-i4EM/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/29envh-i4EM">https://www.youtube.com/embed/29envh-i4EM</a>]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://www.youtube.com/embed/KNysfBXqRzM https://www.youtube.com/embed/29envh-i4EM</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          30.6422149,59.8703444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[СНТ "Строитель"]]></name>
+      <styleUrl>#icon-1898-FF5252-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          30.6511101999999,59.882029,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Дачные участки</name>
+      <description><![CDATA[Факты:<br>- Чисто дачи. <br>- Зимой жизни нет<br>- до поселка дорога неплохая, в самом поселке дачный треш.]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.2856657,59.6969111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Кондакопшино</name>
+      <description><![CDATA[Ни стоянки ни подъезда к станции - нет.<br>Да и проход к ней по гати из палет..]]></description>
+      <styleUrl>#icon-1898-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          30.285749,59.6954509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
