@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2020-06-24T06:33:28.433Z</time>
+  <bounds minlat="60.052341900" minlon="28.892461000" maxlat="60.666000200" maxlon="30.639828500"/>
+  <wpt lat="60.109931100" lon="30.529260400">
+    <ele>0.000000</ele>
+    <name>Точка 1</name>
+    <cmt>Точка 1</cmt>
+    <desc>Точка 1</desc>
+  </wpt>
+  <wpt lat="60.143084000" lon="30.595880400">
+    <ele>0.000000</ele>
+    <name>Школьное</name>
+    <cmt>Школьное</cmt>
+    <desc>Школьное</desc>
+  </wpt>
+  <wpt lat="60.133725500" lon="30.551280500">
+    <ele>0.000000</ele>
+    <name>Пруд</name>
+    <cmt>Пруд</cmt>
+    <desc>Пруд</desc>
+  </wpt>
+  <wpt lat="60.201547600" lon="30.563640400">
+    <ele>0.000000</ele>
+    <name>озеро Лайдака</name>
+    <cmt>озеро Лайдака</cmt>
+    <desc>озеро Лайдака</desc>
+  </wpt>
+  <wpt lat="60.217437100" lon="30.569480700">
+    <ele>0.000000</ele>
+    <name>Lassylampi</name>
+    <cmt>Lassylampi</cmt>
+    <desc>Lassylampi</desc>
+  </wpt>
+  <wpt lat="60.252884900" lon="30.572293100">
+    <ele>0.000000</ele>
+    <name>ТунуксенЯрви</name>
+    <cmt>ТунуксенЯрви</cmt>
+    <desc>ТунуксенЯрви</desc>
+  </wpt>
+  <wpt lat="60.239687700" lon="30.519325200">
+    <ele>0.000000</ele>
+    <name>Мадалаярви</name>
+    <cmt>Мадалаярви</cmt>
+    <desc>Мадалаярви</desc>
+  </wpt>
+  <wpt lat="60.253415400" lon="30.549784800">
+    <ele>0.000000</ele>
+    <name>Валкиярви Озеро</name>
+    <cmt>Валкиярви Озеро</cmt>
+    <desc>Валкиярви Озеро</desc>
+  </wpt>
+  <wpt lat="60.339920300" lon="30.520073700">
+    <ele>0.000000</ele>
+    <name>Точка 7</name>
+    <cmt>Точка 7</cmt>
+    <desc>Точка 7</desc>
+  </wpt>
+  <wpt lat="60.062313000" lon="30.639828500">
+    <ele>0.000000</ele>
+    <name>Большое</name>
+    <cmt>Большое</cmt>
+    <desc>Большое</desc>
+  </wpt>
+  <wpt lat="60.052341900" lon="30.616275900">
+    <ele>0.000000</ele>
+    <name>Точка 9</name>
+    <cmt>Точка 9</cmt>
+    <desc>Точка 9</desc>
+  </wpt>
+  <wpt lat="60.209297200" lon="30.182775000">
+    <ele>0.000000</ele>
+    <name>Сарженское</name>
+    <cmt>Сарженское</cmt>
+    <desc>Сарженское</desc>
+  </wpt>
+  <wpt lat="60.203045300" lon="30.135682300">
+    <ele>0.000000</ele>
+    <name>Медное</name>
+    <cmt>Медное</cmt>
+    <desc>Медное</desc>
+  </wpt>
+  <wpt lat="60.378429800" lon="30.464898700">
+    <ele>0.000000</ele>
+    <name>паскояярви озеро</name>
+    <cmt>паскояярви озеро</cmt>
+    <desc>паскояярви озеро</desc>
+  </wpt>
+  <wpt lat="60.388978300" lon="30.455880500">
+    <ele>0.000000</ele>
+    <name>озеро Сиркиярви</name>
+    <cmt>озеро Сиркиярви</cmt>
+    <desc>озеро Сиркиярви</desc>
+  </wpt>
+  <wpt lat="60.375267400" lon="30.439577700">
+    <ele>0.000000</ele>
+    <name>Банное Озеро</name>
+    <cmt>Банное Озеро</cmt>
+    <desc>Банное Озеро</desc>
+  </wpt>
+  <wpt lat="60.380504100" lon="30.257299400">
+    <ele>0.000000</ele>
+    <name>Точка 12</name>
+    <cmt>Точка 12</cmt>
+    <desc>Точка 12</desc>
+  </wpt>
+  <wpt lat="60.487949300" lon="30.355439400">
+    <ele>0.000000</ele>
+    <name>Ветреное</name>
+    <cmt>Ветреное</cmt>
+    <desc>Ветреное</desc>
+  </wpt>
+  <wpt lat="60.537447500" lon="30.352378500">
+    <ele>0.000000</ele>
+    <name>Точка 13</name>
+    <cmt>Точка 13</cmt>
+    <desc>Точка 13</desc>
+  </wpt>
+  <wpt lat="60.533729100" lon="30.353649900">
+    <ele>0.000000</ele>
+    <name>Точка 14</name>
+    <cmt>Точка 14</cmt>
+    <desc>Точка 14</desc>
+  </wpt>
+  <wpt lat="60.532288200" lon="30.356729000">
+    <ele>0.000000</ele>
+    <name>Точка 15</name>
+    <cmt>Точка 15</cmt>
+    <desc>Точка 15</desc>
+  </wpt>
+  <wpt lat="60.525570600" lon="30.327230500">
+    <ele>0.000000</ele>
+    <name>Щучье</name>
+    <cmt>Щучье</cmt>
+    <desc>Щучье</desc>
+  </wpt>
+  <wpt lat="60.504108000" lon="30.358515600">
+    <ele>0.000000</ele>
+    <name>Точка 17</name>
+    <cmt>Точка 17</cmt>
+    <desc>Точка 17</desc>
+  </wpt>
+  <wpt lat="60.458690300" lon="30.452163000">
+    <ele>0.000000</ele>
+    <name>Оленье</name>
+    <cmt>Оленье</cmt>
+    <desc>Оленье</desc>
+  </wpt>
+  <wpt lat="60.476774500" lon="30.428137400">
+    <ele>0.000000</ele>
+    <name>Забытое</name>
+    <cmt>Забытое</cmt>
+    <desc>Забытое</desc>
+  </wpt>
+  <wpt lat="60.482994600" lon="30.411997200">
+    <ele>0.000000</ele>
+    <name>Пулконлампи</name>
+    <cmt>Пулконлампи</cmt>
+    <desc>Пулконлампи</desc>
+  </wpt>
+  <wpt lat="60.504915000" lon="30.416588700">
+    <ele>0.000000</ele>
+    <name>Точка 20</name>
+    <cmt>Точка 20</cmt>
+    <desc>Точка 20</desc>
+  </wpt>
+  <wpt lat="60.517100200" lon="30.472642800">
+    <ele>0.000000</ele>
+    <name>Точка 21</name>
+    <cmt>Точка 21</cmt>
+    <desc>Точка 21</desc>
+  </wpt>
+  <wpt lat="60.514710600" lon="30.477525500">
+    <ele>0.000000</ele>
+    <name>Точка 22</name>
+    <cmt>Точка 22</cmt>
+    <desc>Точка 22</desc>
+  </wpt>
+  <wpt lat="60.550469400" lon="29.271352900">
+    <ele>0.000000</ele>
+    <name>Глубокое</name>
+    <cmt>Глубокое</cmt>
+    <desc>Глубокое</desc>
+  </wpt>
+  <wpt lat="60.666000200" lon="29.063420600">
+    <ele>0.000000</ele>
+    <name>Гавриловское</name>
+    <cmt>Гавриловское</cmt>
+    <desc>Гавриловское</desc>
+  </wpt>
+  <wpt lat="60.616687100" lon="29.026883500">
+    <ele>0.000000</ele>
+    <name>! Чернь</name>
+    <cmt>! Чернь</cmt>
+    <desc>! Чернь</desc>
+  </wpt>
+  <wpt lat="60.602462600" lon="29.044103000">
+    <ele>0.000000</ele>
+    <name>Почтовое</name>
+    <cmt>Почтовое</cmt>
+    <desc>Почтовое</desc>
+  </wpt>
+  <wpt lat="60.621458600" lon="29.098953400">
+    <ele>0.000000</ele>
+    <name>Гачье</name>
+    <cmt>Гачье</cmt>
+    <desc>Гачье</desc>
+  </wpt>
+  <wpt lat="60.306566900" lon="28.892461000">
+    <ele>0.000000</ele>
+    <name>Высокинское</name>
+    <cmt>Высокинское</cmt>
+    <desc>Высокинское</desc>
+  </wpt>
+  <wpt lat="60.290173300" lon="29.036282900">
+    <ele>0.000000</ele>
+    <name>Точка 29</name>
+    <cmt>Точка 29</cmt>
+    <desc>Точка 29</desc>
+  </wpt>
+  <wpt lat="60.261911300" lon="29.075866400">
+    <ele>0.000000</ele>
+    <name>Невское</name>
+    <cmt>Невское</cmt>
+    <desc>Невское</desc>
+  </wpt>
+  <wpt lat="60.260017300" lon="29.126374200">
+    <ele>0.000000</ele>
+    <name>Веселое</name>
+    <cmt>Веселое</cmt>
+    <desc>Веселое</desc>
+  </wpt>
+  <wpt lat="60.261677700" lon="29.141995400">
+    <ele>0.000000</ele>
+    <name>Белянское</name>
+    <cmt>Белянское</cmt>
+    <desc>Белянское</desc>
+  </wpt>
+  <wpt lat="60.235920100" lon="29.149484100">
+    <ele>0.000000</ele>
+    <name>Зеркальное</name>
+    <cmt>Зеркальное</cmt>
+    <desc>Зеркальное</desc>
+  </wpt>
+  <wpt lat="60.234034600" lon="29.119303900">
+    <ele>0.000000</ele>
+    <name>Зеркальное</name>
+    <cmt>Зеркальное</cmt>
+    <desc>Зеркальное</desc>
+  </wpt>
+  <wpt lat="60.219394400" lon="29.148143000">
+    <ele>0.000000</ele>
+    <name>Точка 36</name>
+    <cmt>Точка 36</cmt>
+    <desc>Точка 36</desc>
+  </wpt>
+  <wpt lat="60.215354900" lon="29.161511100">
+    <ele>0.000000</ele>
+    <name>Точка 37</name>
+    <cmt>Точка 37</cmt>
+    <desc>Точка 37</desc>
+  </wpt>
+  <wpt lat="60.214512800" lon="29.140976100">
+    <ele>0.000000</ele>
+    <name>Точка 38</name>
+    <cmt>Точка 38</cmt>
+    <desc>Точка 38</desc>
+  </wpt>
+  <wpt lat="60.205958600" lon="29.129163500">
+    <ele>0.000000</ele>
+    <name>Озеро Плетневое</name>
+    <cmt>Озеро Плетневое</cmt>
+    <desc>Озеро Плетневое</desc>
+  </wpt>
+  <wpt lat="60.197126200" lon="29.163885700">
+    <ele>0.000000</ele>
+    <name>Комонь</name>
+    <cmt>Комонь</cmt>
+    <desc>Комонь</desc>
+  </wpt>
+  <wpt lat="60.202610200" lon="29.179552700">
+    <ele>0.000000</ele>
+    <name>Блесна</name>
+    <cmt>Блесна</cmt>
+    <desc>Блесна</desc>
+  </wpt>
+  <wpt lat="60.206257700" lon="29.189989700">
+    <ele>0.000000</ele>
+    <name>Приветное</name>
+    <cmt>Приветное</cmt>
+    <desc>Приветное</desc>
+  </wpt>
+  <wpt lat="60.292505000" lon="29.347135800">
+    <ele>0.000000</ele>
+    <name>Гладывевское</name>
+    <cmt>Гладывевское</cmt>
+    <desc>Гладывевское</desc>
+  </wpt>
+  <wpt lat="60.286592700" lon="29.384927800">
+    <ele>0.000000</ele>
+    <name>Гладышевское</name>
+    <cmt>Гладышевское</cmt>
+    <desc>Гладышевское</desc>
+  </wpt>
+  <trk>
+    <name>Линия 34</name>
+    <trkseg>
+      <trkpt lat="60.236713700" lon="29.150117100">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.238183700" lon="29.150138500">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.239019800" lon="29.149913200">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.240356500" lon="29.150406800">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.240495000" lon="29.151265100">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.240633400" lon="29.152917300">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.240787800" lon="29.153979500">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.240937000" lon="29.154923600">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="60.240947600" lon="29.156232500">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
