@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2019-08-30T09:11:02.334Z</time>
+  <time>2020-07-24T20:15:52.727Z</time>
   <bounds minlat="41.737568500" minlon="26.836653100" maxlat="68.167046900" maxlon="48.011842500"/>
   <wpt lat="60.199483100" lon="31.667661700">
     <ele>0.000000</ele>
@@ -1030,5 +1030,11 @@
     <name>Палаткоместо</name>
     <cmt>Палаткоместо</cmt>
     <desc>Палаткоместо</desc>
+  </wpt>
+  <wpt lat="68.116061700" lon="33.786808300">
+    <ele>0.000000</ele>
+    <name>Палткоместо (большое с колонками)</name>
+    <cmt>Палткоместо (большое с колонками)</cmt>
+    <desc>Палткоместо (большое с колонками)</desc>
   </wpt>
 </gpx>

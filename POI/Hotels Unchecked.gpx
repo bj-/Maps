@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2019-08-30T09:11:02.269Z</time>
+  <time>2020-07-24T20:15:38.695Z</time>
   <bounds minlat="41.612493000" minlon="20.359782300" maxlat="67.614357300" maxlon="77.592906000"/>
   <wpt lat="54.187752700" lon="37.690285100">
     <ele>0.000000</ele>
@@ -4142,5 +4142,24 @@
     <name>[ ! ] Aviator +* В200 3к PZ 20m</name>
     <cmt>ворота, забор, двор.</cmt>
     <desc>ворота, забор, двор.</desc>
+  </wpt>
+  <wpt lat="44.224948000" lon="40.690785000">
+    <ele>0.000000</ele>
+    <name>ГД &quot;Нахалёнок&quot;  2,2-2,5к PZ ЧС</name>
+    <cmt>Широта: 44.2250°&lt;br&gt;Долгота: 40.6908°</cmt>
+    <desc>Широта: 44.2250°&lt;br&gt;Долгота: 40.6908°</desc>
+  </wpt>
+  <wpt lat="44.225277778" lon="39.903888889">
+    <ele>0.000000</ele>
+    <name>Отель &quot;Гуамка&quot; 2,5-4к</name>
+    <cmt>парковка открытая</cmt>
+    <desc>парковка открытая</desc>
+  </wpt>
+  <wpt lat="49.743396400" lon="45.381153700">
+    <ele>0.000000</ele>
+    <name>ГД МК 0* 2,8к BК PL 20v AC
+</name>
+    <cmt>территория есть, но похоже не закрывается.</cmt>
+    <desc>территория есть, но похоже не закрывается.</desc>
   </wpt>
 </gpx>
